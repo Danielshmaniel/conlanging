@@ -80,40 +80,40 @@ Nasal vowels (an, in, un, en, on)
 }
 ```
 
-| glyph                                                | romanised  | origin                                                                     |
-| ---------------------------------------------------- | ---------- | -------------------------------------------------------------------------- |
-| ![[Logosyllabic writing/Excalidraw/Alphabet/a\|50]]                                           | a          | mouth radical + half an o shape                                            |
-| ![[Logosyllabic writing/Excalidraw/Alphabet/e\|50]]                       | e          | mouth radical + horizontal bar                                             |
-| ![[Logosyllabic writing/Excalidraw/Alphabet/i\|50]]                                           | i          | mouth radical + vertical bar                                               |
-| ![[Logosyllabic writing/Excalidraw/Alphabet/o\|50]]                       | o          | mouth radical + simple o shape                                             |
-| ![[Logosyllabic writing/Excalidraw/Alphabet/u\|50]]                                           | u          | mouth radical + simple u shape                                             |
-| ![[Logosyllabic writing/Excalidraw/Alphabet/an\|50]] | an (etc)   | mouth radical + simple n shape                                             |
-| ![[Logosyllabic writing/Excalidraw/Alphabet/-ya\|50]]                                         | -ya (etc)  | `y` but its mouth radical has a vowel in it                                |
-|                                                      | -yan (etc) |                                                                            |
-| ![[Logosyllabic writing/Excalidraw/Alphabet/b\|50]]                                           | b          | `p` + a voiced-line                                                        |
-| ![[Logosyllabic writing/Excalidraw/Alphabet/ch\|50]]                                          | ch         | ice (`chu`)                                                                |
-| ![[Logosyllabic writing/Excalidraw/Alphabet/d\|50]]                                           | d          | `t` + a voiced-line                                                        |
-| ![[Logosyllabic writing/Excalidraw/Alphabet/f\|50]]                                           | f          | wind radical + arrow                                                       |
-| ![[Logosyllabic writing/Excalidraw/Alphabet/g\|50]]                                           | g          | `k` + a voiced-line                                                        |
-| ![[Logosyllabic writing/Excalidraw/Alphabet/h\|50]]                                           | h          | wind radical                                                               |
-| ![[Logosyllabic writing/Excalidraw/Alphabet/j\|50]]                                           | j          | `ch` + a voiced-line (without the two strokes)                             |
-| ![[Logosyllabic writing/Excalidraw/Alphabet/k\|50]]                                           | k          | fire (`ka`) (also like hiragana ka)                                        |
-| ![[Logosyllabic writing/Excalidraw/Alphabet/ks\|50]]                                          | ks         | plant being cut by a blade                                                 |
-| ![[Logosyllabic writing/Excalidraw/Alphabet/l\|50]]                                           | l          | water radical (`lu`) + two strokes                                         |
-| ![[Logosyllabic writing/Excalidraw/Alphabet/m\|50]]                                           | m          | water radical + mouth radical                                              |
-| ![[Logosyllabic writing/Excalidraw/Alphabet/n\|50]]                                           | n          | `m` + a stroke                                                             |
-| ![[Logosyllabic writing/Excalidraw/Alphabet/p\|50]]                                           | p          | plosive -> explosion (not to be confused with `gon`)                       |
-| ![[Logosyllabic writing/Excalidraw/Alphabet/q\|50]]                                           | q          | horn (`qi`)                                                                |
-| ![[Logosyllabic writing/Excalidraw/Alphabet/r\|50]]                                           | r          | water radical + one stroke                                                 |
-| ![[Logosyllabic writing/Excalidraw/Alphabet/s\|50]]                                           | s          | a snake hissing (`so`)                                                     |
-| ![[Logosyllabic writing/Excalidraw/Alphabet/sh\|50]]                                          | sh         | droplets falling -> the /sh/ sound of rain (not to be confused with `bin`) |
-| ![[Logosyllabic writing/Excalidraw/Alphabet/zh\|50]]                                          | zh         | `sh` + a voiced-line                                                       |
-| ![[Logosyllabic writing/Excalidraw/Alphabet/t\|50]]                                           | t          | hand radical (`te`)                                                        |
-| ![[Logosyllabic writing/Excalidraw/Alphabet/ts\|50]]                                          | ts         | something reduplicated, perhaps tidal waves (think "tsunami")              |
-| ![[Logosyllabic writing/Excalidraw/Alphabet/th\|50]]                                          | th         | wind radical + a stroke                                                    |
-| ![[Logosyllabic writing/Excalidraw/Alphabet/dh\|50]]                                          | dh         | `th` + a voiced-line                                                       |
-| ![[Logosyllabic writing/Excalidraw/Alphabet/v\|50]]                                           | v          | `f` + a voiced-line                                                        |
-| ![[Logosyllabic writing/Excalidraw/Alphabet/w\|50]]                                           | w          | water radical                                                              |
-| ![[Logosyllabic writing/Excalidraw/Alphabet/y\|50]]                                           | y          | star (`ya`), stylised                                                      |
-| ![[Logosyllabic writing/Excalidraw/Alphabet/z\|50]]                                           | z          | `s` + a voiced-line                                                        |
+| glyph                                                         | romanised  | origin                                                                     |
+| ------------------------------------------------------------- | ---------- | -------------------------------------------------------------------------- |
+| ![[a.dark.svg\|50]]                                           | a          | mouth radical + half an o shape                                            |
+| ![[Excalidraw/Alphabet/e.dark.svg\|50]]                       | e          | mouth radical + horizontal bar                                             |
+| ![[i.dark.svg\|50]]                                           | i          | mouth radical + vertical bar                                               |
+| ![[Excalidraw/Alphabet/o.dark.svg\|50]]                       | o          | mouth radical + simple o shape                                             |
+| ![[u.dark.svg\|50]]                                           | u          | mouth radical + simple u shape                                             |
+| ![[Logosyllabic writing/Excalidraw/Alphabet/an.dark.svg\|50]] | an (etc)   | mouth radical + simple n shape                                             |
+| ![[-ya.dark.svg\|50]]                                         | -ya (etc)  | `y` but its mouth radical has a vowel in it                                |
+|                                                               | -yan (etc) |                                                                            |
+| ![[b.dark.svg\|50]]                                           | b          | `p` + a voiced-line                                                        |
+| ![[ch.dark.svg\|50]]                                          | ch         | ice (`chu`)                                                                |
+| ![[d.dark.svg\|50]]                                           | d          | `t` + a voiced-line                                                        |
+| ![[f.dark.svg\|50]]                                           | f          | wind radical + arrow                                                       |
+| ![[g.dark.svg\|50]]                                           | g          | `k` + a voiced-line                                                        |
+| ![[h.dark.svg\|50]]                                           | h          | wind radical                                                               |
+| ![[j.dark.svg\|50]]                                           | j          | `ch` + a voiced-line (without the two strokes)                             |
+| ![[k.dark.svg\|50]]                                           | k          | fire (`ka`) (also like hiragana ka)                                        |
+| ![[ks.dark.svg\|50]]                                          | ks         | plant being cut by a blade                                                 |
+| ![[l.dark.svg\|50]]                                           | l          | water radical (`lu`) + two strokes                                         |
+| ![[m.dark.svg\|50]]                                           | m          | water radical + mouth radical                                              |
+| ![[n.dark.svg\|50]]                                           | n          | `m` + a stroke                                                             |
+| ![[p.dark.svg\|50]]                                           | p          | plosive -> explosion (not to be confused with `gon`)                       |
+| ![[q.dark.svg\|50]]                                           | q          | horn (`qi`)                                                                |
+| ![[r.dark.svg\|50]]                                           | r          | water radical + one stroke                                                 |
+| ![[s.dark.svg\|50]]                                           | s          | a snake hissing (`so`)                                                     |
+| ![[sh.dark.svg\|50]]                                          | sh         | droplets falling -> the /sh/ sound of rain (not to be confused with `bin`) |
+| ![[zh.dark.svg\|50]]                                          | zh         | `sh` + a voiced-line                                                       |
+| ![[t.dark.svg\|50]]                                           | t          | hand radical (`te`)                                                        |
+| ![[ts.dark.svg\|50]]                                          | ts         | something reduplicated, perhaps tidal waves (think "tsunami")              |
+| ![[th.dark.svg\|50]]                                          | th         | wind radical + a stroke                                                    |
+| ![[dh.dark.svg\|50]]                                          | dh         | `th` + a voiced-line                                                       |
+| ![[v.dark.svg\|50]]                                           | v          | `f` + a voiced-line                                                        |
+| ![[w.dark.svg\|50]]                                           | w          | water radical                                                              |
+| ![[y.dark.svg\|50]]                                           | y          | star (`ya`), stylised                                                      |
+| ![[z.dark.svg\|50]]                                           | z          | `s` + a voiced-line                                                        |
 

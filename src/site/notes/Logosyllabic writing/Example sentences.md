@@ -28,7 +28,7 @@
 	`me (agent) him (subj) move (past vrb)`
 
 - Daniel made him move
-	**Danyel-theme thiun** meda dha metan-en'ksun
+	Dan'yel-theme thiun meda dha metan-en'ksun
 	`Daniel-person (agent) him (subj) move (past vrb)`
 
 - hair is like threads
