@@ -82,3 +82,4 @@
 
 - if i go there i die
 	mein dha gogun'on thaho metan-en un, mein dha ksun'qa-en
+	`me (subj) there (to) move (if), me (subj) die (vrb)`
