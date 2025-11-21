@@ -1,0 +1,119 @@
+---
+{"dg-publish":true,"permalink":"/logosyllabic-writing/phonotactics-and-alphabet/"}
+---
+
+#### Consonants:
+b, d, f, g, h, j, k, ks, l, m, n, p, q, r, s, sh, zh, t, ts, th, dh, v, w, y, z (27)
+#### (Extra) Glide consonants:
+by, dy, fy, gy, hy, ky, my, ny, py, sy, ty, vy, zy (13)
+
+27 + 13 = 40
+#### Vowels + Nasals:
+a, i, u, e, o, an, in, un, en, on (10)
+
+40 * 10 =
+Approx. 400 possible syllables, therefore atomic morphemes (incl. grammar words)
+(for comparison, Chinese has 214 total radicals)
+
+Pronunciation origins: imitative and/or from Japanese, Toki Pona and other languages
+## Sound Symbolism Tables acc. to gpt
+
+🌊 VOWELS & NASALS — “Energy / Emotion / Color” Layer
+
+| Vowel | General Feel            | Symbolic Associations                              |     |
+| ----- | ----------------------- | -------------------------------------------------- | --- |
+| a     | open, bright, primal    | warmth, strength, earth, passion, life, simplicity |     |
+| i     | sharp, light, focused   | precision, smallness, intellect, agility, clarity  |     |
+| u     | deep, round, enclosed   | depth, mystery, softness, protection, melancholy   |     |
+| e     | balanced, mid, flexible | neutrality, harmony, fairness, transition          |     |
+| o     | full, resonant, stable  | authority, completeness, power, largeness          |     |
+
+
+
+Nasal vowels (an, in, un, en, on)
+→ Add grounding, continuity, or “inner” quality.
+- an = natural, earthy, bodily
+- in = inner, mental, hidden
+- un = cosmic, mysterious, spiritual
+- en = neutral, connective, process-oriented
+- on = rounded, resonant, communal
+
+
+
+---
+
+⚙️ CONSONANTS — “Action / Texture / Motion” Layer
+
+| Consonant | Articulary Character  | Symbolic Feel                                              |
+| --------- | --------------------- | ---------------------------------------------------------- |
+| b         | voiced, plosive, soft | solidity, weight, reliability, nurturing (like baby, blob) |
+| ch        | hard affricate        | sudden, striking, sharp, transformative                    |
+| d         | voiced, firm          | grounding, decision, certainty, male/strong archetype      |
+| f         | airy, soft fricative  | flow, lightness, fragility, ethereality                    |
+| g         | voiced, guttural      | power, growth, organic strength, groundedness              |
+| h         | breathy, open         | spirit, wind, distance, emptiness, transition              |
+| j         | voiced affricate      | sudden, warm, bright, social, and emotional                |
+| k         | voiceless, hard       | cutting, clarity, separation, control, coldness            |
+| ks        | abrupt cluster        | intensity, ending, closure, destruction, harshness         |
+| l         | liquid                | smoothness, beauty, tenderness, continuity                 |
+| m         | bilabial nasal        | humanness, comfort, home, softness, sustenance             |
+| n         | alveolar nasal        | order, logic, connection, continuity, mental calm          |
+| p         | voiceless, sharp      | light impact, suddenness, freshness, beginnings            |
+| q         | glottal stop          | pause, separation, tension, or hidden power                |
+| r         | liquid                | resonant, rolling, smooth but energetic                    |
+| s         | hiss, high            | precision, sharpness, speed, danger, purity                |
+| t         | clean, crisp          | control, technology, edge, structure, discipline           |
+| ts        | affricate             | small precision, flicking, playful aggression              |
+| th        | airy fricative        | uncertainty, thought, distance, spirituality               |
+| dh        | voiced fricative      | soft warmth, wisdom, and connection                        |
+| v         | voiced, vibrating     | vitality, sensuality, smooth energy, humanness             |
+| w         | bilabial glide        | softness, roundness, warmth, emotion, water                |
+| sh        | soft affricate        | mystery, quiet, secrecy, shadow, comfort                   |
+| zh        | soft voiced sh        | elegance, refinement, subtle power (like vision, leisure)  |
+| y         | palatal glide         | brightness, aspiration, curiosity, youth                   |
+| z         | voiced hiss           | energy, liveliness, buzzing, modernity                     |
+## Sound/Loanword Alphabet
+```handwritten-ink
+{
+	"versionAtEmbed": "0.3.4",
+	"filepath": "Ink/Writing/2025.11.11 - 19.56pm.writing"
+}
+```
+
+| glyph                                                | romanised  | origin                                                                     |
+| ---------------------------------------------------- | ---------- | -------------------------------------------------------------------------- |
+| ![[Logosyllabic writing/Excalidraw/Alphabet/a\|50]]                                           | a          | mouth radical + half an o shape                                            |
+| ![[Logosyllabic writing/Excalidraw/Alphabet/e\|50]]                       | e          | mouth radical + horizontal bar                                             |
+| ![[Logosyllabic writing/Excalidraw/Alphabet/i\|50]]                                           | i          | mouth radical + vertical bar                                               |
+| ![[Logosyllabic writing/Excalidraw/Alphabet/o\|50]]                       | o          | mouth radical + simple o shape                                             |
+| ![[Logosyllabic writing/Excalidraw/Alphabet/u\|50]]                                           | u          | mouth radical + simple u shape                                             |
+| ![[Logosyllabic writing/Excalidraw/Alphabet/an\|50]] | an (etc)   | mouth radical + simple n shape                                             |
+| ![[Logosyllabic writing/Excalidraw/Alphabet/-ya\|50]]                                         | -ya (etc)  | `y` but its mouth radical has a vowel in it                                |
+|                                                      | -yan (etc) |                                                                            |
+| ![[Logosyllabic writing/Excalidraw/Alphabet/b\|50]]                                           | b          | `p` + a voiced-line                                                        |
+| ![[Logosyllabic writing/Excalidraw/Alphabet/ch\|50]]                                          | ch         | ice (`chu`)                                                                |
+| ![[Logosyllabic writing/Excalidraw/Alphabet/d\|50]]                                           | d          | `t` + a voiced-line                                                        |
+| ![[Logosyllabic writing/Excalidraw/Alphabet/f\|50]]                                           | f          | wind radical + arrow                                                       |
+| ![[Logosyllabic writing/Excalidraw/Alphabet/g\|50]]                                           | g          | `k` + a voiced-line                                                        |
+| ![[Logosyllabic writing/Excalidraw/Alphabet/h\|50]]                                           | h          | wind radical                                                               |
+| ![[Logosyllabic writing/Excalidraw/Alphabet/j\|50]]                                           | j          | `ch` + a voiced-line (without the two strokes)                             |
+| ![[Logosyllabic writing/Excalidraw/Alphabet/k\|50]]                                           | k          | fire (`ka`) (also like hiragana ka)                                        |
+| ![[Logosyllabic writing/Excalidraw/Alphabet/ks\|50]]                                          | ks         | plant being cut by a blade                                                 |
+| ![[Logosyllabic writing/Excalidraw/Alphabet/l\|50]]                                           | l          | water radical (`lu`) + two strokes                                         |
+| ![[Logosyllabic writing/Excalidraw/Alphabet/m\|50]]                                           | m          | water radical + mouth radical                                              |
+| ![[Logosyllabic writing/Excalidraw/Alphabet/n\|50]]                                           | n          | `m` + a stroke                                                             |
+| ![[Logosyllabic writing/Excalidraw/Alphabet/p\|50]]                                           | p          | plosive -> explosion (not to be confused with `gon`)                       |
+| ![[Logosyllabic writing/Excalidraw/Alphabet/q\|50]]                                           | q          | horn (`qi`)                                                                |
+| ![[Logosyllabic writing/Excalidraw/Alphabet/r\|50]]                                           | r          | water radical + one stroke                                                 |
+| ![[Logosyllabic writing/Excalidraw/Alphabet/s\|50]]                                           | s          | a snake hissing (`so`)                                                     |
+| ![[Logosyllabic writing/Excalidraw/Alphabet/sh\|50]]                                          | sh         | droplets falling -> the /sh/ sound of rain (not to be confused with `bin`) |
+| ![[Logosyllabic writing/Excalidraw/Alphabet/zh\|50]]                                          | zh         | `sh` + a voiced-line                                                       |
+| ![[Logosyllabic writing/Excalidraw/Alphabet/t\|50]]                                           | t          | hand radical (`te`)                                                        |
+| ![[Logosyllabic writing/Excalidraw/Alphabet/ts\|50]]                                          | ts         | something reduplicated, perhaps tidal waves (think "tsunami")              |
+| ![[Logosyllabic writing/Excalidraw/Alphabet/th\|50]]                                          | th         | wind radical + a stroke                                                    |
+| ![[Logosyllabic writing/Excalidraw/Alphabet/dh\|50]]                                          | dh         | `th` + a voiced-line                                                       |
+| ![[Logosyllabic writing/Excalidraw/Alphabet/v\|50]]                                           | v          | `f` + a voiced-line                                                        |
+| ![[Logosyllabic writing/Excalidraw/Alphabet/w\|50]]                                           | w          | water radical                                                              |
+| ![[Logosyllabic writing/Excalidraw/Alphabet/y\|50]]                                           | y          | star (`ya`), stylised                                                      |
+| ![[Logosyllabic writing/Excalidraw/Alphabet/z\|50]]                                           | z          | `s` + a voiced-line                                                        |
+
