@@ -2,31 +2,41 @@
 {"dg-publish":true,"permalink":"/logosyllabic-writing/phonotactics-and-alphabet/"}
 ---
 
+## Syllable count
 #### Consonants:
 b, d, f, g, h, j, k, ks, l, m, n, p, q, r, s, sh, zh, t, ts, th, dh, v, w, y, z (27)
 #### (Extra) Glide consonants:
 by, dy, fy, gy, hy, ky, my, ny, py, sy, ty, vy, zy (13)
 
+*Total consonants:*
 27 + 13 = 40
-#### Vowels + Nasals:
+#### Vowels + Nasal vowels:
 a, i, u, e, o, an, in, un, en, on (10)
 
-40 * 10 =
-Approx. 400 possible syllables, therefore atomic morphemes (incl. grammar words)
-(for comparison, Chinese has 214 total radicals)
+*Multiply the consonants with the vowels/nasal vowels:*
+40 * 10 = 400
 
-Pronunciation origins: imitative and/or from Japanese, Toki Pona and other languages
-## Sound Symbolism Tables acc. to gpt
+*Subtract the annoying syllables (13: syi, etc)*
+400 - 13 = 397
+
+Approx. 397 possible syllables, therefore atomic morphemes (incl. grammar words)
+(for comparison, Chinese has 214 total radicals)
+## Pronunciation origins
+- imitative (onomatopoeic words)
+- sound symbolism
+  (a priori; consonants and vowels have their own intuitive connotation, as follows)
+- Japanese, Toki Pona, Maltese and other languages
+## Sound Symbolism Tables (acc. to ChatGPT speculation)
 
 🌊 VOWELS & NASALS — “Energy / Emotion / Color” Layer
 
-| Vowel | General Feel            | Symbolic Associations                              |     |
-| ----- | ----------------------- | -------------------------------------------------- | --- |
-| a     | open, bright, primal    | warmth, strength, earth, passion, life, simplicity |     |
-| i     | sharp, light, focused   | precision, smallness, intellect, agility, clarity  |     |
-| u     | deep, round, enclosed   | depth, mystery, softness, protection, melancholy   |     |
-| e     | balanced, mid, flexible | neutrality, harmony, fairness, transition          |     |
-| o     | full, resonant, stable  | authority, completeness, power, largeness          |     |
+| Vowel | General Feel            | Symbolic Associations                              |
+| ----- | ----------------------- | -------------------------------------------------- |
+| a     | open, bright, primal    | warmth, strength, earth, passion, life, simplicity |
+| i     | sharp, light, focused   | precision, smallness, intellect, agility, clarity  |
+| u     | deep, round, enclosed   | depth, mystery, softness, protection, melancholy   |
+| e     | balanced, mid, flexible | neutrality, harmony, fairness, transition          |
+| o     | full, resonant, stable  | authority, completeness, power, largeness          |
 
 
 
@@ -80,7 +90,7 @@ Nasal vowels (an, in, un, en, on)
 }
 ```
 
-| glyph                                                         | romanised  | origin                                                                     |
+| glyph                                                         | romanised  | origin / radical                                                           |
 | ------------------------------------------------------------- | ---------- | -------------------------------------------------------------------------- |
 | ![[a.dark.svg\|50]]                                           | a          | mouth radical + half an o shape                                            |
 | ![[Excalidraw/Alphabet/e.dark.svg\|50]]                       | e          | mouth radical + horizontal bar                                             |
@@ -89,7 +99,7 @@ Nasal vowels (an, in, un, en, on)
 | ![[u.dark.svg\|50]]                                           | u          | mouth radical + simple u shape                                             |
 | ![[Logosyllabic writing/Excalidraw/Alphabet/an.dark.svg\|50]] | an (etc)   | mouth radical + simple n shape                                             |
 | ![[-ya.dark.svg\|50]]                                         | -ya (etc)  | `y` but its mouth radical has a vowel in it                                |
-|                                                               | -yan (etc) |                                                                            |
+| ![[-yan.dark.svg\|50]]                                        | -yan (etc) | `-ya` but the final stroke has a tail (like "2")                           |
 | ![[b.dark.svg\|50]]                                           | b          | `p` + a voiced-line                                                        |
 | ![[ch.dark.svg\|50]]                                          | ch         | ice (`chu`)                                                                |
 | ![[d.dark.svg\|50]]                                           | d          | `t` + a voiced-line                                                        |
