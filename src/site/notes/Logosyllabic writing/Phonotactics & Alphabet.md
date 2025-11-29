@@ -86,7 +86,7 @@ Nasal vowels (an, in, un, en, on)
 ```handwritten-ink
 {
 	"versionAtEmbed": "0.3.4",
-	"filepath": "Ink/Writing/2025.11.11 - 19.56pm.writing"
+	"filepath": "Logosyllabic writing/Ink/Writing/2025.11.11 - 19.56pm.writing"
 }
 ```
 
