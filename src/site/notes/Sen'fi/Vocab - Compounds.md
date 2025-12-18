@@ -428,6 +428,7 @@
 |       | sen'noja      | meaning / definition                | information + word              |
 |       | jashitse      | question                            | word + what + (<-semantic)      |
 |       | ja-un'tse     | condition / context / case          | word + (context) + (<-semantic) |
+|       | sen'hefi      | onomatopoeia                        | writing + sound                 |
 ### Pronouns
 
 | glyph | sound      | meaning     | combo                   |
