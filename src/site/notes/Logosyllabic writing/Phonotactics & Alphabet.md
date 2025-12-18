@@ -26,6 +26,8 @@ Approx. 397 possible syllables, therefore atomic morphemes (incl. grammar words)
 - sound symbolism
   (a priori; consonants and vowels have their own intuitive connotation, as follows)
 - Japanese, Toki Pona, Maltese and other languages
+
+---
 ## Sound Symbolism Tables (acc. to ChatGPT speculation)
 
 🌊 VOWELS & NASALS — “Energy / Emotion / Color” Layer
@@ -38,8 +40,6 @@ Approx. 397 possible syllables, therefore atomic morphemes (incl. grammar words)
 | e     | balanced, mid, flexible | neutrality, harmony, fairness, transition          |
 | o     | full, resonant, stable  | authority, completeness, power, largeness          |
 
-
-
 Nasal vowels (an, in, un, en, on)
 → Add grounding, continuity, or “inner” quality.
 - an = natural, earthy, bodily
@@ -47,8 +47,6 @@ Nasal vowels (an, in, un, en, on)
 - un = cosmic, mysterious, spiritual
 - en = neutral, connective, process-oriented
 - on = rounded, resonant, communal
-
-
 
 ---
 
@@ -82,13 +80,10 @@ Nasal vowels (an, in, un, en, on)
 | zh        | soft voiced sh        | elegance, refinement, subtle power (like vision, leisure)  |
 | y         | palatal glide         | brightness, aspiration, curiosity, youth                   |
 | z         | voiced hiss           | energy, liveliness, buzzing, modernity                     |
+
+
+---
 ## Sound/Loanword Alphabet
-```handwritten-ink
-{
-	"versionAtEmbed": "0.3.4",
-	"filepath": "Logosyllabic writing/Ink/Writing/2025.11.11 - 19.56pm.writing"
-}
-```
 
 | glyph                                                         | romanised  | origin / radical                                                           |
 | ------------------------------------------------------------- | ---------- | -------------------------------------------------------------------------- |
@@ -126,4 +121,8 @@ Nasal vowels (an, in, un, en, on)
 | ![[w.dark.svg\|50]]                                           | w          | water radical                                                              |
 | ![[y.dark.svg\|50]]                                           | y          | star (`ya`), stylised                                                      |
 | ![[z.dark.svg\|50]]                                           | z          | `s` + a voiced-line                                                        |
-
+## Vowel combinations
+- "ei" is pronounced "ey" or "eyi"
+	e.g. `mein` = "meyn" or "meyin"
+- "ou" is pronounced "ow"
+	e.g. `oun` = "own", `toun` = "town"

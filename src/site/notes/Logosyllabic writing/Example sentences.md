@@ -131,3 +131,6 @@
 	hya pi memeon oun'kso un, me thiho-metegoko dha ksu
 	`will (of) them (without) (context), person (from) taking (subj) bad`
 
+- I can do this
+	mein dha gokoin dhen toun metetan-en
+	`me (subj) this (obj) can do (vrb)`
