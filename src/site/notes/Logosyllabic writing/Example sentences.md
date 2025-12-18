@@ -48,8 +48,6 @@
 	meshi dha gokoon dhen metetan-en?!
 	`who (subj) it (obj) do (vrb)?!`
 
-> **NOTE**: By themselves, `thiun` and `dha` are similar but they have a grammatical distinction when working together. Subjects take `dha` by default to mark who did something (`dhen`: optional), but in the case of causative verbs `thiun` marks the agent who did something (`dhen`: optional) to the patient (`dha`) -> so in a way `thiun` acts like a superior `dha`.
-
 - Who are you?
 	meon dha meshi?
 	`you (subj) who ?`
