@@ -22,79 +22,85 @@
 |                                | dagen       | baby boy                  | male + starting (life)   |
 |                                | bugen       | baby girl                 | female + starting (life) |
 |                                | gagen       | animal offspring          | animal + starting (life) |
-| ![[gifu.dark.svg\|70]]         | gifu        | shellfish                 | arthropod + fish         |
+| ![[gifu.dark.svg\|100%]]       | gifu        | shellfish                 | arthropod + fish         |
 |                                | qabin       | microbe                   | life + small             |
-| ![[wanthega.dark.svg\|100]]    | wan'thega   | dog                       |                          |
-| ![[nyathega.dark.svg\|100]]    | nyathega    | cat                       |                          |
-| ![[hihinthega.dark.svg\|110]]  | hihin'thega | horse                     |                          |
-| ![[mothega.dark.svg\|100]]     | mothega     | cow                       |                          |
-| ![[methega.dark.svg\|100]]     | methega     | sheep                     |                          |
-| ![[chuthega.dark.svg\|100]]    | chuthega    | mouse                     |                          |
-| ![[konthega.dark.svg\|100]]    | kon'thega   | fox                       |                          |
-| ![[awothega.dark.svg\|100]]    | awothega    | wolf                      |                          |
-| ![[shitheso.dark.svg\|100]]    | shitheso    | snake                     |                          |
-| ![[ukithega.dark.svg\|100]]    | ukithega    | monkey                    |                          |
-| ![[gaothega.dark.svg\|100]]    | gaothega    | lion                      |                          |
-| ![[paonthega.dark.svg\|100]]   | paonthega   | elephant                  |                          |
-| ![[quququtheri.dark.svg\|120]] | quququtheri | rooster                   |                          |
-| ![[piyotheri.dark.svg\|120]]   | piyotheri   | chick                     |                          |
-| ![[gatheri.dark.svg\|100]]     | gatheri     | duck                      |                          |
-| ![[hotheri.dark.svg\|100]]     | hotheri     | owl                       |                          |
+| ![[wanthega.dark.svg\|100%]]   | wan'thega   | dog                       |                          |
+| ![[nyathega.dark.svg\|100%]]   | nyathega    | cat                       |                          |
+| ![[hihinthega.dark.svg\|100%]] | hihin'thega | horse                     |                          |
+| ![[mothega.dark.svg\|100%]]    | mothega     | cow                       |                          |
+| ![[methega.dark.svg\|100%]]    | methega     | sheep                     |                          |
+| ![[chuthega.dark.svg\|100%]]   | chuthega    | mouse                     |                          |
+| ![[konthega.dark.svg\|100%]]   | kon'thega   | fox                       |                          |
+| ![[awothega.dark.svg\|100%]]   | awothega    | wolf                      |                          |
+| ![[shitheso.dark.svg\|100%]]   | shitheso    | snake                     |                          |
+| ![[ukithega.dark.svg\|100%]]   | ukithega    | monkey                    |                          |
+| ![[gaothega.dark.svg\|100%]]   | gaothega    | lion                      |                          |
+| ![[paonthega.dark.svg\|100%]]  | paonthega   | elephant                  |                          |
+| ![[quququtheri.dark.svg\|100%]] | quququtheri | rooster                   |                          |
+| ![[piyotheri.dark.svg\|100%]]   | piyotheri   | chick                     |                          |
+| ![[gatheri.dark.svg\|100%]]    | gatheri     | duck                      |                          |
+| ![[hotheri.dark.svg\|100%]]    | hotheri     | owl                       |                          |
 ### Body parts
 
 | glyph                       | sound      | meaning                    | combo                        |
 | --------------------------- | ---------- | -------------------------- | ---------------------------- |
-| ![[inma.dark.svg\|70]]      | in'ma      | organ                      | inside + body                |
-| ![[hankama.dark.svg\|70]]   | hankama    | stomach                    | mouth + fire + body          |
-| ![[inno.dark.svg\|70]]      | in'no      | brain / mind               | contents + head              |
-| ![[leno.dark.svg\|70]]      | leno       | head hair                  | thread + head                |
-| ![[banma.dark.svg\|70]]     | ban'ma     | skin                       | border + body                |
-| ![[luma.dark.svg\|70]]      | luma       | blood                      | liquid + body                |
-| ![[lumu.dark.svg\|70]]      | lumu       | milk                       | liquid + mother              |
-| ![[lebanma.dark.svg\|70]]   | leban'ma   | hair                       | thread + skin                |
-| ![[lebanmari.dark.svg\|70]] | leban'mari | feather                    | hair + bird                  |
-| ![[lebanmaga.dark.svg\|70]] | leban'maga | fur                        | hair + animal                |
-| ![[teri.dark.svg\|70]]      | teri       | wing                       | arm + bird                   |
-| ![[qiga.dark.svg\|70]]      | qiga       | (animal) horn / antler     | horn + animal                |
+| ![[inma.dark.svg\|100%]]      | in'ma      | organ                      | inside + body                |
+|                             | gin'han    | stomach                    | abdomen + mouth/eating       |
+|                             | wigin      | breast                     | upper + abdomen              |
+|                             | wogin      | belly / gut                | lower + abdomen              |
+| ![[inno.dark.svg\|100%]]      | in'no      | brain / mind               | contents + head              |
+| ![[leno.dark.svg\|100%]]      | leno       | head hair                  | thread + head                |
+| ![[banma.dark.svg\|100%]]     | ban'ma     | skin                       | border + body                |
+| ![[luma.dark.svg\|100%]]      | luma       | blood                      | liquid + body                |
+| ![[lumu.dark.svg\|100%]]      | lumu       | milk                       | liquid + mother              |
+| ![[lebanma.dark.svg\|100%]]   | leban'ma   | hair                       | thread + skin                |
+| ![[lebanmari.dark.svg\|100%]] | leban'mari | feather                    | hair + bird                  |
+| ![[lebanmaga.dark.svg\|100%]] | leban'maga | fur                        | hair + animal                |
+| ![[teri.dark.svg\|100%]]      | teri       | wing                       | arm + bird                   |
+| ![[qiga.dark.svg\|100%]]      | qiga       | (animal) horn / antler     | horn + animal                |
 |                             | fen'ben    | anus, butt, one's behind   | (two things parted) + behind |
 |                             | ben'ma     | spine, backbone, vertebrae | back + body                  |
+|                             | leden'ma   | bone                       | rod + body                   |
 ### Animal Products
 
 | glyph                  | sound    | meaning    | combo           |
 | ---------------------- | -------- | ---------- | --------------- |
-| ![[legi.dark.svg\|70]] | legi     | silk       | thread + insect |
+| ![[legi.dark.svg\|100%]] | legi     | silk       | thread + insect |
 |                        | bolelegi | spider web | net + silk      |
 ### Elements & Natural materials
 
 | glyph                     | sound     | meaning                     | combo                        |
 | ------------------------- | --------- | --------------------------- | ---------------------------- |
-| ![[hewi.dark.svg\|70]]    | hewi      | sky                         | air (enclosing) + up         |
+| ![[hewi.dark.svg\|100%]]    | hewi      | sky                         | air (enclosing) + up         |
 |                           | hemetan   | wind                        | air + motion                 |
-| ![[kahewi.dark.svg\|70]]  | kahewi    | lightning / energy          | fire + sky                   |
-| ![[luhewi.dark.svg\|70]]  | luhewi    | rain                        | water + sky                  |
-| ![[qiksoya.dark.svg\|70]] | qiksoya   | star                        | sphere + light (stylized)    |
-| ![[qiksogo.dark.svg\|70]] | qiksogo   | planet                      | sphere + earth (stylized)    |
-| ![[mavo.dark.svg\|70]]    | mavo      | wood / log                  | body (metaphorical) + tree   |
-| ![[tevo.dark.svg\|70]]    | tevo      | branch / stick              | arm (metaphorical) + tree    |
+| ![[kahewi.dark.svg\|100%]]  | kahewi    | lightning / energy          | fire + sky                   |
+| ![[luhewi.dark.svg\|100%]]  | luhewi    | rain                        | water + sky                  |
+| ![[qiksoya.dark.svg\|100%]] | qiksoya   | star                        | sphere + light (stylized)    |
+| ![[qiksogo.dark.svg\|100%]] | qiksogo   | planet                      | sphere + earth (stylized)    |
+| ![[mavo.dark.svg\|100%]]    | mavo      | wood / log                  | body (metaphorical) + tree   |
+| ![[tevo.dark.svg\|100%]]    | tevo      | branch / stick              | arm (metaphorical) + tree    |
 |                           | gen'va    | plant roots                 | roots + plant                |
 |                           | gen'vo    | (specifically) tree roots   | roots + tree                 |
 |                           | gen'vi    | (specifically) mycelium     | roots + mushroom             |
-| ![[gogun.dark.svg\|70]]   | gogun     | land                        | earth (stylized) + the earth |
-| ![[lugun.dark.svg\|70]]   | lugun     | sea                         | water + the earth            |
+| ![[gogun.dark.svg\|100%]]   | gogun     | land                        | earth (stylized) + the earth |
+| ![[lugun.dark.svg\|100%]]   | lugun     | sea                         | water + the earth            |
 |                           | lule      | river / stream              | water + linear               |
 |                           | qiva      | thorn                       | spike + plant                |
 |                           | vago      | grass / common earth plants | plant + earth                |
-| ![[ksoya.dark.svg\|70]]   | ksoya     | darkness                    | absence + light (stylised)   |
+| ![[ksoya.dark.svg\|100%]]   | ksoya     | darkness                    | absence + light (stylised)   |
 |                           | hewitsu   | night-sky                   | sky + moon                   |
 |                           | hewiyun   | day-sky                     | sky + sun                    |
 |                           | leden'yun | horizon                     | straight line + sun          |
 |                           | sido      | sand, gravel, clay          | powder + rock                |
 |                           | sichu     | snow                        | powder + frost               |
+|                           | sika      | ash                         | powder + fire                |
+|                           | gin'vo    | trunk / log                 | main body + tree             |
+|                           | gin'va    | stem                        | main body + plant            |
 ### Tools / Man-made objects
 
 | glyph                    | sound        | meaning                                                             | combo                       |
 | ------------------------ | ------------ | ------------------------------------------------------------------- | --------------------------- |
-| ![[leko.dark.svg\|70]]   | leko         | tie / bond / connection / link                                      | thread + togetherness       |
+| ![[leko.dark.svg\|100%]]   | leko         | tie / bond / connection / link                                      | thread + togetherness       |
 |                          | hometan'leko | bridge                                                              | path + link                 |
 |                          | bole         | net                                                                 | group + thread              |
 |                          | bolefu       | fish net                                                            | net + fish                  |
@@ -107,8 +113,8 @@
 |                          | ten'qifin    | arrow                                                               | spear + bow                 |
 |                          | mon'luhewi   | umbrella                                                            | cover + rain                |
 |                          | govava       | farm                                                                | earth + plant + plant       |
-| ![[monhu.dark.svg\|70]]  | mon'hu       | structure / building                                                | roof (stylized) + cave      |
-| ![[han'hu.dark.svg\|70]] | han'hu       | (hole in a hollow object; synonym of "fen"), orifice, entrance/exit | mouth + cave                |
+| ![[monhu.dark.svg\|100%]]  | mon'hu       | structure / building                                                | roof (stylized) + cave      |
+| ![[han'hu.dark.svg\|100%]] | han'hu       | (hole in a hollow object; synonym of "fen"), orifice, entrance/exit | mouth + cave                |
 |                          | ban'fen      | gate, door, etc. (walls which can open and close)                   | wall/close + open           |
 |                          | mon'hugaga   | barn                                                                | structure + animal + animal |
 |                          | mon'humetan  | vehicle                                                             | structure + moving          |
@@ -162,55 +168,55 @@
 |       | (yami)-ksoya  | black / dark   | \[colour] + absence + light |
 ### Concepts
 
-| glyph                        | sound          | meaning                                                                                                  | combo                                                     | note                                                                                                                                                                              |
-| ---------------------------- | -------------- | -------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![[yuntsu.dark.svg\|70]]     | yuntsu         | time                                                                                                     | sun + moon (stylized)                                     |                                                                                                                                                                                   |
-| ![[ksunqa.dark.svg\|70]]     | ksun'qa        | death                                                                                                    | end + life                                                |                                                                                                                                                                                   |
-| ![[goko.dark.svg\|70]]       | goko           | thing                                                                                                    | substance + all                                           | *glyph*: coincidentally looks like 言 (koto)<br>*sound*: coincidentally sounds like "koto" (thing)                                                                                 |
-| ![[mehewi.dark.svg\|70]]     | mehewi         | celestial being / god                                                                                    | person + sky                                              |                                                                                                                                                                                   |
-|                              | mun'hewi       | creator / god                                                                                            | parent + sky                                              |                                                                                                                                                                                   |
-| ![[qahewi.dark.svg\|70]]     | qahewi         | spirit                                                                                                   | life + sky                                                |                                                                                                                                                                                   |
-|                              | gokomiqa       | ghost                                                                                                    | figure + a life                                           |                                                                                                                                                                                   |
-|                              | thitse         | cause / reason                                                                                           | (because) + (<-semantic)                                  |                                                                                                                                                                                   |
-|                              | thatse         | effect                                                                                                   | (therefore) + (<-semantic)                                |                                                                                                                                                                                   |
-|                              | ksonen         | difference / variety                                                                                     | absence + same                                            |                                                                                                                                                                                   |
-|                              | ksun'zhin-(en) | reaching (a goal) / becoming (smth.)                                                                     | end + progressing (the end of progress -> accomplishment) |                                                                                                                                                                                   |
-|                              | zhozhin        | growth, aging                                                                                            | oldness + progressing                                     |                                                                                                                                                                                   |
-|                              | dun'tse        | existence, presence                                                                                      | (situated at) + (<- semantic)                             |                                                                                                                                                                                   |
-|                              | ksotse         | non-existence, absence                                                                                   | null + (<-semantic)                                       |                                                                                                                                                                                   |
-| ![[meqan.dark.svg\|70]]      | meqan          | love                                                                                                     | person (alt.) + heart (joined)                            | *glyph*: a person offering his heart to others -> care (cliche metaphorical etymology, however it is good to know that even ancient Chinese people thought the same about love 愛) |
-| ![[lekome.dark.svg\|70]]     | lekome         | bond between people / relationship                                                                       | link + person                                             |                                                                                                                                                                                   |
-|                              | weko           | perfection / immaculate                                                                                  | good + completely                                         |                                                                                                                                                                                   |
-|                              | wepya          | innocence / cuteness                                                                                     | goodness + child                                          |                                                                                                                                                                                   |
-|                              | jadun'tse      | truth                                                                                                    | speech + existence                                        |                                                                                                                                                                                   |
-|                              | jaksotse       | lie / falsehood                                                                                          | speech + non-existence                                    |                                                                                                                                                                                   |
-|                              | gokoja         | story / tale / one's account                                                                             | thing + speech                                            | Based on Japanese "monogatari" (lit. speech-thing)                                                                                                                                |
-|                              | jaman          | sweet talk / flattering / persuasion                                                                     | speech + pleasant                                         |                                                                                                                                                                                   |
-| ![[shitse.dark.svg\|70]]     | shitse         | confusion / unknown                                                                                      | what + (<-semantic)                                       |                                                                                                                                                                                   |
-| ![[jahya.dark.svg\|70]]      | jahya          | request                                                                                                  | speech + desire                                           |                                                                                                                                                                                   |
-|                              | hometetan      | method / way of doing                                                                                    | way + action                                              |                                                                                                                                                                                   |
-| ![[otsenen.dark.svg\|70]]    | otsenen        | repetition / (again)                                                                                     | addition + same                                           |                                                                                                                                                                                   |
-|                              | dun'ekso(pi)   | insignificance / non-effect / neutrality / regardless of ... / no matter ... / notwithstanding / despite | existing + or + not + \[of]                               |                                                                                                                                                                                   |
-| ![[etse.dark.svg\|70]]       | etse           | alternative / other / choices / different possibilities                                                  | or + (<-semantic)                                         |                                                                                                                                                                                   |
-|                              | hoetse         | opposite side / the other side / the contrary                                                            | side + other                                              |                                                                                                                                                                                   |
-| ![[duntsezhin.dark.svg\|70]] | dun'tsezhin    | potential / possibility / probability                                                                    | existing + not yet                                        |                                                                                                                                                                                   |
-|                              | ksoman         | adversity / trouble / difficulty / discomfort / pain (in general)                                        | absence + comfort                                         |                                                                                                                                                                                   |
-|                              | man'ksu        | vice / addiction / guilty pleasure                                                                       |                                                           |                                                                                                                                                                                   |
-|                              | man'ksushu     | laziness / sloth                                                                                         | vice + idleness                                           |                                                                                                                                                                                   |
-|                              | meqan'man-(en) | to like / to interest oneself in / to fancy / one's interests / one's likes                              | love + pleasure                                           |                                                                                                                                                                                   |
-|                              | hyasen'no      | curiosity                                                                                                | wanting + knowledge                                       |                                                                                                                                                                                   |
-|                              | man'mi         | entertainment                                                                                            | pleasure + seeing                                         |                                                                                                                                                                                   |
-|                              | biman'mi       | boredom                                                                                                  | lack + entertainment                                      |                                                                                                                                                                                   |
-|                              | man'sen'mi     | (visual) art                                                                                             | (entertainment) + depiction                               |                                                                                                                                                                                   |
-|                              | man'hefi       | music                                                                                                    | (entertainment) + sound                                   |                                                                                                                                                                                   |
-|                              | man'sen'ja     | literature / prose / poetry                                                                              | (entertainment) + writing                                 |                                                                                                                                                                                   |
-|                              | nen'zhin       | similar (partially the same)                                                                             | same + almost                                             |                                                                                                                                                                                   |
-|                              | bisen'no       | ignorance                                                                                                | lack + knowledge                                          |                                                                                                                                                                                   |
-|                              | bisen'nopya    | immaturity, naivety, blissful ignorance                                                                  | ignorance + child                                         |                                                                                                                                                                                   |
-|                              | sen'nozho      | maturity, wisdom                                                                                         | knowledge + elder                                         |                                                                                                                                                                                   |
-|                              | tote           | dexterity, skill                                                                                         | ability + hand                                            |                                                                                                                                                                                   |
-|                              | hoja           | language, way of speaking, tongue                                                                        | way + speech                                              |                                                                                                                                                                                   |
-|                              | hojagen        | native language, mother tongue                                                                           | language + original                                       |                                                                                                                                                                                   |
+| glyph                          | sound          | meaning                                                                                                  | combo                                                     | note                                                                                                                                                                              |
+| ------------------------------ | -------------- | -------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![[yuntsu.dark.svg\|100%]]     | yuntsu         | time                                                                                                     | sun + moon (stylized)                                     |                                                                                                                                                                                   |
+| ![[ksunqa.dark.svg\|100%]]     | ksun'qa        | death                                                                                                    | end + life                                                |                                                                                                                                                                                   |
+| ![[goko.dark.svg\|100%]]       | goko           | thing                                                                                                    | substance + all                                           | *glyph*: coincidentally looks like 言 (koto)<br>*sound*: coincidentally sounds like "koto" (thing)                                                                                 |
+| ![[mehewi.dark.svg\|100%]]     | mehewi         | celestial being / god                                                                                    | person + sky                                              |                                                                                                                                                                                   |
+|                                | mun'hewi       | creator / god                                                                                            | parent + sky                                              |                                                                                                                                                                                   |
+| ![[qahewi.dark.svg\|100%]]     | qahewi         | spirit                                                                                                   | life + sky                                                |                                                                                                                                                                                   |
+|                                | gokomiqa       | ghost                                                                                                    | figure + a life                                           |                                                                                                                                                                                   |
+|                                | thitse         | cause / reason                                                                                           | (because) + (<-semantic)                                  |                                                                                                                                                                                   |
+|                                | thatse         | effect                                                                                                   | (therefore) + (<-semantic)                                |                                                                                                                                                                                   |
+|                                | ksonen         | difference / variety                                                                                     | absence + same                                            |                                                                                                                                                                                   |
+|                                | ksun'zhin-(en) | reaching (a goal) / becoming (smth.)                                                                     | end + progressing (the end of progress -> accomplishment) |                                                                                                                                                                                   |
+|                                | zhozhin        | growth, aging                                                                                            | oldness + progressing                                     |                                                                                                                                                                                   |
+|                                | dun'tse        | existence, presence                                                                                      | (situated at) + (<- semantic)                             |                                                                                                                                                                                   |
+|                                | ksotse         | non-existence, absence                                                                                   | null + (<-semantic)                                       |                                                                                                                                                                                   |
+| ![[meqan.dark.svg\|100%]]      | meqan          | love                                                                                                     | person (alt.) + heart (joined)                            | *glyph*: a person offering his heart to others -> care (cliche metaphorical etymology, however it is good to know that even ancient Chinese people thought the same about love 愛) |
+| ![[lekome.dark.svg\|100%]]     | lekome         | bond between people / relationship                                                                       | link + person                                             |                                                                                                                                                                                   |
+|                                | weko           | perfection / immaculate                                                                                  | good + completely                                         |                                                                                                                                                                                   |
+|                                | wepya          | innocence / cuteness                                                                                     | goodness + child                                          |                                                                                                                                                                                   |
+|                                | jadun'tse      | truth                                                                                                    | speech + existence                                        |                                                                                                                                                                                   |
+|                                | jaksotse       | lie / falsehood                                                                                          | speech + non-existence                                    |                                                                                                                                                                                   |
+|                                | gokoja         | story / tale / one's account                                                                             | thing + speech                                            | Based on Japanese "monogatari" (lit. speech-thing)                                                                                                                                |
+|                                | jaman          | sweet talk / flattering / persuasion                                                                     | speech + pleasant                                         |                                                                                                                                                                                   |
+| ![[shitse.dark.svg\|100%]]     | shitse         | confusion / unknown                                                                                      | what + (<-semantic)                                       |                                                                                                                                                                                   |
+| ![[jahya.dark.svg\|100%]]      | jahya          | request                                                                                                  | speech + desire                                           |                                                                                                                                                                                   |
+|                                | hometetan      | method / way of doing                                                                                    | way + action                                              |                                                                                                                                                                                   |
+| ![[otsenen.dark.svg\|100%]]    | otsenen        | repetition / (again)                                                                                     | addition + same                                           |                                                                                                                                                                                   |
+|                                | dun'ekso(pi)   | insignificance / non-effect / neutrality / regardless of ... / no matter ... / notwithstanding / despite | existing + or + not + \[of]                               |                                                                                                                                                                                   |
+| ![[etse.dark.svg\|100%]]       | etse           | alternative / other / choices / different possibilities                                                  | or + (<-semantic)                                         |                                                                                                                                                                                   |
+|                                | hoetse         | opposite side / the other side / the contrary                                                            | side + other                                              |                                                                                                                                                                                   |
+| ![[duntsezhin.dark.svg\|100%]] | dun'tsezhin    | potential / possibility / probability                                                                    | existing + not yet                                        |                                                                                                                                                                                   |
+|                                | ksoman         | adversity / trouble / difficulty / discomfort / pain (in general)                                        | absence + comfort                                         |                                                                                                                                                                                   |
+|                                | man'ksu        | vice / addiction / guilty pleasure                                                                       |                                                           |                                                                                                                                                                                   |
+|                                | man'ksushu     | laziness / sloth                                                                                         | vice + idleness                                           |                                                                                                                                                                                   |
+|                                | meqan'man-(en) | to like / to interest oneself in / to fancy / one's interests / one's likes                              | love + pleasure                                           |                                                                                                                                                                                   |
+|                                | hyasen'no      | curiosity                                                                                                | wanting + knowledge                                       |                                                                                                                                                                                   |
+|                                | man'mi         | entertainment                                                                                            | pleasure + seeing                                         |                                                                                                                                                                                   |
+|                                | biman'mi       | boredom                                                                                                  | lack + entertainment                                      |                                                                                                                                                                                   |
+|                                | man'sen'mi     | (visual) art                                                                                             | (entertainment) + depiction                               |                                                                                                                                                                                   |
+|                                | man'hefi       | music                                                                                                    | (entertainment) + sound                                   |                                                                                                                                                                                   |
+|                                | man'sen'ja     | literature / prose / poetry                                                                              | (entertainment) + writing                                 |                                                                                                                                                                                   |
+|                                | nen'zhin       | similar (partially the same)                                                                             | same + almost                                             |                                                                                                                                                                                   |
+|                                | bisen'no       | ignorance                                                                                                | lack + knowledge                                          |                                                                                                                                                                                   |
+|                                | bisen'nopya    | immaturity, naivety, blissful ignorance                                                                  | ignorance + child                                         |                                                                                                                                                                                   |
+|                                | sen'nozho      | maturity, wisdom                                                                                         | knowledge + elder                                         |                                                                                                                                                                                   |
+|                                | tote           | dexterity, skill                                                                                         | ability + hand                                            |                                                                                                                                                                                   |
+|                                | hoja           | language, way of speaking, tongue                                                                        | way + speech                                              |                                                                                                                                                                                   |
+|                                | hojagen        | native language, mother tongue                                                                           | language + original                                       |                                                                                                                                                                                   |
 
 ### Feelings
 
@@ -218,8 +224,8 @@
 | --------------------------- | ------------- | ------------------------------------ | ------------------------------------- | --- |
 |                             | hemawe        | joy                                  | feeling + good                        |     |
 |                             | hemaksu       | sadness                              | feeling + bad                         |     |
-| ![[hemagabon.dark.svg\|70]] | hema-gabon    | fear                                 | feeling + animal + big (metaphorical) |     |
-| ![[hyaqa.dark.svg\|70]]     | hyaqa         | need                                 | desire + survival                     |     |
+| ![[hemagabon.dark.svg\|100%]] | hema-gabon    | fear                                 | feeling + animal + big (metaphorical) |     |
+| ![[hyaqa.dark.svg\|100%]]     | hyaqa         | need                                 | desire + survival                     |     |
 |                             | hema-dun'ekso | indifference / ignoring / not caring | feeling + neutrality                  |     |
 ### Cognitive concepts
 
@@ -230,7 +236,7 @@
 |                         |                | to reason / reasoning / logic                    |                                        |
 |                         |                | to remember                                      |                                        |
 |                         |                | to forget                                        |                                        |
-| ![[senno.dark.svg\|70]] | sen'no-(en)    | (memory) / knowledge / information / to know     | writing (preserved information) + head |
+| ![[senno.dark.svg\|100%]] | sen'no-(en)    | (memory) / knowledge / information / to know     | writing (preserved information) + head |
 |                         | sen'no-thime() | teaching / informing                             | know + (causative)                     |
 |                         | ho-en          | to decide / to choose / to prefer                | side + (vrb)                           |
 |                         | ho-en'goko     | decision / choice / preference                   | side + (vrb) + thing                   |
@@ -243,10 +249,10 @@
 
 | glyph                      | sound                          | meaning                                                                                                                 | combo                                          | etym. |
 | -------------------------- | ------------------------------ | ----------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------- | ----- |
-| ![[metetan.dark.svg\|70]]  | metetan-(en)                   | to do / action                                                                                                          | person (alt.) + hand (joined) + leg + (vrb)    |       |
-| ![[ksun.dark.svg\|70]]     | ksun-(en)                      | to finish / to end (intransitive)                                                                                       | end + (vrb)                                    |       |
+| ![[metetan.dark.svg\|100%]]  | metetan-(en)                   | to do / action                                                                                                          | person (alt.) + hand (joined) + leg + (vrb)    |       |
+| ![[ksun.dark.svg\|100%]]     | ksun-(en)                      | to finish / to end (intransitive)                                                                                       | end + (vrb)                                    |       |
 |                            | ksun-thime()                   | to finish / to end (transitive)                                                                                         | end + (causative)                              |       |
-| ![[gavahan.dark.svg\|70]]  | gavahan-(en)                   | to eat / food                                                                                                           | animal + plant + mouth + (vrb)                 |       |
+| ![[gavahan.dark.svg\|100%]]  | gavahan-(en)                   | to eat / food                                                                                                           | animal + plant + mouth + (vrb)                 |       |
 |                            | dun-en                         | to be / to exist                                                                                                        | (existence / situated) + (vrb)                 |       |
 |                            | qa-en                          | to live / survive                                                                                                       | life + (vrb)                                   |       |
 |                            | ksun'qa-(en)                   | to die / death                                                                                                          | end + life + (vrb)                             |       |
@@ -254,7 +260,7 @@
 |                            | hemamaki-thime()               | to harm                                                                                                                 | pain + (causative)                             |       |
 |                            | hemamaki-(en)                  | to hurt (intransitive)                                                                                                  | pain + (vrb)                                   |       |
 |                            | ksin'meme-(en)                 | to fight                                                                                                                | sword + people + (vrb)                         |       |
-| ![[metan.dark.svg\|70]]    | metan-(en)                     | to walk / to move / motion                                                                                              | person (alt.) + leg (enclosing) + (vrb)        |       |
+| ![[metan.dark.svg\|100%]]    | metan-(en)                     | to walk / to move / motion                                                                                              | person (alt.) + leg (enclosing) + (vrb)        |       |
 |                            | metan-thime()                  | to move (transitive)                                                                                                    | person + leg + (causative)                     |       |
 |                            | ()thaho-metan-(en)             | to go (somewhere)                                                                                                       |                                                |       |
 |                            | \[()thaho]-metan-on'gogun-(en) | to travel (to somewhere) / travelling (in/transitive)                                                                   | motion + far + (vrb)                           |       |
@@ -266,7 +272,7 @@
 |                            | metan'ten'qifin-thime()        | to shoot something (transitive)                                                                                         | motion + arrow + (causative)                   |       |
 |                            | metegoko-thime()               | to give (to the subj)                                                                                                   | person + hand + thing + (any person causative) |       |
 |                            | metegoko-thime                 | giving                                                                                                                  | have + (causative)                             |       |
-| ![[metegoko.dark.svg\|70]] | metegoko-(en)                  | to have / to carry / posessions                                                                                         | person (alt.) + hand (joined) + thing + (vrb)  |       |
+| ![[metegoko.dark.svg\|100%]] | metegoko-(en)                  | to have / to carry / posessions                                                                                         | person (alt.) + hand (joined) + thing + (vrb)  |       |
 |                            | ()dhen ()thiho-metegoko-(en)   | to take / to get / taking / getting (smth from somewhere/thing/one)                                                     |                                                |       |
 |                            | ()dhen shithiho-metegoko-(en)  | to take / to get / taking / getting (smth)                                                                              |                                                |       |
 |                            | \[()dhen] shithiho-metegoko    | taking / getting / stealing (in general)                                                                                |                                                |       |
@@ -297,7 +303,7 @@
 
 | glyph                   | sound           | meaning         | combo                |
 | ----------------------- | --------------- | --------------- | -------------------- |
-| ![[damun.dark.svg\|70]] | damun           | father / dad    | male (alt.) + parent |
+| ![[damun.dark.svg\|100%]] | damun           | father / dad    | male (alt.) + parent |
 |                         | me-metetanthime | leader / ruler  | person + control     |
 |                         | me-govava       | farmer          | person + farm        |
 |                         | me-mon'hugaga   | animal farmer   | person + barn        |
@@ -309,10 +315,10 @@
 | glyph                   | sound       | meaning                                             | combo                        |
 | ----------------------- | ----------- | --------------------------------------------------- | ---------------------------- |
 |                         | ni-en       | to count / to measure                               | number/measurement + (vrb)   |
-| ![[ninen.dark.svg\|70]] | ninen       | equal                                               | number + same                |
-| ![[nikso.dark.svg\|70]] | nikso       | none / 0                                            | number + not                 |
-| ![[wini.dark.svg\|70]]  | wini        | increase                                            | up + number                  |
-| ![[woni.dark.svg\|70]]  | woni        | decrease                                            | down + number                |
+| ![[ninen.dark.svg\|100%]] | ninen       | equal                                               | number + same                |
+| ![[nikso.dark.svg\|100%]] | nikso       | none / 0                                            | number + not                 |
+| ![[wini.dark.svg\|100%]]  | wini        | increase                                            | up + number                  |
+| ![[woni.dark.svg\|100%]]  | woni        | decrease                                            | down + number                |
 |                         | hobon       | majority / bigger side                              | side + big                   |
 |                         | hobin       | minority / smaller side                             | side + small                 |
 |                         | boko        | maximum                                             | many + (relative to all)     |
@@ -339,8 +345,8 @@
 
 | glyph                    | sound     | meaning                             | combo           |
 | ------------------------ | --------- | ----------------------------------- | --------------- |
-| ![[magoko.dark.svg\|70]] | magoko    | shape / form / outline              | body + thing    |
-| ![[qikso.dark.svg\|70]]  | qikso     | (angleless shape) / circle / sphere | angle + null    |
+| ![[magoko.dark.svg\|100%]] | magoko    | shape / form / outline              | body + thing    |
+| ![[qikso.dark.svg\|100%]]  | qikso     | (angleless shape) / circle / sphere | angle + null    |
 |                          | qimin     | triangle                            | angle + three   |
 |                          | qiyon     | quadrilateral                       | angle + four    |
 |                          | magokofin | arch / curve                        | shape + bow     |
@@ -362,16 +368,21 @@
 |                           | kogo           | solid (not hollow)                      | whole + substance                 |
 |                           | nimagoko       | size                                    | measurement + form                |
 |                           | nigogun'tsa    | distance                                | measurement + land + (redup.)     |
-| ![[ingogun.dark.svg\|70]] | in'gogun to be | near / vicinity                         | inside + land                     |
-| ![[ongogun.dark.svg\|70]] | on'gogun       | far / remote / place beyond (somewhere) | outside + land                    |
+| ![[ingogun.dark.svg\|100%]] | in'gogun to be | near / vicinity                         | inside + land                     |
+| ![[ongogun.dark.svg\|100%]] | on'gogun       | far / remote / place beyond (somewhere) | outside + land                    |
+|                           | hote           | side (left or right)                    | side + hand                       |
 | ![[hohinte.dark.svg\|50]] | hohin'te       | left                                    | side + (first, enclosing) + hand  |
+|                           | hoqan          | left                                    | side + heart                      |
 | ![[hofunte.dark.svg\|50]] | hofun'te       | right                                   | side + (second, enclosing) + hand |
+|                           | hoqan'kso      | right                                   | side + heart + not                |
 |                           | hoyun'wi       | east                                    | side + sun + (rising)             |
 |                           | hoyun'wo       | west                                    | side + sun + (lowering)           |
 |                           | polari-theho   | north                                   | "Polaris" + direction             |
 |                           | oktan-theho    | south                                   | "Octantis" + direction            |
 |                           | ksen-an        | displaced / missing / excluded          | removed + (adj)                   |
 |                           | hometan        | spatial direction / way / passage       | way + movement                    |
+|                           | honon          | front side                              | side + front                      |
+|                           | hoben          | back side                               | side + back                       |
 ### Temporal concepts
 
 | glyph | sound            | meaning                           | combo                      |
@@ -463,7 +474,7 @@
 |                          | thiun                      | (agent marker)                                                      | because + (context)                   |
 |                          | thikso                     | despite / even though                                               | because + not                         |
 |                          | -thigoko                   | (non-human agent causative verb)                                    | because + thing                       |
-| ![[thime.dark.svg\|70]]  | -thime                     | (general causative noun)                                            | because + person (joined)             |
+| ![[thime.dark.svg\|100%]]  | -thime                     | (general causative noun)                                            | because + person (joined)             |
 |                          | -thime(...)                | (any person causative verb)                                         | because + (any person)                |
 |                          | -thime(...)-ksun           | (any person causative verb past tense)                              | because + (any person) + end          |
 |                          | -thime(...)-zhin           | (any person causative verb future tense)                            | because + (any person) + not yet      |
@@ -471,7 +482,7 @@
 |                          | -an'goko                   | -ness, (adjectival noun form)                                       | (adj) + thing                         |
 |                          | -en'kso                    | (negative verb)                                                     | (vrb) + not                           |
 |                          | -en'ksogoko                | (neg. verbal noun form)                                             | (vrb) + not + thing                   |
-| ![[enksun.dark.svg\|70]] | -en'ksun                   | (past tense verb)                                                   | (vrb) + end                           |
+| ![[enksun.dark.svg\|100%]] | -en'ksun                   | (past tense verb)                                                   | (vrb) + end                           |
 |                          | -en'ksun'kso               | (neg. past tense)                                                   | (vrb) + end + not                     |
 |                          | -en'zhin                   | (future tense verb)                                                 | (vrb) + not yet                       |
 |                          | -en'zhin'kso               | (neg. future tense)                                                 | (vrb) + not yet + not                 |
