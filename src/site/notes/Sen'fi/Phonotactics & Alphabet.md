@@ -83,40 +83,40 @@ Nasal vowels (an, in, un, en, on)
 
 | glyph                                             | romanised  | origin / radical                                                           |
 | ------------------------------------------------- | ---------- | -------------------------------------------------------------------------- |
-| ![[a.dark.svg\|100%]]                             | a          | mouth radical + half an o shape                                            |
-| ![[Sen'fi/Excalidraw/Alphabet/e.dark.svg\|100%]]  | e          | mouth radical + horizontal bar                                             |
-| ![[i.dark.svg\|100%]]                             | i          | mouth radical + vertical bar                                               |
-| ![[Sen'fi/Excalidraw/Alphabet/o.dark.svg\|100%]]  | o          | mouth radical + simple o shape                                             |
-| ![[u.dark.svg\|100%]]                             | u          | mouth radical + simple u shape                                             |
-| ![[Sen'fi/Excalidraw/Alphabet/an.dark.svg\|100%]] | an (etc)   | mouth radical + simple n shape                                             |
-| ![[-ya.dark.svg\|100%]]                           | -ya (etc)  | `y` but its mouth radical has a vowel in it                                |
-| ![[-yan.dark.svg\|100%]]                          | -yan (etc) | `-ya` but the final stroke has a tail (like "2")                           |
-| ![[b.dark.svg\|100%]]                             | b          | `p` + a voiced-line                                                        |
-| ![[ch.dark.svg\|100%]]                            | ch         | ice (`chu`)                                                                |
-| ![[d.dark.svg\|100%]]                             | d          | `t` + a voiced-line                                                        |
-| ![[f.dark.svg\|100%]]                             | f          | wind radical + arrow                                                       |
-| ![[g.dark.svg\|100%]]                             | g          | `k` + a voiced-line                                                        |
-| ![[h.dark.svg\|100%]]                             | h          | wind radical                                                               |
-| ![[j.dark.svg\|100%]]                             | j          | `ch` + a voiced-line (without the two strokes)                             |
-| ![[k.dark.svg\|100%]]                             | k          | fire (`ka`) (also like hiragana ka)                                        |
-| ![[ks.dark.svg\|100%]]                            | ks         | plant being cut by a blade                                                 |
-| ![[l.dark.svg\|100%]]                             | l          | water radical (`lu`) + two strokes                                         |
-| ![[m.dark.svg\|100%]]                             | m          | water radical + mouth radical                                              |
-| ![[n.dark.svg\|100%]]                             | n          | `m` + a stroke                                                             |
-| ![[p.dark.svg\|100%]]                             | p          | plosive -> explosion (not to be confused with `gon`)                       |
-| ![[q.dark.svg\|100%]]                             | q          | horn (`qi`)                                                                |
-| ![[r.dark.svg\|100%]]                             | r          | water radical + one stroke                                                 |
-| ![[s.dark.svg\|100%]]                             | s          | a snake hissing (`so`)                                                     |
-| ![[sh.dark.svg\|100%]]                            | sh         | droplets falling -> the /sh/ sound of rain (not to be confused with `bin`) |
-| ![[zh.dark.svg\|100%]]                            | zh         | `sh` + a voiced-line                                                       |
-| ![[t.dark.svg\|100%]]                             | t          | hand radical (`te`)                                                        |
-| ![[ts.dark.svg\|100%]]                            | ts         | something reduplicated, perhaps tidal waves (think "tsunami")              |
-| ![[th.dark.svg\|100%]]                            | th         | wind radical + a stroke                                                    |
-| ![[dh.dark.svg\|100%]]                            | dh         | `th` + a voiced-line                                                       |
-| ![[v.dark.svg\|100%]]                             | v          | `f` + a voiced-line                                                        |
-| ![[w.dark.svg\|100%]]                             | w          | water radical                                                              |
-| ![[y.dark.svg\|100%]]                             | y          | star (`ya`), stylised                                                      |
-| ![[z.dark.svg\|100%]]                             | z          | `s` + a voiced-line                                                        |
+| ![[a.dark.svg\]]                             | a          | mouth radical + half an o shape                                            |
+| ![[Sen'fi/Excalidraw/Alphabet/e.dark.svg\]]  | e          | mouth radical + horizontal bar                                             |
+| ![[i.dark.svg\]]                             | i          | mouth radical + vertical bar                                               |
+| ![[Sen'fi/Excalidraw/Alphabet/o.dark.svg\]]  | o          | mouth radical + simple o shape                                             |
+| ![[u.dark.svg\]]                             | u          | mouth radical + simple u shape                                             |
+| ![[Sen'fi/Excalidraw/Alphabet/an.dark.svg\]] | an (etc)   | mouth radical + simple n shape                                             |
+| ![[-ya.dark.svg\]]                           | -ya (etc)  | `y` but its mouth radical has a vowel in it                                |
+| ![[-yan.dark.svg\]]                          | -yan (etc) | `-ya` but the final stroke has a tail (like "2")                           |
+| ![[b.dark.svg\]]                             | b          | `p` + a voiced-line                                                        |
+| ![[ch.dark.svg\]]                            | ch         | ice (`chu`)                                                                |
+| ![[d.dark.svg\]]                             | d          | `t` + a voiced-line                                                        |
+| ![[f.dark.svg\]]                             | f          | wind radical + arrow                                                       |
+| ![[g.dark.svg\]]                             | g          | `k` + a voiced-line                                                        |
+| ![[h.dark.svg\]]                             | h          | wind radical                                                               |
+| ![[j.dark.svg\]]                             | j          | `ch` + a voiced-line (without the two strokes)                             |
+| ![[k.dark.svg\]]                             | k          | fire (`ka`) (also like hiragana ka)                                        |
+| ![[ks.dark.svg\]]                            | ks         | plant being cut by a blade                                                 |
+| ![[l.dark.svg\]]                             | l          | water radical (`lu`) + two strokes                                         |
+| ![[m.dark.svg\]]                             | m          | water radical + mouth radical                                              |
+| ![[n.dark.svg\]]                             | n          | `m` + a stroke                                                             |
+| ![[p.dark.svg\]]                             | p          | plosive -> explosion (not to be confused with `gon`)                       |
+| ![[q.dark.svg\]]                             | q          | horn (`qi`)                                                                |
+| ![[r.dark.svg\]]                             | r          | water radical + one stroke                                                 |
+| ![[s.dark.svg\]]                             | s          | a snake hissing (`so`)                                                     |
+| ![[sh.dark.svg\]]                            | sh         | droplets falling -> the /sh/ sound of rain (not to be confused with `bin`) |
+| ![[zh.dark.svg\]]                            | zh         | `sh` + a voiced-line                                                       |
+| ![[t.dark.svg\]]                             | t          | hand radical (`te`)                                                        |
+| ![[ts.dark.svg\]]                            | ts         | something reduplicated, perhaps tidal waves (think "tsunami")              |
+| ![[th.dark.svg\]]                            | th         | wind radical + a stroke                                                    |
+| ![[dh.dark.svg\]]                            | dh         | `th` + a voiced-line                                                       |
+| ![[v.dark.svg\]]                             | v          | `f` + a voiced-line                                                        |
+| ![[w.dark.svg\]]                             | w          | water radical                                                              |
+| ![[y.dark.svg\]]                             | y          | star (`ya`), stylised                                                      |
+| ![[z.dark.svg\]]                             | z          | `s` + a voiced-line                                                        |
 ## Vowel combinations
 - "ei" is pronounced "ey" or "eyi"
 	e.g. `mein` = "meyn" or "meyin"
