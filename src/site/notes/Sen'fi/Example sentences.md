@@ -8,7 +8,7 @@
 
 - He gives me the fish
 	meda thu mein wa fu wu in'te-en
-	`him (agent) me (subj) fish (obj) have (vrb)
+	`him (agent) me (subj) fish (obj) have (vrb)`
 
 - I give him the fish
 	mein thu meda wa fu wu in'te-en
