@@ -39,6 +39,7 @@ Approx. 377 possible syllables, therefore atomic morphemes (incl. grammar words)
 | u     | deep, round, enclosed   | depth, mystery, softness, protection, melancholy   |
 | e     | balanced, mid, flexible | neutrality, harmony, fairness, transition          |
 | o     | full, resonant, stable  | authority, completeness, power, largeness          |
+
 Nasal vowels (an, in, un, en, on)
 → Add grounding, continuity, or “inner” quality.
 - an = natural, earthy, bodily
@@ -46,6 +47,7 @@ Nasal vowels (an, in, un, en, on)
 - un = cosmic, mysterious, spiritual
 - en = neutral, connective, process-oriented
 - on = rounded, resonant, communal
+
 #### *⚙️ CONSONANTS — “Action / Texture / Motion” Layer*
 
 | Consonant | Articulary Character  | Symbolic Feel                                              |
