@@ -31,7 +31,7 @@ While I may take inspiration from my first conlang Toki Pona, often dubbed "the 
 - Chinese oracle bone script
 - Hieroglyphics
 - Toki pona, sitelen pona, sitelen telo
-- Blissymbols
+- Esperanto's morpheme-compounding; German
 - General sound symbolism
 - Onomatopoeia
 ### Glyph aesthetic
@@ -48,10 +48,10 @@ While I may take inspiration from my first conlang Toki Pona, often dubbed "the 
 - Wordbuilding is not a concern for now
 	- Etymologies can come from both primitive knowledge and modern scientific knowledge
 - This may come across as lazy but sometimes when a word which is strictly grammatical carries a significant semantic space in its glyph, meaning, and/or sound, for example: 
-	- `o` ("and"), `tse` is used to convert such a word to a noun -> `otse`, meaning "addition".
-	- `e` ("or"), likewise, -> `etse`, meaning "alternative".
-	- `shi` ("what"), likewise, -> `shitse`, meaning "unknown".
-	- `dun` ("on, at"), likewise, -> `duntse`, meaning "existence".
+	- `o` ("and"), the "tse" glyph (refer to [[Sen'fi/Vocab - Atomic Radicals#Grammar\|Grammar section]]) is used to convert such a word to a noun by lengthening its vowel -> `oo`, meaning "addition".
+	- `e` ("or"), likewise, -> `ee`, meaning "alternative".
+	- `shi` ("what"), likewise, -> `shii`, meaning "unknown".
+	- `dun` ("on, at"), likewise, -> `duun`, meaning "existence".
 	This aims to prevent confusing a grammatical particle with a semantic noun. In the conlang which inspired my conlang, Toki Pona, there is controversial minor use of `anu` ("or") to mean "choice"; I aim to mirror this and offer a solution in my equivalent. Controversial "nasin" aside, Toki Pona already has particles which also act as nouns, such as `lon`, meaning either "on, at" or "existence".
 - Despite the previous point, for the sake of convenience sometimes `tse` can be dropped in casual speech and writing, such as `duntsezhin` and `dunzhin`.
 ### Order of nouns and modifiers

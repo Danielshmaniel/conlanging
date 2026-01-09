@@ -4,22 +4,22 @@
 
 ## Syllable count
 #### Consonants:
-b, d, f, g, h, j, k, ks, l, m, n, p, q, r, s, sh, zh, t, ts, th, dh, v, w, y, z (27)
+b, d, f, g, h, j, k, ks, l, m, n, p, q, r, s, sh, zh, t, ts, th, v, w, y, z (26)
 #### (Extra) Glide consonants:
 by, dy, fy, gy, hy, ky, my, ny, py, sy, ty, vy, zy (13)
 
 *Total consonants:*
-27 + 13 = 40
+26 + 13 = 39
 #### Vowels + Nasal vowels:
 a, i, u, e, o, an, in, un, en, on (10)
 
 *Multiply the consonants with the vowels/nasal vowels:*
-40 * 10 = 400
+39 * 10 = 390
 
 *Subtract the annoying syllables (13: syi, etc)*
-400 - 13 = 397
+390 - 13 = 377
 
-Approx. 397 possible syllables, therefore atomic morphemes (incl. grammar words)
+Approx. 377 possible syllables, therefore atomic morphemes (incl. grammar words)
 (for comparison, Chinese has 214 total radicals)
 ## Pronunciation origins
 - imitative (onomatopoeic words)
@@ -69,7 +69,6 @@ Nasal vowels (an, in, un, en, on)
 | t         | clean, crisp          | control, technology, edge, structure, discipline           |
 | ts        | affricate             | small precision, flicking, playful aggression              |
 | th        | airy fricative        | uncertainty, thought, distance, spirituality               |
-| dh        | voiced fricative      | soft warmth, wisdom, and connection                        |
 | v         | voiced, vibrating     | vitality, sensuality, smooth energy, humanness             |
 | w         | bilabial glide        | softness, roundness, warmth, emotion, water                |
 | sh        | soft affricate        | mystery, quiet, secrecy, shadow, comfort                   |
@@ -117,8 +116,13 @@ Nasal vowels (an, in, un, en, on)
 | ![[w.dark.svg\|50]]                             | w          | water radical                                                              |
 | ![[y.dark.svg\|50]]                             | y          | star (`ya`), stylised                                                      |
 | ![[z.dark.svg\|50]]                             | z          | `s` + a voiced-line                                                        |
-## Vowel combinations
-- "ei" is pronounced "ey" or "eyi"
-	e.g. `mein` = "meyn" or "meyin"
+## Vowel combo pronounciations
+- "ei" is pronounced "ey"
+	e.g. `mein` = "meyn"
 - "ou" is pronounced "ow"
-	e.g. `oun` = "own", `toun` = "town"
+	e.g. `oun` = "own"
+- "uu" is pronounced "uw"
+	e.g. `duun` = "duwn"
+	e.g. `juun` = "juwn"
+- `wu` = "wu", "wuh" (w + schwa), or  "w"
+- `thu` = "thu", "thuh" (th + schwa), or "th"
