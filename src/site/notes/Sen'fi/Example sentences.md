@@ -8,7 +8,7 @@
 
 - He gives me the fish
 	meda thu mein wa fu wu in'te-en
-	`him (agent) me (subj) fish (obj) have (vrb)`
+	`him (agent) me (subj) fish (obj) have (vrb)
 
 - I give him the fish
 	mein thu meda wa fu wu in'te-en
@@ -31,8 +31,8 @@
 	`you (subj) who ?`
 
 - In which direction do I go?
-	hometan dun mein wa metan-en un'wa shi?
-	`direction (at) me (subj) go (vrb) (clause subj) what ?`
+	hometan dun mein wa metan un'wa shi?
+	`direction (at) me (subj) go (clause subj) what ?`
 
 - hair is like threads
 	le un, lema wa nen'zhin-an
@@ -91,7 +91,7 @@
 
 - out of all, this fish is the biggest
 	ko pi fu un, fu pi hoin wa bon-an'boko
-	`all (of) fish (context), fish (of) this way (subj) big (the most)`
+	`all (of) fish (context), fish (of) (subj) big (the most)`
 
 - i grew
 	mein wa chen'zho-en'ksun
