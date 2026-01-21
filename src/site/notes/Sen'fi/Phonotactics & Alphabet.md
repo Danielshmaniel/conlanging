@@ -118,7 +118,15 @@ Nasal vowels (an, in, un, en, on)
 | ![[w.dark.svg\|50]]                             | w                            | water radical                                                              |
 | ![[y.dark.svg\|50]]                             | y                            | star (`ya`), stylised                                                      |
 | ![[z.dark.svg\|50]]                             | z                            | `s` + a voiced-line                                                        |
-## Vowel combo pronounciations
+## IMP. Pronounciation irregularities
+The following are official deviations from the sound norm for the sake of easier speech
+### Consonants
+- "n'ks" is pronounced "n'gz" (/gz/ is not in the alphabet)
+	e.g. `en'ksun` = "en'gzun"
+	e.g. `en'ksoun'ksu` = "en'gzown'gzu"
+	e.g. `en'dun'un'ksun` = "en'dun'un'gzun"
+### Vowels
+#### Combos
 - "ei" is pronounced "ey"
 	e.g. `mein` = "meyn"
 - "ou" is pronounced "ow"
@@ -126,5 +134,8 @@ Nasal vowels (an, in, un, en, on)
 - "uu" is pronounced "uw"
 	e.g. `duun` = "duwn"
 	e.g. `juun` = "juwn"
-- `wu` = "wu", "wuh" (w + schwa), or  "w"
-- `thu` = "thu", "thuh" (th + schwa), or "th"
+- "ii" is pronounced "iy"
+	e.g. `thiin` = "thiyn"
+#### Negigible "u"
+- `wu` = "wu", "wuh" (w + schwa), or just "w"
+- `thu` = "thu", "thuh" (th + schwa), or just "th"
