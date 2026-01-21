@@ -264,6 +264,13 @@
 |                              | ksooksu          | do's, things one must do lest trouble follows, duties, responsibilities, obligations, expectations, chores, tasks, roles | absence + troublesome // modelled off of Japanese "nakya dame"                                                                                                                                                         |
 |                              | duun'ksu         | don'ts, things one must avoid lest trouble follows, crimes, sins                                                         | presence + troublesome                                                                                                                                                                                                 |
 |                              | honen            | similar way, similar manner                                                                                              | way + same                                                                                                                                                                                                             |
+|                              | qame             | human life, one's life                                                                                                   | life + person                                                                                                                                                                                                          |
+|                              | juma             | sex, intercourse, fertilisation, copulation, mating, breeding                                                            | unity/mixing + body/flesh                                                                                                                                                                                              |
+|                              | kon'len'qa       | genes                                                                                                                    | thing + continuing + organism                                                                                                                                                                                          |
+|                              | thaaten          | function, role, job, duty, service, responsibility                                                                       | effect + use                                                                                                                                                                                                           |
+|                              | zathii-(en)      | *n.* impact, influence, effect<br>*v.* to affect (transitive)                                                            | force + causative                                                                                                                                                                                                      |
+|                              | zathaa-(en)      | *n.* reaction, response<br>*v.* to respond, to react (to smth)                                                           | force + resultant                                                                                                                                                                                                      |
+|                              | jazathaa-(en)    | reply, verbal response                                                                                                   | speech + response                                                                                                                                                                                                      |
 
 ## Feelings
 
@@ -276,20 +283,20 @@
 |                         | ksun'hya        | satisfaction, satiation, meeting one's needs (*synonym of "man"*) | end + desire         |     |
 ## Cognitive concepts
 
-| glyph                   | sound            | meaning                                         | combo                                  |
-| ----------------------- | ---------------- | ----------------------------------------------- | -------------------------------------- |
-|                         | jano-(en)        | thought<br>to think                             | talk + head + (vrb)                    |
-|                         | mino-(en)        | imagination<br>to imagine                       | sight + head + (vrb)                   |
-|                         |                  | reasoning / logic<br>to reason                  |                                        |
-|                         | thaan'sen'no     | to remember                                     | arrival + (mental) information         |
-|                         | ksen'sen'no-(en) | to forget                                       | missing + information                  |
-| ![[senno.dark.svg\|70]] | sen'no-(en)      | (memory) / knowledge / information<br>to know   | writing (preserved information) + head |
-|                         | eeho-(en)        | to decide, to choose, to prefer                 | semantic "or" + side                   |
-|                         | thaahya          | goal, aim, intention, motive                    | outcome + desired                      |
-| ![[homi.dark.svg\|70]]  | homi             | one's views, perspective, opinion, beliefs      | way/side + seeing                      |
-|                         | hominen-(en)     | agreement, like-mindedness / believing in smth. | opinion + same + (vrb)                 |
-|                         | ksahomi-(en)     | disagreement; (internal:) cognitive dissonance  | conflict + opinion + (vrb)             |
-|                         | tono             | intelligence, smartness                         | ability + head                         |
+| glyph                   | sound            | meaning                                                       | combo                                  |
+| ----------------------- | ---------------- | ------------------------------------------------------------- | -------------------------------------- |
+|                         | jano-(en)        | thought<br>to think                                           | talk + head + (vrb)                    |
+|                         | mino-(en)        | imagination<br>to imagine                                     | sight + head + (vrb)                   |
+|                         |                  | reasoning / logic<br>to reason                                |                                        |
+|                         | thaan'sen'no     | to remember                                                   | arrival + (mental) information         |
+|                         | ksen'sen'no-(en) | to forget                                                     | missing + information                  |
+| ![[senno.dark.svg\|70]] | sen'no-(en)      | (memory) / knowledge / information<br>to know                 | writing (preserved information) + head |
+|                         | eeho-(en)        | to decide, to choose, to prefer                               | semantic "or" + side                   |
+|                         | thaahya          | goal, aim, intention, motive                                  | outcome + desired                      |
+| ![[homi.dark.svg\|70]]  | homi             | one's views, perspective, opinion, beliefs                    | way/side + seeing                      |
+|                         | hominen-(en)     | agreement, like-mindedness / believing in smth.               | opinion + same + (vrb)                 |
+|                         | ksahomi-(en)     | disagreement; (internal:) cognitive dissonance                | conflict + opinion + (vrb)             |
+|                         | tono             | intelligence, smartness                                       | ability + head                         |
 ## Sensory concepts
 
 | glyph                  | sound           | meaning                          | combo                     |
@@ -449,10 +456,10 @@ NOTE: *"en" glyphs are omitted from the glyph column since they're everywhere he
 |                            | metan'wo-(en)        | going down<br>to go down                                                                                                                     | motion + down                   |
 |                            | metan'ksen-(en)      | to leave, to depart                                                                                                                          | motion + missing                |
 |                            | metan'thaan-(en)     | arrival<br>to arrive, to come                                                                                                                | motion + arrival                |
+|                            | on'te-(en)           | giving, handing over, letting go of smth.<br>to give, to hand over, to let go                                                                | outside + hand                  |
 | ![[inte.dark.svg\|70]]     | in'te-(en)           | possessions, inventory<br>to have, to own, to possess / to carry, to hold                                                                    | inside + hand                   |
 |                            | in'tethaan-(en)      | getting, taking, recieving, seizing<br>to get, to take, to recieve                                                                           | have + attain                   |
 | ![[metetan.dark.svg\|70]]  | metetan-(en)         | action<br>to do                                                                                                                              | (person+hand) + leg             |
-|                            | hefiri-(en)          | song<br>to sing                                                                                                                              | sound + bird                    |
 |                            | wini-(en)            | an increase<br>to increase (intransitive)                                                                                                    | up + number                     |
 |                            | woni-(en)            | a decrease<br>to decrease, to dwindle (intransitive)                                                                                         | down + number                   |
 |                            | makon'fin-en         | to bend (intransitive)                                                                                                                       | shape + bow + (vrb)             |
@@ -533,6 +540,7 @@ NOTE: *These are the meanings of causative verbal nouns (`methi` and `yin'thi`pr
 
 | glyph                    | sound          | meaning                                                                                                    | combo                      |
 | ------------------------ | -------------- | ---------------------------------------------------------------------------------------------------------- | -------------------------- |
+|                          | un'shi         | (question marker; makes the preceding sentence/clause a question)                                          | (context) + what           |
 |                          | un'wa          | (turns the preceding clause into the subject), e.g. ...ing ... is                                          | (context) + (subj)         |
 |                          | un'wu          | (makes the preceding clause an object)                                                                     | (context) + (obj)          |
 |                          | pithuwa        | (relative self-agent clause), that, which, who ...s oneself<br>*(s.agt) pithuwa (vrb) un'wa ...*           | of + (self-agent)          |

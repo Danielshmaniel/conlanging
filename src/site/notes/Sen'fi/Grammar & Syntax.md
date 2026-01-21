@@ -39,6 +39,7 @@ Particles are postpositions, meaning they go after the word that they mark e.g.
 | *thikso*             | anti-reason clause (despite)                             |
 | *tha*                | effect clause (works in tandem with reason clause `thi`) |
 | *tho*                | quotation                                                |
+| *pithu ... un'wa*    | relative clause of an agent                              |
 | *piwa ... un'wa*     | relative clause of a subject                             |
 | *piwu ... un'wa*     | relative clause of an object                             |
 | extra: *piun ... un* | relative clause of an adverbial                          |
@@ -48,11 +49,18 @@ Particles are postpositions, meaning they go after the word that they mark e.g.
 In a noun phrase, adjectives go *after* nouns, requiring `pe` after the noun and `an` after each adjective. Within `pe`, a chain of `an` suffixes is used to list adjectives describing one noun. e.g.:
 
 >`fu pe bon-an yamigo-an` means "a/the big brown fish"
-## `pe`'s range
+## pe's range
 NB: `pe` only modifies the immediate noun preceding it, not the whole noun chain. So:
 
 >`fu pi mein pe we-an` does not mean "my good fish", it means "the fish of good me"
 >therefore `fu pi (mein pe we-an)` not `(fu pi mein) pe we-an`
+## Adjectives as past participles
+Normally adjectives describe the quality of something, however if you replace the `en` in a verb root with `an` you describe what was done to something. Additional suffixes may be used as well.
+
+> e.g. `mi-en` meaning "to see", turns into `mi-an` meaning "seen"
+> a suffix such as `tokso` can be added: `mi-an'tokso` meaning "cannot be seen"
+
+Note: when you want to give a whole relative clause instead of just an adjectival past participle, use `pithu` (agent), `piwa` (active) or `piwu` (passive).
 ## Suffixes
 ### Negative
 `-an'kso` = not (adj.)
@@ -145,14 +153,15 @@ The infinitive or present tense, used for
 |          | Affirmative | Negative   |
 | -------- | ----------- | ---------- |
 | verb: mi | `mien`      | `mien'kso` |
+| meaning  | see         | not see    |
 ## Continuous
 `-en'len`
 A type of present tense used for currently ongoing actions
 
-|           | Affirmative  | Negative         |
-| --------- | ------------ | ---------------- |
-| verb: mi  | `mien'len`   | `mien'len'kso`   |
-
+|          | Affirmative | Negative       |
+| -------- | ----------- | -------------- |
+| verb: mi | `mien'len`  | `mien'len'kso` |
+| meaning  | seeing      | not seeing     |
 ## Imperative
 `-en'hya`
 Used for commanding or requesting from the listener
@@ -160,7 +169,7 @@ Used for commanding or requesting from the listener
 |          | Affirmative | Negative      |
 | -------- | ----------- | ------------- |
 | verb: mi | `mien'hya`  | `mien'hyakso` |
-
+| meaning  | look!       | don't look!   |
 ## Potential
 `en'to`
 Used for declaring one's ability to do something
@@ -168,14 +177,18 @@ Used for declaring one's ability to do something
 |          | Affirmative | Negative     |
 | -------- | ----------- | ------------ |
 | verb: mi | `mien'to`   | `mien'tokso` |
+| meaning  | can see     | cannot see   |
 ## Obligatory
 `en-ksoun'ksu`
 Used for actions people must do (to avoid trouble); duties, obligations
-
 ### Negative obligatory form
 `en-dun'un'ksu`
 Used for actions people must NOT do
 
+|          | Affirmative      | Negative          |
+| -------- | ---------------- | ----------------- |
+| verb: mi | `mien'ksoun'ksu` | `mien'dun'un'ksu` |
+| meaning  | must see         | must not see      |
 ## Past
 `-en'ksun`
 Used for finished actions
@@ -183,6 +196,7 @@ Used for finished actions
 |          | Affirmative | Negative        |
 | -------- | ----------- | --------------- |
 | verb: mi | `mien'ksun` | `mien'ksun'kso` |
+| meaning  | saw         | didn't see      |
 ## Future
 `-en'zhin`
 Used for actions yet to be started
@@ -190,6 +204,7 @@ Used for actions yet to be started
 |          | Affirmative | Negative        |
 | -------- | ----------- | --------------- |
 | verb: mi | `mien'zhin` | `mien'zhin'kso` |
+| meaning  | will see    | will not see    |
 # Causative verbs
 ## Normal causatives
  `thu` marks the agent

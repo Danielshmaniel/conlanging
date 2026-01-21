@@ -7,12 +7,12 @@
 	`me (subj) fish (obj) eat (vrb)`
 
 - He gives me the fish
-	meda thu mein wa fu wu in'te-en
-	`him (agent) me (subj) fish (obj) have (vrb)
+	meda wa mein than fu wu on'te-en
+	`him (subj) me (dest) fish (obj) give (vrb)`
 
 - I give him the fish
-	mein thu meda wa fu wu in'te-en
-	`me (agent) him (subj) fish (obj) have (vrb)`
+	mein wa meda than fu wu on'te-en
+	`me (subj) him (dest) fish (obj) give (vrb)`
 
 - I made him move
 	mein thu meda wa metan-en'ksun
