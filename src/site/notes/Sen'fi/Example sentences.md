@@ -6,11 +6,9 @@
 	mein wa fu wu gavahan-en
 	`me (subj) fish (obj) eat (vrb)`
 
-
 - He gives me the fish
 	meda wa mein than fu wu on'te-en
 	`him (subj) me (dest) fish (obj) give (vrb)`
-
 
 - I give him the fish
 	mein wa meda than fu wu on'te-en
@@ -40,7 +38,7 @@
 	le un, lema wa nen'zhin-an
 	`thread (context), hair (subj) similar (adj)`
 	lema wa nen'zhin pi le
-	`hair (subj) similar thing (of) thread
+	`hair (subj) similar thing (of) thread`
 
 - you look like him
 	meon wa minen pi meda
