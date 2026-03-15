@@ -6,9 +6,11 @@
 	mein wa fu wu gavahan-en
 	`me (subj) fish (obj) eat (vrb)`
 
+
 - He gives me the fish
 	meda wa mein than fu wu on'te-en
 	`him (subj) me (dest) fish (obj) give (vrb)`
+
 
 - I give him the fish
 	mein wa meda than fu wu on'te-en
