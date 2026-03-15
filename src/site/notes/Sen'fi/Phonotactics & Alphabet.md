@@ -136,6 +136,6 @@ The following are official deviations from the sound norm for the sake of easier
 	e.g. `ju-un` = "juwn"
 - "ii" is pronounced "iy"
 	e.g. `thiin` = "thiyn"
-#### Negigible "u"
+#### Negigible "u"; as in Japanese "des(u)"
 - `wu` = "wu", "wuh" (w + schwa), or just "w"
 - `thu` = "thu", "thuh" (th + schwa), or just "th"
