@@ -238,7 +238,7 @@ i.e. an agent has their own agent
 i.e. doing something to oneself; being one's own agent and patient
 
 >*AGENT* thuwa *VERB*
->`meda thu'wa ksun'qa-en'ksun`
+>`meda thuwa ksun'qa-en'ksun`
 >because of `meda`, `meda` died
 >`meda` killed oneself
 
