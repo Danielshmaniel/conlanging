@@ -34,18 +34,18 @@ Particles are postpositions, meaning they go after the word that they mark e.g.
 | *thin*                | point of origin/comparison (from / than) |
 | *than*                | destination (to / for)                   |
 
-| Clause marker     | marks a:                                                 |
-| ----------------- | -------------------------------------------------------- |
-| *un*              | context clause, adverbial, "if" statement                |
-| *thi*             | reason clause (because)                                  |
-| *thikso*          | anti-reason clause (despite)                             |
-| *tha*             | effect clause (works in tandem with reason clause `thi`) |
-| *tho*             | quotation                                                |
-| *the*             | foreign phrase written in the alphabet script            |
-| *pithu ... un'wa* | relative clause of an agent                              |
-| *piwa ... un'wa*  | relative clause of a subject                             |
-| *piwu ... un'wa*  | relative clause of an object                             |
-| *piun ... un*     | relative clause of an adverbial                          |
+| Clause marker        | marks a:                                                                                                               |
+| -------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| *un*                 | context clause, adverbial, "if" statement                                                                              |
+| *thi*                | reason clause (because)                                                                                                |
+| *thikso*             | anti-reason clause (despite)                                                                                           |
+| *tha*                | effect clause (works in tandem with reason clause `thi`)                                                               |
+| *tho*                | quotation                                                                                                              |
+| *the*                | foreign phrase written in the alphabet script                                                                          |
+| *pithu ... un'wa*    | relative clause of an agent<br>e.g.: `me pithu meda wa ksun'qa-en'ksun un'wa X` means "the person who killed him is X" |
+| *piwa ... un'wa*     | relative clause of a subject<br>e.g.: `me piwa lugun wu meqan un'wa meda` means "the person who loves the sea is him"  |
+| *piwu ... un'wa*     | relative clause of an object<br>e.g.: `fu piwu gavahan-en'ksun un'wa we-an` means "the fish which was eaten is good"   |
+| extra: *piun ... un* | relative clause of an adverbial<br>e.g.: `yuntsu-piun X un, Y` means "when X, Y"                                       |
 
 
 | Special particle | Function                                                                                                                                                                                                                                                                                                                                                                                                                                                               |

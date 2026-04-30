@@ -106,7 +106,7 @@
 	`me (subj) there (to) move (if), me (subj) die (vrb)`
 
 - the man who died eating a fish told people that he loves fish
-	da piwa fu wu gavahan-en un ksun'qa-en'ksun wa, me than ja-en'ksun tho "mein wa fu wu meqan-en"
+	da piwa fu wu gavahan-en un ksun'qa-en'ksun un'wa, me than ja-en'ksun tho "mein wa fu wu meqan-en"
 	`man (who) fish (obj) eat (vrb) die (past vrb) (subj), people (to) tell (past vrb) (quote") me (subj) fish (obj) love (vrb)`
 
 - the fish was eaten
