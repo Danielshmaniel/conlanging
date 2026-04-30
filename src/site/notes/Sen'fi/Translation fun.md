@@ -2,9 +2,11 @@
 {"dg-publish":true,"permalink":"/sen-fi/translation-fun/"}
 ---
 
+### What's this note?
 The following note is just me having fun with the ever-growing vocabulary and trying to translate Touhou titles and things.
-
-BTW, i put a tiny bit of touhou references in my words, such as "ban" (boundary), "fen" (gap) and "chen" (CHEEEEN)
+### Touhou easter eggs in my conlang
+BTW, i put a tiny bit of touhou references in my words, such as `ban` (boundary), `fen` (gap) and `chen` (CHEEEEN). Interestingly, `non` (word for mask/face) sounds like the Japanese theatric art Noh which Kokoro performs.
+### Touhou title translations
 
 | English Title                 | Sen'fi Translation                | Note                                                                                                      |
 | ----------------------------- | --------------------------------- | --------------------------------------------------------------------------------------------------------- |
