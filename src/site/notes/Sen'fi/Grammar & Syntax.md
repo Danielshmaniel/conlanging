@@ -20,13 +20,13 @@ Particles are postpositions, meaning they go after the word that they mark e.g.
 | *wu*           | object     |
 | *en*           | verb       |
 
-| Noun descriptor | marks:                                                                                             |
-| --------------- | -------------------------------------------------------------------------------------------------- |
-| *pi*            | the noun possessed; possession (of)                                                                |
-| *pin*           | the noun chain possessed; acts *forwards* - like an "of" but with a wider range (aka. nested `pi`) |
-| *pe*            | the immediate noun being described; the start of an adjective chain                                |
-| *pen*           | the noun chain being described; acts *backwards* - like `pe` but it describes whole noun chains    |
-| *an*            | an adjective (-y, -ish, -like)                                                                     |
+| Noun descriptor                                | marks:                                                                                             |
+| ---------------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| *pi*                                           | the noun possessed; possession (of)                                                                |
+| *pin*                                          | the noun chain possessed; acts *forwards* - like an "of" but with a wider range (aka. nested `pi`) |
+| *pe*                                           | the immediate noun being described; the start of an adjective chain                                |
+| *pen*                                          | the noun chain being described; acts *backwards* - like `pe` but it describes whole noun chains    |
+| *an*                                           | an adjective (-y, -ish, -like)                                                                     |
 
 | Spatial postposition | marks the:                               |
 | -------------------- | ---------------------------------------- |
@@ -34,18 +34,23 @@ Particles are postpositions, meaning they go after the word that they mark e.g.
 | *thin*                | point of origin/comparison (from / than) |
 | *than*                | destination (to / for)                   |
 
-| Clause marker        | marks a:                                                 |
-| -------------------- | -------------------------------------------------------- |
-| *un*                 | context clause, adverbial, "if" statement                |
-| *thi*                | reason clause (because)                                  |
-| *thikso*             | anti-reason clause (despite)                             |
-| *tha*                | effect clause (works in tandem with reason clause `thi`) |
-| *tho*                | quotation                                                |
-| *the*                | foreign phrase written in the alphabet script            |
-| *pithu ... un'wa*    | relative clause of an agent                              |
-| *piwa ... un'wa*     | relative clause of a subject                             |
-| *piwu ... un'wa*     | relative clause of an object                             |
-| extra: *piun ... un* | relative clause of an adverbial                          |
+| Clause marker     | marks a:                                                 |
+| ----------------- | -------------------------------------------------------- |
+| *un*              | context clause, adverbial, "if" statement                |
+| *thi*             | reason clause (because)                                  |
+| *thikso*          | anti-reason clause (despite)                             |
+| *tha*             | effect clause (works in tandem with reason clause `thi`) |
+| *tho*             | quotation                                                |
+| *the*             | foreign phrase written in the alphabet script            |
+| *pithu ... un'wa* | relative clause of an agent                              |
+| *piwa ... un'wa*  | relative clause of a subject                             |
+| *piwu ... un'wa*  | relative clause of an object                             |
+| *piun ... un*     | relative clause of an adverbial                          |
+
+
+| Special particle | Function                                                                                                                                                                                                                                                                                                                                                                 |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| *tse* (silent)   | Does not give a sound by itself, it only appears as a glyph preceding another glyph. Its purpose is to lengthen the preceding syllable; like「－」 in Japanese or the silent letters "għ/h" in Maltese. This gives a new semantic meaning to the preceding glyph as well, transforming it into a noun.<br>e.g.: `shi` (what) + *tse* = `shii` (confusion, unknown, mystery) |
 
 # Adjectives
 
