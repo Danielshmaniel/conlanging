@@ -14,7 +14,7 @@ BTW, i put a tiny bit of touhou references in my words, such as `ban` (boundary)
 | Perfect Cherry Blossom        | vafen the cherasus pe weko        | "cerasus" is the genus name in latin for cherry blossom                                                   |
 | Immaterial and Missing Power  | to pe he-an ksen-an               |                                                                                                           |
 | Imperishable Night            | yun'tsu-tsu pe ksoksun            | night-time of no end                                                                                      |
-| Phantasmagoria of Flower View | len'sen'mi pin mi-en'kon pi vafen | succession of pictures of flower-viewing                                                                  |
+| Phantasmagoria of Flower View | len'kon'mi pin mi-en'kon pi vafen | series of images, of flower-viewing                                                                       |
 | Shoot the Bullet              | qifin wa metan'qifin-en           | lit. the projectile gets projected                                                                        |
 | Mountain of Faith             | gon pi hominen                    |                                                                                                           |
 | Scarlet Weather Rhapsody      | man'hefi pi hemahewi pe yamika    | music of the skies' red mood                                                                              |
