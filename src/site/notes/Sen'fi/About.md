@@ -10,7 +10,17 @@ Prototype name *Sen'fi*; where `sen` lit. means writing or glyphs and `fi` means
 Longer name: *Hojasen'fi* (~ the language of glyphs and sounds -> the language of equal sounds and meanings)
 ### Overview
 Welcome to SEN'FI, a passion project of mine to make an artlang (conlang made for aesthetic purposes) restricted to having **as many meanings as it has syllables**, written like Sitelen Pona and Kanji. Glyphs are intuitive and pictographic/ideographic, basing most of their etymology on **old Chinese scripts**. Sounds are **symbolic, onomatopoeic and/or loanwords**. Vocabulary is mostly **compounds** of said core logosyllables; and aims to be **as non-ambiguous as possible** unlike Toki Pona.
-
+### Fast-travel via yukari's gaps
+- #### Vocab
+	- [[Sen'fi/Vocab - Atomic Radicals\|Atomic Radicals]]
+	- [[Sen'fi/Vocab - Compounds\|Compounds]]
+	- [[Sen'fi/Vocab - Phrases\|Phrases]]
+- #### Language rules
+	- [[Sen'fi/Phonotactics & Alphabet\|Phonotactics & Alphabet]]
+	- [[Sen'fi/Grammar & Syntax\|Grammar & Syntax]]
+- #### Applying the language
+	- [[Sen'fi/Example sentences\|Example sentences]]
+	- [[Sen'fi/Translation fun\|Translation fun]]
 ---
 ### Objective
 ##### LOGOSYLLABIC
