@@ -41,6 +41,7 @@ Particles are postpositions, meaning they go after the word that they mark e.g.
 | *thikso*             | anti-reason clause (despite)                             |
 | *tha*                | effect clause (works in tandem with reason clause `thi`) |
 | *tho*                | quotation                                                |
+| *the*                | foreign phrase written in the alphabet script            |
 | *pithu ... un'wa*    | relative clause of an agent                              |
 | *piwa ... un'wa*     | relative clause of a subject                             |
 | *piwu ... un'wa*     | relative clause of an object                             |
