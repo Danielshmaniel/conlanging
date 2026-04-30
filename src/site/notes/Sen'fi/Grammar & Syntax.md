@@ -48,9 +48,9 @@ Particles are postpositions, meaning they go after the word that they mark e.g.
 | *piun ... un*     | relative clause of an adverbial                          |
 
 
-| Special particle | Function                                                                                                                                                                                                                                                                                                                                                                 |
-| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| *tse* (silent)   | Does not give a sound by itself, it only appears as a glyph preceding another glyph. Its purpose is to lengthen the preceding syllable; like「ー」 in Japanese or the silent letters "għ/h" in Maltese. This gives a new semantic meaning to the preceding glyph as well, transforming it into a noun.<br>e.g.: `shi` (what) + *tse* = `shii` (confusion, unknown, mystery) |
+| Special particle | Function                                                                                                                                                                                                                                                                                                                                                                       |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| *tse* (silent)   | Does not give a sound by itself, it only appears as a glyph preceding another glyph. Its purpose is to lengthen the preceding syllable/vowel; like「ー」 in Japanese or the silent letters "għ/h" in Maltese. This gives a new semantic meaning to the preceding glyph as well, transforming it into a noun.<br>e.g.: `shi` (what) + *tse* = `shii` (confusion, unknown, mystery) |
 
 # Adjectives
 
