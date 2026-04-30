@@ -237,7 +237,7 @@ i.e. an agent has their own agent
 ## Self-causatives
 i.e. doing something to oneself; being one's own agent and patient
 
->*AGENT* thu'wa *VERB*
+>*AGENT* thuwa *VERB*
 >`meda thu'wa ksun'qa-en'ksun`
 >because of `meda`, `meda` died
 >`meda` killed oneself
