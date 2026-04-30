@@ -98,7 +98,14 @@ To show possession or composition you use `pi`. You start with the "head noun", 
 >`fu pe we-an pi mein` means "my good fish"
 >`((fu pi mu) pi mein)` means "the fish of my mother"
 >`fu pi (meon o mein)` means "my and your fish"
+## pi vs pin
+`pin` is used like `pi` when a whole noun chain needs to be possessed by a noun. Example:
 
+>Correct use of `pin`:
+>`len'sen'mi pin (mi-en'kon pi vafen)` means "phantasmagoria of flower-viewing"
+
+>If `pi` was used instead:
+>`(len'sen'mi pi mi-en'kon) pi vafen` would mean "viewing-phantasmagoria of flower"
 # Plurality
 By default, words are singular (unless quantified already)
 > e.g. `me` means "person"
