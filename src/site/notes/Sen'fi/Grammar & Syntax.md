@@ -24,6 +24,7 @@ Particles are postpositions, meaning they go after the word that they mark e.g.
 | --------------- | --------------------------------------------------------- |
 | *pi*            | the noun possessed; possession (of)                       |
 | *pe*            | the noun being described; the start of an adjective chain |
+| *pen*           | "pe" but preceding whole noun chains                      |
 | *an*            | an adjective (-y, -ish, -like)                            |
 
 | Spatial postposition | marks the:                               |
@@ -45,15 +46,23 @@ Particles are postpositions, meaning they go after the word that they mark e.g.
 | extra: *piun ... un* | relative clause of an adverbial                          |
 
 # Adjectives
+
 ## Adjective chains
 In a noun phrase, adjectives go *after* nouns, requiring `pe` after the noun and `an` after each adjective. Within `pe`, a chain of `an` suffixes is used to list adjectives describing one noun. e.g.:
 
->`fu pe bon-an yamigo-an` means "a/the big brown fish"
-## pe's range
-NB: `pe` only modifies the immediate noun preceding it, not the whole noun chain. So:
+>`fu pe bon-an yamigo-an` means "big brown fish"
+## Lone adjectives
+If an adjective chain is composed of only one adjective, "an" may be omitted. e.g.:
+
+>`fu pe bon` means "big fish"
+## pe vs. pen
+`pe` only modifies the immediate noun preceding it, not the whole noun chain. So:
 
 >`fu pi mein pe we-an` does not mean "my good fish", it means "the fish of good me"
 >therefore `fu pi (mein pe we-an)` not `(fu pi mein) pe we-an`
+
+In order to describe a whole noun chain we use `pen`:
+> `(fu pi mein) pen we-an`
 ## Adjectives as past participles
 Normally adjectives describe the quality of something, however if you replace the `en` in a verb root with `an` you describe what was done to something. Additional suffixes may be used as well.
 
