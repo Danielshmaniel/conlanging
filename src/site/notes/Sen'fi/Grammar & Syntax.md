@@ -25,7 +25,7 @@ Particles are postpositions, meaning they go after the word that they mark e.g.
 | *pi*            | the noun possessed; possession (of)                                                                |
 | *pin*           | the noun chain possessed; acts *forwards* - like an "of" but with a wider range (aka. nested `pi`) |
 | *pe*            | the immediate noun being described; the start of an adjective chain                                |
-| *pen*           | the noun chain being described; acts *backwards* - like `pe` but it precedes whole noun chains     |
+| *pen*           | the noun chain being described; acts *backwards* - like `pe` but it describes whole noun chains    |
 | *an*            | an adjective (-y, -ish, -like)                                                                     |
 
 | Spatial postposition | marks the:                               |
