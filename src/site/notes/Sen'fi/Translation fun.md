@@ -18,7 +18,7 @@ BTW, i put a tiny bit of touhou references in my words, such as "ban" (boundary)
 | Scarlet Weather Rhapsody      | man'hefi pi hemahewi pe yamika    |                                                                                                           |
 | Subterranean Animism          | hominen pi qa dun wogo            | belief in spirits in the underground                                                                      |
 | Unidentified Fantastic Object | kon pe mino-an shii-an            |                                                                                                           |
-| Double Spoiler                | me pi fen-en'kon pe nifun         | the second exposer (as in exposing someone in journalism/photography; assuming that "spoiler" means that) |
+| Double Spoiler                | me pi fen-en'kon pen nifun        | the second exposer (as in exposing someone in journalism/photography; assuming that "spoiler" means that) |
 | Great Fairy Wars              | ksa pe bon pi me-ziyami           |                                                                                                           |
 | Ten Desires                   | hya pe jun                        |                                                                                                           |
 | Hopeless Masquerade           | mime pi ban'non pen ksohyalen     | mask party of no hope                                                                                     |
