@@ -10,18 +10,18 @@ BTW, i put a tiny bit of touhou references in my words, such as `ban` (boundary)
 
 | English Title                 | Sen'fi Translation                | Note                                                                                                      |
 | ----------------------------- | --------------------------------- | --------------------------------------------------------------------------------------------------------- |
-| Embodiment of Scarlet Devil   | chen'kon'mi pi qaksan pe yamika   |                                                                                                           |
+| Embodiment of Scarlet Devil   | chen'kon'mi pi qaksan pe yamiluma |                                                                                                           |
 | Perfect Cherry Blossom        | vafen the cherasus pe weko        | "cerasus" is the genus name in latin for cherry blossom                                                   |
 | Immaterial and Missing Power  | to pe he-an ksen-an               |                                                                                                           |
 | Imperishable Night            | yun'tsu-tsu pe ksoksun            | night-time of no end                                                                                      |
 | Phantasmagoria of Flower View | len'kon'mi pin mi-en'kon pi vafen | series of images, of flower-viewing                                                                       |
 | Shoot the Bullet              | qifin wa metan'qifin-en           | lit. the projectile gets projected                                                                        |
 | Mountain of Faith             | gon pi hominen                    |                                                                                                           |
-| Scarlet Weather Rhapsody      | man'hefi pi hemahewi pe yamika    | music of the skies' red mood                                                                              |
+| Scarlet Weather Rhapsody      | man'hefi pi hemahewi pe yamiluma  | music of the skies' red mood                                                                              |
 | Subterranean Animism          | hominen pi qa dun wogo            | belief in spirits in the underground                                                                      |
 | Unidentified Fantastic Object | kon pe mino-an shii-an            |                                                                                                           |
 | Double Spoiler                | me pi fen-en'kon pen nifun        | the second exposer (as in exposing someone in journalism/photography; assuming that "spoiler" means that) |
-| Great Fairy Wars              | ksa pe bon pi me-ziyami           |                                                                                                           |
+| Great Fairy Wars              | ksabon'tso pi me-ziyami           | the big battles of butterfly-people                                                                       |
 | Ten Desires                   | hya pe jun                        |                                                                                                           |
 | Hopeless Masquerade           | mime pi ban'non pen ksohyalen     | mask meeting/party of no hope                                                                             |
 | Double Dealing Character      | me pi duun pe fun                 | person of two realities (assuming that the title refers to the one who manipulates the mirror reality)    |
