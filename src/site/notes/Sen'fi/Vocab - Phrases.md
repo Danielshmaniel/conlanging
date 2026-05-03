@@ -15,7 +15,7 @@
 | metan'ksen'we               | farewell, goodbye, adios                                           | departure + good                           |
 | weqa (wu in'te-en'hya)      | take care, salutations                                             | health + \[have!]                          |
 | (meon wa) we-an un'shi?     | how are you?<br>are you doing okay?                                | \[you (subj)] + okay + or what             |
-| (meon wa) hoshi un duun-en? | how are you?<br>how do you do?<br>how are you doing?<br>what's up? | \[you (subj)] + in what way (context) + be |
+| (meon wa) shiho un duun-en? | how are you?<br>how do you do?<br>how are you doing?<br>what's up? | \[you (subj)] + in what way (context) + be |
 ## Please, Thanks, Sorry
 
 | phrase              | meaning                      | combo                        |
