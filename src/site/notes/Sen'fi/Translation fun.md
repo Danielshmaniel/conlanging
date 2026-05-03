@@ -50,4 +50,4 @@ BTW, i put a tiny bit of touhou references in my words, such as `ban` (boundary)
 | Palace of the Earth Spirits       | monhuba pi qa-go               |                              |
 | Old Hell                          | huksan pe zho                  | horror-pit of old            |
 | Spring Path                       | hometan pi yuntsuva            |                              |
-| Shining Needle Castle             | ban... pi qidon pe ya...       |                              |
+| Shining Needle Castle             | ban... pi qidon pe ...ya       |                              |
