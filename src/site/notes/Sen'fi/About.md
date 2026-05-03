@@ -12,7 +12,7 @@
 or **Sen'fi** for short.
 ### Overview
 Welcome to SEN'FI, a passion project of mine to make an artlang (conlang made for aesthetic purposes) restricted to having **as many meanings as it has syllables**, written like Sitelen Pona and Kanji. Glyphs are intuitive and pictographic/ideographic, basing most of their etymology on **old Chinese scripts**. Sounds are **symbolic, onomatopoeic and/or loanwords**. Vocabulary is mostly **compounds** of said core logosyllables; and aims to be **as non-ambiguous as possible** unlike Toki Pona.
-### Fast-travel via yukari's gaps
+### Fast-travel via Yukari's gaps
 - #### Vocab
 	- [[Sen'fi/Vocab - Atomic Radicals\|Atomic Radicals]]
 	- [[Sen'fi/Vocab - Compounds\|Compounds]]
