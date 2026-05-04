@@ -43,11 +43,13 @@ While I may take inspiration from my first conlang Toki Pona, often dubbed "the 
 ### Take inspiration from
 - Japanese kanji
 - Chinese oracle bone script
-- Hieroglyphics
+- Hieroglyphics, Runes
 - Toki pona, sitelen pona, sitelen telo
 - Esperanto's morpheme-compounding; German
 - General sound symbolism
 - Onomatopoeia
+### Phonology
+This may disappoint my fellow conlang nerds but for the time being the language is not concerned with precise IPA notation for my vowels and consonants. For now, assume the phonetic inventory is the same as Maltese and English combined ("q" is a guttoral stop, vowels are pronounced like Maltese). Look at [[Sen'fi/Phonotactics & Alphabet\|Phonotactics & Alphabet]] for more information.
 ### Glyph aesthetic
 - Angular and/or curvy, hieroglyphic / oracle bone script (so radicals should be mostly pictograms), kanji-like in structure.
 - Words can be written either like kanji / Hangeul formations (stacking symbols onto each other, read from left to right downwards), or as plain successive symbols without stacking, or a mix of both(?).
@@ -67,12 +69,11 @@ While I may take inspiration from my first conlang Toki Pona, often dubbed "the 
 	- `shi` ("what"), likewise, -> `shii`, meaning "unknown".
 	- `dun` ("on, at"), likewise, -> `duun`, meaning "existence".
 	This aims to prevent confusing a grammatical particle with a semantic noun. In the conlang which inspired my conlang, Toki Pona, there is controversial minor use of `anu` ("or") to mean "choice"; I aim to mirror this and offer a solution in my equivalent. Controversial "nasin" aside, Toki Pona already has particles which also act as nouns, such as `lon`, meaning either "on, at" or "existence".
-- Despite the previous point, for the sake of convenience sometimes `tse` can be dropped in casual speech and writing, such as `duntsezhin` and `dunzhin`.
-### Order of nouns and modifiers
+### Etymological noun and modifier
 - Toki Pona head nouns: e.g. "wing" is "arm of bird" not "bird arm"
-- Non-toki pona; kanji-like constructions (sometimes) e.g. "person + leg" means "movement", not "person of leg"
+- In some cases compounds aren't to be understood in the order like the one before. These are non-toki pona and kanji-like constructions e.g. "person + leg" means "movement", not "person of leg". This inconsistency may be corrected someday.
 ### Plurality
 - Monosyllabic words such as `me` are pluralised by reduplication: `meme`
-- However for convenience of speech and writing, reduplication is replaced with `tsa` or `tso`.
+- However for faster speech and writing, reduplication in polysyllabic words is replaced with `tsa` or `tso`.
 	- `tsa` pluralises a subword within a compound word
 	- `tso` pluralises the whole word

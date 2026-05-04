@@ -28,26 +28,26 @@ BTW, i put a tiny bit of touhou references in my words, such as `ban` (boundary)
 | Double Dealing Character      | me pi duun pe fun               | person of two realities (assuming that the title refers to the one who manipulates the mirror reality)    |
 ### Touhou place names
 
-| Name                              | Sen'fi Translation             | Note                         |
-| --------------------------------- | ------------------------------ | ---------------------------- |
-| Gensokyo<br>lit. Land of Fantasy  | gun pi mino                    |                              |
-| Human Village                     | bomonhu pi me                  |                              |
-| Hakurei Shrine                    | monhu-munhewi the Hakure       | god house of Hakurei         |
-| Moriya Shrine                     | monhu-munhewi the Moriya       |                              |
-| Scarlet Devil Mansion             | monhuba pi qaksan pe yamiluma  |                              |
-| Misty Lake                        | malu pe helu                   |                              |
-| Youkai Mountain                   | gon pi qahewi                  | mountain of (sky) spirits    |
-| Great Fairy Treehouse             | vo pe bon pi meziyami          | big tree of butterfly-people |
-| Eientei<br>lit. House of Eternity | monhu pi ksoksun               |                              |
-| Forest of Magic                   | bovo pi zashii                 |                              |
-| Bamboo Forest of the Lost         | bovo the Banbu pi shiiho       |                              |
-| Sanzu River                       | lule the Sanzu                 |                              |
-| Netherworld                       | gun pi konmiqa                 | realm of ghosts              |
-| Nameless Hill                     | gonbin pi kso-jakonqa          |                              |
-| Garden of the Sun                 | govava pi yun                  |                              |
-| Ruined Western Mansion            | monhuba pe hoyunwo-an kizho-an |                              |
-| Heaven                            | gunhewi                        |                              |
-| Palace of the Earth Spirits       | monhuba pi qa-go               |                              |
-| Old Hell                          | huksan pe zho                  | horror-pit of old            |
-| Spring Path                       | hometan pi yuntsuva            |                              |
-| Shining Needle Castle             | ban... pi qidon pe ...ya       |                              |
+| Name                              | Sen'fi Translation             | Note                                                          |
+| --------------------------------- | ------------------------------ | ------------------------------------------------------------- |
+| Gensokyo<br>lit. Land of Fantasy  | gun pi mino                    | realm of mind-vision (fantasy, daydream)                      |
+| Human Village                     | bomonhu pi meme                | group of houses of human people                               |
+| Hakurei Shrine                    | monhu-munhewi the Hakure       | god house of Hakurei                                          |
+| Moriya Shrine                     | monhu-munhewi the Moriya       |                                                               |
+| Scarlet Devil Mansion             | monhuba pi qaksan pe yamiluma  | rich-house of the blood-red horror-spirit                     |
+| Misty Lake                        | malu pe helushii               | body of water with unclear humid air                          |
+| Youkai Mountain                   | gon pi qahewi                  | mountain of (sky) spirits                                     |
+| Great Fairy Treehouse             | vo pe bon pi meziyami          | big tree of butterfly-people                                  |
+| Eientei<br>lit. House of Eternity | monhu pi ksoksun               | house of no end                                               |
+| Forest of Magic                   | bovo pi zashii                 | group of trees of mysterious energy                           |
+| Bamboo Forest of the Lost         | bovo the Banbu pi shiiho       | group of trees of the Bamboo kind of way-confusion            |
+| Sanzu River                       | lule the Sanzu                 | water-line called Sanzu                                       |
+| Netherworld                       | gun pi konmiqa                 | realm of ghosts                                               |
+| Nameless Hill                     | gonbin pi kso-jakonqa          | small mountain of no name                                     |
+| Garden of the Sun                 | govava pi yun                  |                                                               |
+| Ruined Western Mansion            | monhuba pe hoyunwo-an kizho-an | rich-house like the direction of sunset (west) and age-broken |
+| Heaven                            | gunhewi                        | realm-of-sky                                                  |
+| Palace of the Earth Spirits       | monhuba pi qa-go               |                                                               |
+| Old Hell                          | huksan pe zho                  | horror-pit of old                                             |
+| Spring Path                       | hometan pi yuntsuva            | walking-way of plant-time                                     |
+| Shining Needle Castle             | ban... pi qidon pe ...ya       | (WIP)                                                         |
