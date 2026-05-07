@@ -15,11 +15,11 @@
 	`me (subj) him (dest) fish (obj) give (vrb)`
 
 - I made him move
-	mein thu meda wa metan-en'ksun
+	mein thu meda wa ta-en'ksun
 	`me (agent) him (subj) move (past vrb)`
 
 - Daniel made him move
-	Dan'yel-theme thu meda wa metan-en'ksun
+	Dan'yel-theme thu meda wa ta-en'ksun
 	`Daniel-person (agent) him (subj) move (past vrb)`
 
 - Who did it?!
@@ -31,7 +31,7 @@
 	`you (subj) who ?`
 
 - In which direction do I go?
-	hometan dun mein wa metan un'wa shi?
+	hota dun mein wa ta un'wa shi?
 	`direction (at) me (subj) go (clause subj) what ?`
 
 - hair is like threads
@@ -49,11 +49,11 @@
 	`similar manner (of) him (context) kon'on (obj) do (verbal noun)`
 
 - a butterfly's wing flaps like how a bird's wing flaps
-	honen piun teri pi ri wa metan-en un, teri pi ziyami wa metan-en
+	honen piun teri pi ri wa ta-en un, teri pi ziyami wa ta-en
 	`similar manner (piun) wing (of) bird (subj) move (vrb) (context), wing (of) butterfly (subj) move (vrb)`
 
 - we go to there
-	mein'tso wa gogun'on than metan-en
+	mein'tso wa gogun'on than ta-en
 	`us (subj) there (to) go (vrb)`
 
 - the fish is bigger than the human
@@ -86,7 +86,7 @@
 	`fish (subj) inside (of) sea (at)`
 
 - the bird is flying in the sky
-	ri wa hewi dun metan'teri-en'len
+	ri wa hewi dun tateri-en'len
 	`bird (subj) sky (at) fly (cont. vrb)`
 
 - out of all, this fish is the biggest
@@ -102,7 +102,7 @@
 	`me (subj) fruit (obj) eat (vrb) start (past vrb)`
 
 - if i go there i die
-	mein wa gogun'on than metan-en un, mein wa ksun'qa-en
+	mein wa gogun'on than ta-en un, mein wa ksun'qa-en
 	`me (subj) there (to) move (if), me (subj) die (vrb)`
 
 - the man who died eating a fish told people that he loves fish
