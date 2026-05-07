@@ -163,7 +163,7 @@ To chain verbs you just split them with `en` suffixes like you do with `an` adje
 
 >`shuma-en gen-en'ksun` means "started to sleep"
 >`shuma-en hya-en gen-en` means "starts wanting to sleep"
->`shuma-en hya-en gen-en o ja-en shumetan-en` means "starts wanting to sleep and stops talking"
+>`shuma-en hya-en gen-en o ja-en shuta-en` means "starts wanting to sleep and stops talking"
 
 # Tenses
 ## Present / Infinitive
