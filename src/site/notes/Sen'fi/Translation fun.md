@@ -16,7 +16,7 @@ BTW, i put a tiny bit of touhou references in my words, such as `ban` (boundary)
 | Immaterial and Missing Power  | to pe he-an ksen-an             |                                                                                                           |
 | Imperishable Night            | yuntsu-tsu pe ksoksun           | night-time of no end                                                                                      |
 | Phantasmagoria of Flower View | lenkonmi pin mi-enkon pi vafen  | series of images, of flower-viewing                                                                       |
-| Shoot the Bullet              | qifin wa metanqifin-en          | lit. the projectile gets projected                                                                        |
+| Shoot the Bullet              | qifin wa taqifin-en             | lit. the projectile gets projected                                                                        |
 | Mountain of Faith             | gon pi hominen                  |                                                                                                           |
 | Scarlet Weather Rhapsody      | manhefi pi hemahewi pe yamiluma | music of the skies' red mood                                                                              |
 | Subterranean Animism          | hominen pi qa dun wogo          | belief in spirits in the underground                                                                      |
@@ -49,5 +49,5 @@ BTW, i put a tiny bit of touhou references in my words, such as `ban` (boundary)
 | Heaven                            | gunhewi                        | realm-of-sky                                                  |
 | Palace of the Earth Spirits       | monhuba pi qa-go               |                                                               |
 | Old Hell                          | huksan pe zho                  | horror-pit of old                                             |
-| Spring Path                       | hometan pi yuntsuva            | walking-way of plant-time                                     |
+| Spring Path                       | hota pi yuntsuva               | walking-way of plant-time                                     |
 | Shining Needle Castle             | ban... pi qidon pe ...ya       | (WIP)                                                         |
