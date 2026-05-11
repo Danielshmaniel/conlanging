@@ -78,7 +78,7 @@
 	`fish (subj) many (adj) (despite), me (subj) fish (obj) see (neg. past vrb) [so]`
 
 - i eat vegetables but i don't love them
-	mein wa vava wu gavahan-en thikso vava wu meqan-en'kso
+	mein wa vava wu gavahan-en thikso vava wu qu-en'kso
 	`me (subj) plants (obj) eat (vrb) (despite) plants (obj) love (neg. vrb)`
 
 - the fish is in the sea
@@ -106,7 +106,7 @@
 	`me (subj) there (to) move (if), me (subj) die (vrb)`
 
 - the man who died eating a fish told people that he loves fish
-	da piwa fu wu gavahan-en un ksun'qa-en'ksun un'wa, me than ja-en'ksun tho "mein wa fu wu meqan-en"
+	da piwa fu wu gavahan-en un ksun'qa-en'ksun un'wa, me than ja-en'ksun tho "mein wa fu wu qu-en"
 	`man (who) fish (obj) eat (vrb) die (past vrb) (subj), people (to) tell (past vrb) (quote") me (subj) fish (obj) love (vrb)`
 
 - the fish was eaten
