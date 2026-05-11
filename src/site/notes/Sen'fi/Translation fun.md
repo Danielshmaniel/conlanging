@@ -17,9 +17,9 @@ BTW, i put a tiny bit of touhou references in my words, such as `ban` (boundary)
 | Imperishable Night            | yuntsu-tsu pe ksoksun           | night-time of no end                                                                                      |
 | Phantasmagoria of Flower View | lenkonmi pin mi-enkon pi vafen  | series of images, of flower-viewing                                                                       |
 | Shoot the Bullet              | qifin wa taqifin-en             | lit. the projectile gets projected                                                                        |
-| Mountain of Faith             | gon pi hominen                  |                                                                                                           |
+| Mountain of Faith             | gon pi dyun                     |                                                                                                           |
 | Scarlet Weather Rhapsody      | manhefi pi hemahewi pe yamiluma | music of the skies' red mood                                                                              |
-| Subterranean Animism          | hominen pi qa dun wogo          | belief in spirits in the underground                                                                      |
+| Subterranean Animism          | dyun pi qa dun wogo             | belief in spirits in the underground                                                                      |
 | Unidentified Fantastic Object | kon pe mino-an shii-an          |                                                                                                           |
 | Double Spoiler                | me pi fen-enkon pen nifun       | the second exposer (as in exposing someone in journalism/photography; assuming that "spoiler" means that) |
 | Great Fairy Wars              | ksabontso pi meziyami           | the big battles of butterfly-people                                                                       |
