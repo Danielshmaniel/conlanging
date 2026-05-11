@@ -3,7 +3,7 @@
 ---
 
 - I eat the fish
-	mein wa fu wu gavahan-en
+	mein wa fu wu in'han-en
 	`me (subj) fish (obj) eat (vrb)`
 
 - He gives me the fish
@@ -61,16 +61,16 @@
 	`fish (subj) big (more) person (than)`
 
 - i kill fish and eat them because they are many
-	fufu wa bo-an thi, mein thu fufu wa ksun'qa-en tha fufu wu gavahan-en tha
+	fufu wa bo-an thi, mein thu fufu wa ksun'qa-en tha fufu wu in'han-en tha
 	`fish (subj) many (adj) (because), me (agent) fish (subj) die (vrb) (so) me (subj) fish (obj) eat (vrb) (so)`
 
 - because fish are many, i eat fish
   / fish are many so i eat fish
-	fufu wa bo-an thi, mein wa fufu wu gavahan-en tha
+	fufu wa bo-an thi, mein wa fufu wu in'han-en tha
 	`fish (subj) many (adj) (because), me (subj) fish (obj) eat (vrb) (so)`
 
 - i eat fish, because fish are many
-	mein wa fufu wu gavahan-en tha, fufu wa bo-an thi
+	mein wa fufu wu in'han-en tha, fufu wa bo-an thi
 	`me (subj) fish (obj) eat (vrb) (so), fish (subj) many (adj) (because)`
 
 - despite fish are many, i did not see fish
@@ -78,7 +78,7 @@
 	`fish (subj) many (adj) (despite), me (subj) fish (obj) see (neg. past vrb) [so]`
 
 - i eat vegetables but i don't love them
-	mein wa vava wu gavahan-en thikso vava wu qu-en'kso
+	mein wa vava wu in'han-en thikso vava wu qu-en'kso
 	`me (subj) plants (obj) eat (vrb) (despite) plants (obj) love (neg. vrb)`
 
 - the fish is in the sea
@@ -98,7 +98,7 @@
 	`me (subj) grow (vrb, past)`
 
 - i started eating fruit
-	mein wa van wu gavahan-en gen-en'ksun
+	mein wa van wu in'han-en gen-en'ksun
 	`me (subj) fruit (obj) eat (vrb) start (past vrb)`
 
 - if i go there i die
@@ -106,11 +106,11 @@
 	`me (subj) there (to) move (if), me (subj) die (vrb)`
 
 - the man who died eating a fish told people that he loves fish
-	da piwa fu wu gavahan-en un ksun'qa-en'ksun un'wa, me than ja-en'ksun tho "mein wa fu wu qu-en"
+	da piwa fu wu in'han-en un ksun'qa-en'ksun un'wa, me than ja-en'ksun tho "mein wa fu wu qu-en"
 	`man (who) fish (obj) eat (vrb) die (past vrb) (subj), people (to) tell (past vrb) (quote") me (subj) fish (obj) love (vrb)`
 
 - the fish was eaten
-	fu wu gavahan-en'ksun
+	fu wu in'han-en'ksun
 	`fish (obj) eat (past vrb)`
 
 - i have a good bond with that guy

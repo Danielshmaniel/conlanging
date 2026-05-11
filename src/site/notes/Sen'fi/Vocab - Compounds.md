@@ -496,7 +496,7 @@ NOTE: *"en" glyphs are omitted from the glyph column since they're everywhere he
 
 | glyph                     | sound           | meaning                                                                                                                                      | combo                          |
 | ------------------------- | --------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------ |
-|                           | in'han-(en)     | eating, ingestion, consumption<br>to eat, to ingest, to consume                                                                              | inside + mouth                 |
+|                           | in'han-(en)     | eating, ingestion, digestion, consumption<br>to eat, to ingest, to digest, to consume                                                        | inside + mouth                 |
 |                           | mithin'ban-(en) | to hide                                                                                                                                      | eyes/sight + from + close/hide |
 |                           | shufen'ben-(en) | to sit, to rest one's bottom on something                                                                                                    | rest + buttocks                |
 |                           | shuben'fan-(en) | to lay down, to lie flat on something                                                                                                        | rest + back + flat             |
