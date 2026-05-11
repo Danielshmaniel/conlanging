@@ -9,7 +9,7 @@
 # Basic particles
 Particles are postpositions, meaning they go after the word that they mark e.g.
 
->`koqigun'ksun un, mein wa fu pe we-an wu gavahan-en`
+>`koqigun'ksun un, mein wa fu pe we-an wu in'han-en`
 >yesterday `un`, I `wa` \[fish `pe` good `an`] `wu` eat `en`
 >yesterday I ate a good fish
 
@@ -43,8 +43,8 @@ Particles are postpositions, meaning they go after the word that they mark e.g.
 | *tho*                | quotation                                                                                                              |
 | *the*                | foreign phrase written in the alphabet script                                                                          |
 | *pithu ... un'wa*    | relative clause of an agent<br>e.g.: `me pithu meda wa ksun'qa-en'ksun un'wa X` means "the person who killed him is X" |
-| *piwa ... un'wa*     | relative clause of a subject<br>e.g.: `me piwa lugun wu meqan un'wa meda` means "the person who loves the sea is him"  |
-| *piwu ... un'wa*     | relative clause of an object<br>e.g.: `fu piwu gavahan-en'ksun un'wa we-an` means "the fish which was eaten was good"  |
+| *piwa ... un'wa*     | relative clause of a subject<br>e.g.: `me piwa lugun wu qu un'wa meda` means "the person who loves the sea is him"     |
+| *piwu ... un'wa*     | relative clause of an object<br>e.g.: `fu piwu in'han-en'ksun un'wa we-an` means "the fish which was eaten was good"   |
 | extra: *piun ... un* | relative clause of an adverbial<br>e.g.: `yuntsu-piun X un, Y` means "when X, Y"                                       |
 
 
