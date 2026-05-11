@@ -16,6 +16,7 @@
 | weqa (wu in'te-en'hya)      | take care, salutations                                             | health + \[have!]                          |
 | (meon wa) we-an un'shi?     | how are you?<br>are you doing okay?                                | \[you (subj)] + okay + or what             |
 | (meon wa) shiho un duun-en? | how are you?<br>how do you do?<br>how are you doing?<br>what's up? | \[you (subj)] + in what way (context) + be |
+| hyahan'we                   | buon appetit                                                       | appetite + good                            |
 ## Please, Thanks, Sorry
 
 | phrase              | meaning                      | combo                        |
