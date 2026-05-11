@@ -32,8 +32,8 @@ BTW, i put a tiny bit of touhou references in my words, such as `ban` (boundary)
 | ----------------------------------------------- | ------------------------------ | ------------------------------------------------------------- |
 | Gensokyo<br>lit. Land of Fantasy                | gun pi mino                    | realm of mind-vision (fantasy, daydream)                      |
 | Human Village                                   | bomonhu pi meme                | group of houses of human people                               |
-| Hakurei Shrine                                  | monhu-munhewi the Hakure       | god house of Hakurei                                          |
-| Moriya Shrine                                   | monhu-munhewi the Moriya       |                                                               |
+| Hakurei Shrine                                  | monhu-qya the Hakure           | god house of Hakurei                                          |
+| Moriya Shrine                                   | monhu-qya the Moriya           |                                                               |
 | Scarlet Devil Mansion                           | monhuba pi qaksan pe yamiluma  | rich-house of the blood-red horror-spirit                     |
 | Misty Lake                                      | malu pe helushii               | body of water with unclear humid air                          |
 | Youkai Mountain                                 | gon pi qahewi                  | mountain of (sky) spirits                                     |
