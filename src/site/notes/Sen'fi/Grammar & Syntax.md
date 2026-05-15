@@ -224,7 +224,7 @@ Adding a `thu` conveys that you got someone to do something for you:
 
 > `mein thu meda wa (mein than) kon'on wu mi-en'jen` = i get him to see it (for me); i have it seen (for me) by him.
 ### Alternative
-One might ask if you can avoid using this favour suffix. This is possible using `thii pi mein than` ("for my sake") or `hen pi mein than` ("for my gain").
+One might ask if you can avoid using this favour suffix. This is possible using `thii pi mein than` ("for my sake") or `hen pi mein than` ("for my gain/benefit").
 
 > `meda wa [hen/thii] pi mein than kon'on wu mi-en` = he sees it for my sake
 > `meda wa [hen/thii] pi mein than kon'on wu mi-en'kso` = he doesn't see it, for my sake
