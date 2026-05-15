@@ -215,14 +215,19 @@ Used for actions people must NOT do
 | meaning  | must see         | must not see      |
 ## Favours
 `-en'jen`
-Inspired by Japanese grammar. Conveys that an action was done for someone else's sake.
+Experimental, inspired by Japanese grammar. Conveys that an action was done for someone else's sake.
 
-> `meda wa mein than kon'on wu mi-en'jen'ksun` = he did me the favour of seeing it
-> `meda wa mein than kon'on wu mi-en'jen'ksun'kso` = he did me the favour of not seeing it
+> `meda wa (mein than) kon'on wu mi-en'jen` = he does (me) the favour of seeing it
+> `meda wa (mein than) kon'on wu mi-en'jen'kso` = he does (me) the favour of not seeing it
 
 Adding a `thu` conveys that you got someone to do something for you:
 
-> `mein thu meda wa mein than kon'on wu mi-en'jen'ksun` = i got him to do for me the favour of seeing it; i had it seen for me by him.
+> `mein thu meda wa (mein than) kon'on wu mi-en'jen` = i get him to see it (for me); i have it seen (for me) by him.
+### Alternative
+One might ask if you can avoid using this favour suffix. This is possible using `thii pi mein than` ("for my sake") or `hen pi mein than` ("for my gain").
+
+> `meda wa [hen/thii] pi mein than kon'on wu mi-en` = he sees it for my sake
+> `meda wa [hen/thii] pi mein than kon'on wu mi-en'kso` = he doesn't see it, for my sake
 ## Past
 `-en'ksun`
 Used for finished actions
