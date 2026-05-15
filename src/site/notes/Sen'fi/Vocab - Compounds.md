@@ -492,8 +492,8 @@
 |       | miyun'ksun-un               | yesterday                                                    |                            |
 |       | miyun'ksun pe (*number*) un | (*number*) days ago                                          |                            |
 |       | miyun'zhin-un               | tomorrow                                                     |                            |
-|       |                             | today                                                        |                            |
-|       |                             | tonight                                                      |                            |
+|       | miyun'ta                    | today                                                        | day + moving               |
+|       | mitsu'ta                    | tonight                                                      | night + moving             |
 |       | koqitsu                     | month                                                        | full rotation + moon       |
 |       | tsuhin                      | January                                                      | (month) + (a number)       |
 |       | tsufun                      | February                                                     |                            |
