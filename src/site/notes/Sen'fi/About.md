@@ -71,7 +71,6 @@ This may disappoint my fellow conlang nerds but for the time being the language 
 	This aims to prevent confusing a grammatical particle with a semantic noun. In the conlang which inspired my conlang, Toki Pona, there is controversial minor use of `anu` ("or") to mean "choice"; I aim to mirror this and offer a solution in my equivalent. Controversial "nasin" aside, Toki Pona already has particles which also act as nouns, such as `lon`, meaning either "on, at" or "existence".
 ### Etymological noun and modifier
 - Toki Pona head nouns: e.g. "wing" is "arm of bird" not "bird arm"
-- In some cases compounds aren't to be understood in the order like the one before. These are non-toki pona and kanji-like constructions e.g. "person + leg" means "movement", not "person of leg". This inconsistency may be corrected someday.
 ### Plurality
 - Monosyllabic words such as `me` are pluralised by reduplication: `meme`
 - However for faster speech and writing, reduplication in polysyllabic words is replaced with `tsa` or `tso`.
