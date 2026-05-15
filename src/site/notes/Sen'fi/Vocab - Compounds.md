@@ -494,6 +494,19 @@
 |       | miyun'zhin-un               | tomorrow                                                     |                            |
 |       |                             | today                                                        |                            |
 |       |                             | tonight                                                      |                            |
+|       | koqitsu                     | month                                                        | full rotation + moon       |
+|       | tsuhin                      | January                                                      | (month) + (a number)       |
+|       | tsufun                      | February                                                     |                            |
+|       | tsumin                      | March                                                        |                            |
+|       | tsuyon                      | April                                                        |                            |
+|       | tsugyon                     | May                                                          |                            |
+|       | tsuron                      | June                                                         |                            |
+|       | tsunan                      | July                                                         |                            |
+|       | tsuyan                      | August                                                       |                            |
+|       | tsukyun                     | September                                                    |                            |
+|       | tsujun                      | October                                                      |                            |
+|       | tsujun'hin                  | November                                                     |                            |
+|       | tsujun'fun                  | December                                                     |                            |
 |       | miyun'zhin pe (*number*) un | (*number*) days from now                                     |                            |
 |       | yuntsu piun ... un          | when                                                         |                            |
 |       | in'yuntsu(piun...un)        | *n.* duration<br>*adv.* during, while                        | within + time              |
