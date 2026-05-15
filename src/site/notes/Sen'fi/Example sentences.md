@@ -119,7 +119,7 @@
 	`man (of) that way (with), me (context) bond (adj->) good (subj) exist (vrb)`
 
 - stealing from people is bad
-	hya pi memeon oksoun, me thin in'tethaan wa ksu
+	hya pi memeon oksoun, me thin chen'in'te wa ksu
 	`will (of) them (without), person (from) taking (subj) bad`
 
 - I can do this
