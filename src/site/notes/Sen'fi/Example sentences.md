@@ -45,7 +45,7 @@
 	`you (subj) likeness (of) him`
 
 - doing it like him
-	honen pi meda un kon'on wu metetan-en'kon
+	honen pi meda un kon'on wu een-en'kon
 	`similar manner (of) him (context) kon'on (obj) do (verbal noun)`
 
 - a butterfly's wing flaps like how a bird's wing flaps
@@ -123,7 +123,7 @@
 	`will (of) them (without), person (from) taking (subj) bad`
 
 - I can do this
-	mein wa kon'in wu metetan-en'to
+	mein wa kon'in wu een-en'to
 	`me (subj) this (obj) do (vrb, potential)`
 
 - this thing can't be seen / this thing is invisible
@@ -137,5 +137,5 @@
 	`[sight (from)] hide (vrb, please)!`
 
 - people forced me to do this
-	meme thu mein wa kon'in wu zaun metetan-en'ksun
+	meme thu mein wa kon'in wu zaun een-en'ksun
 	`people (agt) me (subj) this (obj) (with force) do (vrb, past)`
