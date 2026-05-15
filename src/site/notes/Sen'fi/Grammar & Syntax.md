@@ -202,16 +202,27 @@ Used for declaring one's ability to do something
 | verb: mi | `mien'to`   | `mien'tokso` |
 | meaning  | can see     | cannot see   |
 ## Obligatory
-`en-ksoun'ksu`
+### Positive
+`en'ksoun'ksu`
 Used for actions people must do (to avoid trouble); duties, obligations
-### Negative obligatory form
-`en-dun'un'ksu`
+### Negative
+`en'dun'un'ksu`
 Used for actions people must NOT do
 
 |          | Affirmative      | Negative          |
 | -------- | ---------------- | ----------------- |
 | verb: mi | `mien'ksoun'ksu` | `mien'dun'un'ksu` |
 | meaning  | must see         | must not see      |
+## Favours
+`-en'jen`
+Inspired by Japanese grammar. Conveys that an action was done for someone else's sake.
+
+> `meda wa mein than kon'on wu mi-en'jen'ksun` = he did me the favour of seeing it
+> `meda wa mein than kon'on wu mi-en'jen'ksun'kso` = he did me the favour of not seeing it
+
+Adding a `thu` conveys that you got someone to do something for you:
+
+> `mein thu meda wa mein than kon'on wu mi-en'jen'ksun` = i got him to do for me the favour of seeing it; i had it seen for me by him.
 ## Past
 `-en'ksun`
 Used for finished actions
