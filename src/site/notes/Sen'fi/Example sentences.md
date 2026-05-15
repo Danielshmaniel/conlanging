@@ -7,11 +7,11 @@
 	`me (subj) fish (obj) eat (vrb)`
 
 - He gives me the fish
-	meda wa mein than fu wu on'te-en
+	meda wa mein than fu wu jen-en
 	`him (subj) me (dest) fish (obj) give (vrb)`
 
 - I give him the fish
-	mein wa meda than fu wu on'te-en
+	mein wa meda than fu wu jen-en
 	`me (subj) him (dest) fish (obj) give (vrb)`
 
 - I made him move
@@ -27,7 +27,7 @@
 	`who (agent/by) ?!`
 
 - Who are you?
-	meon wa meshi?
+	meon wa shime?
 	`you (subj) who ?`
 
 - In which direction do I go?
