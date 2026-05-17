@@ -72,7 +72,7 @@ BTW, i put a tiny bit of touhou references in my words, such as `ban` (boundary)
 | ------------------------------------ | --------------------------------------------------------------- | --------------------------------------------------- |
 | A Dream More Scarlet than Red        | mishu pen yamiluma thin ya-an'bo                                | a dream coloured brighter than blood                |
 | A Soul as Scarlet as a Ground Cherry | qa pen van-si the Cherasus un'nen yami-lumaya                   | (scarlet resembling crushed 'cerasus' fruit) spirit |
-| Apparitions Stalk the Night          | konmiqa tsumi wu ?-en                                           |                                                     |
+| Apparitions Stalk the Night          | konmiqa tsumi dun ?-en                                          |                                                     |
 | Lunate Elf                           | qazashii pe tsu-than ksodenno                                   | moon-crazy mystical creature                        |
 | Beloved Tomboyish Girl               | buzhin pe da-an'zhin qu-an                                      | almost-woman who is, kind of masculine, and loved   |
 | Shanghai Teahouse ~ Chinese Tea      | monhu pi luhan the Cha pithe Shanhai ~ luhan the Cha pithe Sina |                                                     |
