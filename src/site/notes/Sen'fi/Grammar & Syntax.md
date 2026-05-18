@@ -112,6 +112,8 @@ By default, words are singular (unless quantified already)
 ## In monosyllabic nouns
 To show plurality, monosyllabic nouns such as `me` are pluralised by reduplication:
 >`meme` means "people"
+
+*Side-note:* `tso` may be used as a pluralising suffix for monosyllabic nouns too, such as `fan'tso`
 ## In polysyllabic nouns
 Polysyllabic nouns with plurality make use of the suffix `tso` as a shortcut to reduplication of a whole noun:
 
@@ -119,7 +121,7 @@ Polysyllabic nouns with plurality make use of the suffix `tso` as a shortcut to 
 
 This is because `meksin'tso` is shorter to say than `meksin'meksin`
 
-*Side-note*: During the word creation process `tsa` can be used to compound plural nouns with other words, in order to reduplicate the sub-word and not the whole word. No examples yet, but it's just in case.
+*Side-note:* During the word creation process `tsa` can be used to compound plural nouns with other words, in order to reduplicate the sub-word and not the whole word. No examples yet, but it's just in case.
 
 # Numerical determiners
 Note: Noun plurality is not needed when a number or quantifier is given, definite or indefinite.

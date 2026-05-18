@@ -68,14 +68,14 @@ BTW, i put a tiny bit of touhou references in my words, such as `ban` (boundary)
 | Great Youkai Forest                             | bovo pe bon pi qahewi            | big tree-group of sky spirits                                 |
 ### Touhou music titles
 
-| English Title                        | Translation                                                     | Note                                                |
-| ------------------------------------ | --------------------------------------------------------------- | --------------------------------------------------- |
-| A Dream More Scarlet than Red        | mishu pen yamiluma thin ya-an'bo                                | a dream coloured brighter than blood                |
-| A Soul as Scarlet as a Ground Cherry | qa pen van-si the Cherasus un'nen yami-lumaya                   | (scarlet resembling crushed 'cerasus' fruit) spirit |
-| Apparitions Stalk the Night          | konmiqa tsumi dun ?-en                                          |                                                     |
-| Lunate Elf                           | qazashii pe tsu-than ksodenno                                   | moon-crazy mystical creature                        |
-| Beloved Tomboyish Girl               | buzhin pe da-an'zhin qu-an                                      | almost-woman who is, kind of masculine, and loved   |
-| Shanghai Teahouse ~ Chinese Tea      | monhu pi luhan the Cha pithe Shanhai ~ luhan the Cha pithe Sina |                                                     |
-| Shanghai Alice of Meiji 17           | me the Shanhai Alis pithe Meiji pe junnan                       |                                                     |
-| Voile, the Magic Library             | mi-enhya the Vuwala, monhu-bofansen pe zashii wa dun            | look, in a 'Voile' way, magical book-house is there |
-| Locked Girl                          | buzhin pe ban                                                   |                                                     |
+| English Title                        | Translation                                                       | Note                                                                                      |
+| ------------------------------------ | ----------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| A Dream More Scarlet than Red        | mishu pen yamiluma thin ya-an'bo                                  | a dream coloured brighter than blood                                                      |
+| A Soul as Scarlet as a Ground Cherry | qa pen Cherasus the van-si un'nen yami-lumaya                     | (scarlet resembling crushed 'cerasus' fruit) spirit                                       |
+| Apparitions Stalk the Night          | konmiqa tsumi dun ?-en                                            |                                                                                           |
+| Lunate Elf                           | qazashii pe tsu-than ksodenno                                     | moon-crazy mystical creature                                                              |
+| Beloved Tomboyish Girl               | buzhin pe da-an'zhin qu-an                                        | almost-woman who is, kind of masculine, and loved                                         |
+| Shanghai Teahouse ~ Chinese Tea      | monhu pi Cha the luhan pi Shanhai the ~ Cha the luhan pi Sina the | 'cha' is a japanese/chinese/universal word for "tea". 'Sina' is the latin name for China. |
+| Shanghai Alice of Meiji 17           | Shanhai Alis the me pi Meiji the yuntsu pe junnan                 |                                                                                           |
+| Voile, the Magic Library             | Vuwala the mi-enhya, monhu-bofansen pe zashii wa dun              | look, in a 'Voile' way, magical book-house is there                                       |
+| Locked Girl                          | buzhin pe ban                                                     |                                                                                           |
