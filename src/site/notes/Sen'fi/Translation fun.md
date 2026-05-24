@@ -14,7 +14,7 @@ BTW, i put a tiny bit of touhou references in my words, such as `ban` (boundary)
 | Embodiment of Scarlet Devil   | chenkonmi pi qaksan pe yami-lumaya |                                                                                                           |
 | Perfect Cherry Blossom        | vafen the Cherasus pe weko         | "cerasus" is the genus name in latin for cherry blossom                                                   |
 | Immaterial and Missing Power  | to pe he-an ksen-an                |                                                                                                           |
-| Imperishable Night            | yuntsu-tsu pe ksoksun              | night-time of no end                                                                                      |
+| Imperishable Night            | zhatsu pe ksoksun                  | night-time of no end                                                                                      |
 | Phantasmagoria of Flower View | lenkonmi pin mi-enkon pi vafen     | series of images, of flower-viewing                                                                       |
 | Shoot the Bullet              | qifin wa taqifin-en                | lit. the projectile gets projected                                                                        |
 | Mountain of Faith             | gon pi dyun                        |                                                                                                           |
@@ -50,7 +50,7 @@ BTW, i put a tiny bit of touhou references in my words, such as `ban` (boundary)
 | Palace of the Earth Spirits                     | monhuba pi qa-go                 |                                                               |
 | Old Hell                                        | huksan pe zho                    | horror-pit of old                                             |
 | Old Capital                                     | bomonhu pe zho                   | house-group of old                                            |
-| Spring Path                                     | hota pi yuntsuva                 | walking-way of plant-time                                     |
+| Spring Path                                     | hota pi zhava                    | walking-way of plant-time                                     |
 | Shining Needle Castle                           | bandyo pi qidon pe pyonya        | fortified wall of iron-pricks that bounce light               |
 | Border of Life and Death                        | ban pi qa o ksoqa                |                                                               |
 | Lake of Blood                                   | malu pi luma                     |                                                               |
@@ -76,6 +76,6 @@ BTW, i put a tiny bit of touhou references in my words, such as `ban` (boundary)
 | Lunate Elf                           | qazashii pe tsu-than ksodenno                                     | moon-crazy mystical creature                                                              |
 | Beloved Tomboyish Girl               | buzhin pe da-an'zhin qu-an                                        | almost-woman who is, kind of masculine, and loved                                         |
 | Shanghai Teahouse ~ Chinese Tea      | monhu pi Cha the luhan pi Shanhai the ~ Cha the luhan pi Sina the | 'cha' is a japanese/chinese/universal word for "tea". 'Sina' is the latin name for China. |
-| Shanghai Alice of Meiji 17           | Shanhai Alis the me pi Meiji the yuntsu pe junnan                 |                                                                                           |
+| Shanghai Alice of Meiji 17           | Shanhai Alis the me pi Meiji the zha pe junnan                    |                                                                                           |
 | Voile, the Magic Library             | Vuwala the mi-enhya, monhu-bofansen pe zashii wa dun              | look, in a 'Voile' way, magical book-house is there                                       |
 | Locked Girl                          | buzhin pe ban                                                     |                                                                                           |
