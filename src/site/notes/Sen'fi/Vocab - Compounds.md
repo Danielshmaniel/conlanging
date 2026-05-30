@@ -139,7 +139,7 @@
 |                           | gin'vo       | trunk / log                                                                                                        | main body + tree                |
 |                           | gin'va       | stem                                                                                                               | main body + plant               |
 |                           | yun'wi       | sunrise                                                                                                            | sun + rising                    |
-|                           | yun'wo       | sunset                                                                                                             | sun + lowering                  |
+|                           | yun'wo       | sunset, lit. sundown                                                                                               | sun + lowering                  |
 |                           | vafen        | flower                                                                                                             | plant + opening (blooming)      |
 |                           | helu         | humid air: steam, water vapour, (mist)                                                                             | gas + water                     |
 |                           | helushii     | fog and mist which covers the air, making it unclear                                                               | humid air + unclear             |
@@ -208,7 +208,7 @@
 | glyph | sound         | meaning           | combo                         |
 | ----- | ------------- | ----------------- | ----------------------------- |
 |       | koleme        | clothes, clothing | cloth + person                |
-|       | mon'no        | hat               | upper cover + head            |
+|       | mon'no        | hat               | (upper) cover + head          |
 |       | ban'non       | mask              | wall/hiding + face            |
 |       | ban'tan       | pants, trousers   | hiding + legs                 |
 |       | ban'gin       | shirt, etc        | hiding + chest                |
