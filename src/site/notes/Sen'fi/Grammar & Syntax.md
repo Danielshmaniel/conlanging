@@ -52,7 +52,6 @@ Particles are postpositions, meaning they go after the word that they mark e.g.
 | *tse* (silent)   | Does not give a sound by itself, it only appears as a glyph preceding another glyph. Its purpose is to lengthen the preceding syllable/vowel; like「ー」 in Japanese or the silent letters "għ/h" in Maltese. This gives a new semantic meaning to the preceding glyph as well, transforming it into a noun.<br>e.g.: `shi` (what) + *tse* = `shii` (confusion, unknown, mystery)<br>works with nasals too: `dun` (on/at) + *tse* = `duun` (existence, presence, reality) |
 
 # Adjectives
-
 ## Simple adjective chains
 In a noun phrase, adjectives go *after* nouns, requiring `pe` after the noun and `an` after each adjective. Within `pe`, a chain of simple `an` suffixes is used to list adjectives describing one noun. e.g.:
 
@@ -60,7 +59,7 @@ In a noun phrase, adjectives go *after* nouns, requiring `pe` after the noun and
 ## Special adjective chains need commas
 When including special adjectives (adjectives with special suffixes, listed [later](#Suffixes)) in an adjective chain, you need to separate the adjectives with a **comma** character, to avoid mistakes in parsing individual descriptors. Example:
 
-> `fu pe me thin bon-an'bo, yamigo-an, me wu in'han-en'to, me thu in'han-an'tokso ` means "a fish which is bigger than a human, brown, can eat humans, and cannot be eaten by humans"
+> `fu pe me thin bon-an'bo, yamigo-an, me wu in'han-en'to, me than in'han-an'tokso ` means "a fish which is bigger than a human, brown, can eat humans, and inedible for humans"
 ## Lone adjectives
 If an adjective chain is composed of only one adjective, `an` may be omitted. e.g.:
 
@@ -73,6 +72,10 @@ If an adjective chain is composed of only one adjective, `an` may be omitted. e.
 
 In order to describe a whole noun chain we use `pen`:
 > `(fu pi mein) pen we-an`
+## Verbal adjectives
+Verbs can be used as adjectives.
+
+> `fu pen fu pe ee wu in'han-en'ksun` = a fish which ate other fish
 ## Adjectives as Past Participles
 Normally adjectives describe the quality of something, however if you replace the `en` in a verb root with `an` you describe what was done to something. Additional suffixes may be used as well.
 
