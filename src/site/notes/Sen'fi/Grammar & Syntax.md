@@ -43,7 +43,7 @@ Particles are postpositions, meaning they go after the word that they mark e.g.
 | *tho*                | quotation                                                                                                              |
 | *the*                | foreign phrase written in the alphabet script                                                                          |
 | *pethu ... un'wa*    | relative clause of an agent<br>e.g.: `me pethu meda wa ksun'qa-en'ksun un'wa X` means "the person who killed him is X" |
-| *pewa ... un'wa*     | relative clause of a subject<br>e.g.: `me pewa lugun wu qu un'wa meda` means "the person who loves the sea is him"     |
+| *pewa ... un'wa*     | relative clause of a subject<br>e.g.: `me pewa lugun wu qu-en un'wa meda` means "the person who loves the sea is him"  |
 | *pewu ... un'wa*     | relative clause of an object<br>e.g.: `fu pewu in'han-en'ksun un'wa we-an` means "the fish which was eaten was good"   |
 | extra: *piun ... un* | relative clause of an adverbial<br>e.g.: `zha-piun X un, Y` means "when X, Y"                                          |
 
