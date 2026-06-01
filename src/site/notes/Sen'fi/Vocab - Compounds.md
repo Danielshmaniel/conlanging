@@ -724,8 +724,8 @@ NOTE: *These are the meanings of causative verbal nouns (`methi` and `yin'thi`pr
 |       | hoshi(un)      | somehow              | way + what + \[context]       |
 |       | shigogun(dun)  | where                | what + land + [at]            |
 |       | gogun'shi(dun) | somewhere            | land + what + \[at]           |
-|       | shizha(un)  | when                 | what + time + [context]       |
-|       | zhashi(un)  | sometime             | time + what + \[context]      |
+|       | shizha(un)     | when                 | what + time + [context]       |
+|       | zhashi(un)     | sometime             | time + what + \[context]      |
 |       | shini(pi)      | how many, how much   | what + number + [of]          |
 |       | nishi(pi)      | some (amount) of     | number + what + \[of]         |
 |       | shiee          | which                | what + choices                |
@@ -733,11 +733,11 @@ NOTE: *These are the meanings of causative verbal nouns (`methi` and `yin'thi`pr
 |       | kome           | everyone             | all + person                  |
 |       | kokon          | everything           | all + thing                   |
 |       | kogogun(dun)   | everywhere           | all + land + \[at]            |
-|       | kozha(un)   | always / every time  | all + time + \[context]       |
+|       | kozha(un)      | always / every time  | all + time + \[context]       |
 |       | ksome          | noone                | no + person                   |
 |       | ksokon         | nothing              | no + thing                    |
 |       | ksogogun(dun)  | nowhere              | no + land + \[at]             |
-|       | ksozha(un)  | never                | no + time + \[context]        |
+|       | ksozha(un)     | never                | no + time + \[context]        |
 |       | ksoee          | none / neither       | no + choices                  |
 ## Grammar
 

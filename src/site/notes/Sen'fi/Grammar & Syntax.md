@@ -20,13 +20,14 @@ Particles are postpositions, meaning they go after the word that they mark e.g.
 | *wu*           | object     |
 | *en*           | verb       |
 
-| Noun descriptor                                | marks:                                                                                             |
-| ---------------------------------------------- | -------------------------------------------------------------------------------------------------- |
-| *pi*                                           | the noun possessed; possession (of)                                                                |
-| *pin*                                          | the noun chain possessed; acts *forwards* - like an "of" but with a wider range (aka. nested `pi`) |
-| *pe*                                           | the immediate noun being described; the start of an adjective chain                                |
-| *pen*                                          | the noun chain being described; acts *backwards* - like `pe` but it describes whole noun chains    |
-| *an*                                           | an adjective (-y, -ish, -like)                                                                     |
+| Noun descriptor | marks:                                                                                             |
+| --------------- | -------------------------------------------------------------------------------------------------- |
+| *pi*            | the noun possessed; possession (of)                                                                |
+| *pin*           | the noun chain possessed; acts *forwards* - like an "of" but with a wider range (aka. nested `pi`) |
+| *pe*            | the immediate noun being described; the start of an adjective chain                                |
+| *pen*           | the noun chain being described; acts *backwards* - like `pe` but it describes whole noun chains    |
+| *an*            | an adjective (-y, -ish, -like)                                                                     |
+| *a*             | past participle adjective (replaces `en` in verbs)                                                 |
 
 | Spatial postposition | marks the:                               |
 | -------------------- | ---------------------------------------- |
@@ -63,7 +64,7 @@ If an adjective chain is composed of only one adjective, `an` may be omitted. e.
 ## Special adjective chains need commas
 When including special adjectives (adjectives with special suffixes, listed later) in an adjective chain, you need to separate the adjectives with a **comma** character to avoid mistakes in parsing. Example:
 
-> `fu pe me thin bon-an'bo, yamigo-an, wa me wu in'han-en'to, me than in'han-an'tokso ` means "a fish which is bigger than a human, is brown, can eat humans, and is inedible for humans"
+> `fu pe me thin bon-an'bo, yamigo-an, wa me wu in'han-en'to, me than in'han-atokso ` means "a fish which is bigger than a human, is brown, can eat humans, and is inedible for humans"
 
 See Relative Clauses if you're confused why one adjective begins with `wa`.
 Also refer to Past Participles for the last adjective.
@@ -76,10 +77,11 @@ Also refer to Past Participles for the last adjective.
 In order to describe a whole noun chain we use `pen`:
 > `(fu pi mein) pen we-an`
 ## Adjectives as Past Participles
-Normally adjectives describe the quality of something, however if you replace the `en` in a verb root with `an` you describe what was done to something. Additional suffixes may be used as well.
+Normally adjectives describe the quality of something, however if you replace the `en` in a verb root with `u` you describe what was done to something. Additional suffixes may be used as well.
 
-> e.g. `mi-en` meaning "to see", turns into `mi-an` meaning "seen"
-> a suffix such as `tokso` can be added: `mi-an'tokso` meaning "cannot be seen"
+> e.g. `mi-en` meaning "to see", turns into `mi-a` meaning "seen"
+> a suffix such as `tokso` can be added: `mi-atokso` meaning "cannot be seen"
+
 ## Relative Clauses as Adjectives
 When describing a noun as doing something or having something done to it, begin an verbal adjective with `thu` (agent), `wa` (active) or `wu` (passive) within the adjective chain. As always, separate with commas. e.g.:
 

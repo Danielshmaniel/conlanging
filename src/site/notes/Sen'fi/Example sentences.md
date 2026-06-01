@@ -129,8 +129,8 @@
 - this thing can't be seen / this thing is invisible
 	kon'in wu mi-en'tokso
 	`this (obj) see (vrb, neg. potential)`
-	kon'in wa mi-an'tokso
-	`this (subj) see (adj, neg. potential)`
+	kon'in wa mi-atokso
+	`this (subj) see (pst prt, neg. potential)`
 
 - hide!
 	mithin'ban'enhya!
