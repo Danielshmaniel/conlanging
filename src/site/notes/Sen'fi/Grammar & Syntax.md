@@ -60,7 +60,7 @@ In a noun phrase, adjectives go *after* nouns, requiring `pe` after the noun and
 ## Special adjective chains need commas
 When including special adjectives (adjectives with special suffixes, listed [later](#Suffixes)) in an adjective chain, you need to separate the adjectives with a **comma** character, to avoid mistakes in parsing individual descriptors. Example:
 
-> `fu pe me thin bon-an'bo, yamigo-an, in'han-an'to ` means "fish which is bigger than a human, brown, and can be eaten"
+> `fu pe me thin bon-an'bo, yamigo-an, me wu in'han-en'to, me thu in'han-an'tokso ` means "a fish which is bigger than a human, brown, can eat humans, and cannot be eaten by humans"
 ## Lone adjectives
 If an adjective chain is composed of only one adjective, `an` may be omitted. e.g.:
 
@@ -73,7 +73,7 @@ If an adjective chain is composed of only one adjective, `an` may be omitted. e.
 
 In order to describe a whole noun chain we use `pen`:
 > `(fu pi mein) pen we-an`
-## Adjectives as past participles
+## Adjectives as Past Participles
 Normally adjectives describe the quality of something, however if you replace the `en` in a verb root with `an` you describe what was done to something. Additional suffixes may be used as well.
 
 > e.g. `mi-en` meaning "to see", turns into `mi-an` meaning "seen"
