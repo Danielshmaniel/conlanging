@@ -74,7 +74,7 @@ BTW, i put a tiny bit of touhou references in my words, such as `ban` (boundary)
 | A Soul as Scarlet as a Ground Cherry     | qa pen Cherasus the van-si unnen yami-lumaya                      | (scarlet resembling crushed 'cerasus' fruit) spirit                                       |
 | Apparitions Stalk the Night              | konmiqa wa zhatsu dun ksan-en                                     |                                                                                           |
 | Lunate Elf                               | qazashii pe tsu-than ksodenno                                     | moon-crazy mystical creature                                                              |
-| Beloved Tomboyish Girl                   | buzhin pe da-anzhin qu-an                                         | almost-woman who is, kind of masculine, and loved                                         |
+| Beloved Tomboyish Girl                   | buzhin pe da-anzhin, qu-an                                        | almost-woman who is, kind of masculine, and loved                                         |
 | Shanghai Teahouse ~ Chinese Tea          | monhu pi Cha the luhan pi Shanhai the ~ Cha the luhan pi Sina the | 'cha' is a japanese/chinese/universal word for "tea". 'Sina' is the latin name for China. |
 | Shanghai Alice of Meiji 17               | Shanhai Alis the me pi Meiji the zha pe junnan                    |                                                                                           |
 | Voile, the Magic Library                 | Vuwala the mi-enhya, monhusen pe zashii wa dun                    | look, in a 'Voile' way, magical writing-house is there                                    |

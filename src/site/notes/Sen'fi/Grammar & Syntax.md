@@ -53,12 +53,16 @@ Particles are postpositions, meaning they go after the word that they mark e.g.
 
 # Adjectives
 
-## Adjective chains
-In a noun phrase, adjectives go *after* nouns, requiring `pe` after the noun and `an` after each adjective. Within `pe`, a chain of `an` suffixes is used to list adjectives describing one noun. e.g.:
+## Simple adjective chains
+In a noun phrase, adjectives go *after* nouns, requiring `pe` after the noun and `an` after each adjective. Within `pe`, a chain of simple `an` suffixes is used to list adjectives describing one noun. e.g.:
 
 >`fu pe bon-an yamigo-an` means "big brown fish"
+## Special adjective chains need commas
+When including special adjectives (adjectives with special suffixes, listed [later](#Suffixes)) in an adjective chain, you need to separate the adjectives with a **comma** character, to avoid mistakes in parsing individual descriptors. Example:
+
+> `fu pe me thin bon-an'bo, yamigo-an, in'han-an'to ` means "fish which is bigger than a human, brown, and can be eaten"
 ## Lone adjectives
-If an adjective chain is composed of only one adjective, "an" may be omitted. e.g.:
+If an adjective chain is composed of only one adjective, `an` may be omitted. e.g.:
 
 >`fu pe bon` means "big fish"
 ## pe vs. pen
@@ -76,7 +80,7 @@ Normally adjectives describe the quality of something, however if you replace th
 > a suffix such as `tokso` can be added: `mi-an'tokso` meaning "cannot be seen"
 
 Note: when you want to give a whole relative clause instead of just an adjectival past participle, use `pithu` (agent), `piwa` (active) or `piwu` (passive).
-## Suffixes
+## Special Suffixes
 ### Negative
 `-an'kso` = not (adj.)
 (`kso` can be affixed to all the below suffixes)
@@ -90,7 +94,8 @@ Note: when you want to give a whole relative clause instead of just an adjectiva
 `-an'on` = too (adj.)
 ### Potential
 `-an'to` = can be (adj); (vrb)-able
-
+### Approximate
+`-an'zhin` = almost/kind of (adj)
 # Possession
 To show possession or composition you use `pi`. You start with the "head noun", and then the next words are called "modifiers". A chain of `pi` nest each other. In the case that you want to group multiple words as one modifier, `o` is used to join said words within the `pi`. Example:
 
