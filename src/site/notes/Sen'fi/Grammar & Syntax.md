@@ -76,7 +76,7 @@ In order to describe a whole noun chain we use `pen`:
 Also in cases where `pe` is nested, `pen` is used beforehand:
 > `fu pen (fu pe ee wu in'han-en'ksun)`
 ## Verbal adjectives
-Verbs can be used as adjectives. e.g.:
+Verb phrases can be used as adjectives. e.g.:
 
 > `fu pen fu pe ee wu in'han-en'ksun` = a fish which ate other fish
 ## Adjectives as Past Participles
