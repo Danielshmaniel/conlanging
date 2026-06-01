@@ -56,14 +56,14 @@ Particles are postpositions, meaning they go after the word that they mark e.g.
 In a noun phrase, adjectives go *after* nouns, requiring `pe` after the noun and `an` after each adjective. Within `pe`, a chain of simple `an` suffixes is used to list adjectives describing one noun. e.g.:
 
 >`fu pe bon-an yamigo-an` means "big brown fish"
-## Special adjective chains need commas
-When including special adjectives (adjectives with special suffixes, listed [later](#Suffixes)) in an adjective chain, you need to separate the adjectives with a **comma** character, to avoid mistakes in parsing individual descriptors. Example:
-
-> `fu pe me thin bon-an'bo, yamigo-an, me wu in'han-en'to, me than in'han-an'tokso ` means "a fish which is bigger than a human, brown, can eat humans, and inedible for humans"
 ## Lone adjectives
 If an adjective chain is composed of only one adjective, `an` may be omitted. e.g.:
 
 >`fu pe bon` means "big fish"
+## Special adjective chains need commas
+When including special adjectives (adjectives with special suffixes, listed [later](#Suffixes)) in an adjective chain, you need to separate the adjectives with a **comma** character, to avoid mistakes in parsing individual descriptors. Example:
+
+> `fu pe me thin bon-an'bo, yamigo-an, me wu in'han-en'to, me than in'han-an'tokso ` means "a fish which is bigger than a human, brown, can eat humans, and inedible for humans"
 ## pe vs. pen
 `pe` only modifies the immediate noun preceding it, not the whole noun chain. So:
 
@@ -73,7 +73,7 @@ If an adjective chain is composed of only one adjective, `an` may be omitted. e.
 In order to describe a whole noun chain we use `pen`:
 > `(fu pi mein) pen we-an`
 ## Verbal adjectives
-Verbs can be used as adjectives.
+Verbs can be used as adjectives. e.g.:
 
 > `fu pen fu pe ee wu in'han-en'ksun` = a fish which ate other fish
 ## Adjectives as Past Participles
