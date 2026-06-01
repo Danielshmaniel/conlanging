@@ -72,6 +72,9 @@ When including special adjectives (adjectives with special suffixes, listed [lat
 
 In order to describe a whole noun chain we use `pen`:
 > `(fu pi mein) pen we-an`
+
+Also in cases where `pe` is nested, `pen` is used beforehand:
+> `fu pen (fu pe ee wu in'han-en'ksun)`
 ## Verbal adjectives
 Verbs can be used as adjectives. e.g.:
 
