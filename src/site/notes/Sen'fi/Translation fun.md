@@ -24,7 +24,7 @@ BTW, i put a tiny bit of touhou references in my words, such as `ban` (boundary)
 | Double Spoiler                | me pi fen-enkon pen nifun          | the second exposer (as in exposing someone in journalism/photography; assuming that "spoiler" means that) |
 | Great Fairy Wars              | ksabontso pi meziyami              | the big battles of butterfly-people                                                                       |
 | Ten Desires                   | hya pe jun                         |                                                                                                           |
-| Hopeless Masquerade           | mime pi bannon pen ksohyalen       | mask meeting/party of no hope                                                                             |
+| Hopeless Masquerade           | mimeman pi bannon pen ksohyalen    | mask party of no hope                                                                                     |
 | Double Dealing Character      | me pi duun pe fun                  | person of two realities (assuming that the title refers to the one who manipulates the mirror reality)    |
 ### Touhou place names
 
