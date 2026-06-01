@@ -42,9 +42,9 @@ Particles are postpositions, meaning they go after the word that they mark e.g.
 | *tha*                | effect clause (works in tandem with reason clause `thi`)                                                               |
 | *tho*                | quotation                                                                                                              |
 | *the*                | foreign phrase written in the alphabet script                                                                          |
-| *pithu ... un'wa*    | relative clause of an agent<br>e.g.: `me pithu meda wa ksun'qa-en'ksun un'wa X` means "the person who killed him is X" |
-| *piwa ... un'wa*     | relative clause of a subject<br>e.g.: `me piwa lugun wu qu un'wa meda` means "the person who loves the sea is him"     |
-| *piwu ... un'wa*     | relative clause of an object<br>e.g.: `fu piwu in'han-en'ksun un'wa we-an` means "the fish which was eaten was good"   |
+| *pethu ... un'wa*    | relative clause of an agent<br>e.g.: `me pethu meda wa ksun'qa-en'ksun un'wa X` means "the person who killed him is X" |
+| *pewa ... un'wa*     | relative clause of a subject<br>e.g.: `me pewa lugun wu qu un'wa meda` means "the person who loves the sea is him"     |
+| *pewu ... un'wa*     | relative clause of an object<br>e.g.: `fu pewu in'han-en'ksun un'wa we-an` means "the fish which was eaten was good"   |
 | extra: *piun ... un* | relative clause of an adverbial<br>e.g.: `zha-piun X un, Y` means "when X, Y"                                          |
 
 | Special particle | Function                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
@@ -61,9 +61,9 @@ If an adjective chain is composed of only one adjective, `an` may be omitted. e.
 
 >`fu pe bon` means "big fish"
 ## Special adjective chains need commas
-When including special adjectives (adjectives with special suffixes, listed [later](#Suffixes)) in an adjective chain, you need to separate the adjectives with a **comma** character, to avoid mistakes in parsing individual descriptors. Example:
+When including special adjectives (adjectives with special suffixes, listed [later](#Suffixes)) in an adjective chain, you need to separate the adjectives with a **comma** character to avoid mistakes in parsing. Example:
 
-> `fu pe me thin bon-an'bo, yamigo-an, me wu in'han-en'to, me than in'han-an'tokso ` means "a fish which is bigger than a human, brown, can eat humans, and inedible for humans"
+> `fu pe me thin bon-an'bo, yamigo-an, wa me wu in'han-en'to, me than in'han-an'tokso ` means "a fish which is bigger than a human, is brown, can eat humans, and is inedible for humans"
 ## pe vs. pen
 `pe` only modifies the immediate noun preceding it, not the whole noun chain. So:
 
@@ -72,20 +72,16 @@ When including special adjectives (adjectives with special suffixes, listed [lat
 
 In order to describe a whole noun chain we use `pen`:
 > `(fu pi mein) pen we-an`
-
-Also in cases where `pe` is nested, `pen` is used beforehand:
-> `fu pen (fu pe ee wu in'han-en'ksun)`
-## Verbal adjectives
-Verb phrases can be used as adjectives. e.g.:
-
-> `fu pen fu pe ee wu in'han-en'ksun` = a fish which ate other fish
 ## Adjectives as Past Participles
 Normally adjectives describe the quality of something, however if you replace the `en` in a verb root with `an` you describe what was done to something. Additional suffixes may be used as well.
 
 > e.g. `mi-en` meaning "to see", turns into `mi-an` meaning "seen"
 > a suffix such as `tokso` can be added: `mi-an'tokso` meaning "cannot be seen"
+## Relative Clauses as Adjectives
+When describing a noun as doing something or having something done to it, begin an verbal adjective with `thu` (agent), `wa` (active) or `wu` (passive) within the adjective chain. As always, separate with commas. e.g.:
 
-Note: when you want to give a whole relative clause instead of just an adjectival past participle, use `pithu` (agent), `piwa` (active) or `piwu` (passive).
+> `fu pe yamigo-an, wu fu pe ee wa gavahan-an` = a fish which is brown and was devoured by another fish
+> `fu pe yamigo-an, wa fu pe ee wu gavahan-en` = a fish which is brown and devours another fish
 ## Special Suffixes
 ### Negative
 `-an'kso` = not (adj.)

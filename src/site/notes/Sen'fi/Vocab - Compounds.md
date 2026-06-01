@@ -748,10 +748,10 @@ NOTE: *These are the meanings of causative verbal nouns (`methi` and `yin'thi`pr
 |                          | un'shi         | (question marker; makes the preceding sentence/clause a question)                                              | (context) + what           |
 |                          | un'wa          | (turns the preceding clause into the subject), e.g. ...ing ... is                                              | (context) + (subj)         |
 |                          | un'wu          | (makes the preceding clause an object)                                                                         | (context) + (obj)          |
-|                          | pithuwa        | (relative self-agent clause), that, which, who ...s oneself<br><br>*(s.agt) pithuwa (vrb) un'wa ...*           | of + (self-agent)          |
-|                          | pithu          | (relative agent clause), causative that, which, who<br><br>*(agt) pithu (subj) wa \[(obj) wu] (vrb) un'wa ...* | of + (agent)               |
-|                          | piwa           | (relative subject clause), that, which, who<br><br>*(subj) piwa \[(obj) wu] (vrb) un'wa ...*                   | of + (subj)                |
-|                          | piwu           | (relative object clause), that/which/who is -ed<br><br>*(obj) piwu \[(agt) thu] \[(subj) wa] (vrb) un'wa ...*  | of + (obj)                 |
+|                          | pethuwa        | (relative self-agent clause), that, which, who ...s oneself<br><br>*(s.agt) pethuwa (vrb) un'wa ...*           | (pe) + (self-agent)        |
+|                          | pethu          | (relative agent clause), causative that, which, who<br><br>*(agt) pethu (subj) wa \[(obj) wu] (vrb) un'wa ...* | (pe) + (agent)             |
+|                          | pewa           | (relative subject clause), that, which, who<br><br>*(subj) pewa \[(obj) wu] (vrb) un'wa ...*                   | (pe) + (subj)              |
+|                          | pewu           | (relative object clause), that/which/who is -ed<br><br>*(obj) pewu \[(agt) thu] \[(subj) wa] (vrb) un'wa ...*  | (pe) + (obj)               |
 |                          | thowu          | (makes the preceding quote an object), e.g. to think that "..."                                                | (quote) + (obj)            |
 |                          | thu'wa         | (self-agent marker)                                                                                            | (agent) + (subject)        |
 |                          | methi-         | (general causative noun)                                                                                       | person + because           |
