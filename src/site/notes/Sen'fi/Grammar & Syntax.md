@@ -61,12 +61,12 @@ If an adjective chain is composed of only one adjective, `an` may be omitted. e.
 
 >`fu pe bon` means "big fish"
 ## Special adjective chains need commas
-When including special adjectives (adjectives with special suffixes, listed [later](#Adjectives#Special Suffixes)) in an adjective chain, you need to separate the adjectives with a **comma** character to avoid mistakes in parsing. Example:
+When including special adjectives (adjectives with special suffixes, listed later) in an adjective chain, you need to separate the adjectives with a **comma** character to avoid mistakes in parsing. Example:
 
 > `fu pe me thin bon-an'bo, yamigo-an, wa me wu in'han-en'to, me than in'han-an'tokso ` means "a fish which is bigger than a human, is brown, can eat humans, and is inedible for humans"
 
-See [Relative Clauses](#Adjectives#Relative Clauses as Adjectives) if you're confused why one adjective begins with `wa`.
-Also refer to [Past Participles](#Adjectives#Adjectives as Past Participles) for the last adjective.
+See Relative Clauses if you're confused why one adjective begins with `wa`.
+Also refer to Past Participles for the last adjective.
 ## pe vs. pen
 `pe` only modifies the immediate noun preceding it, not the whole noun chain. So:
 
