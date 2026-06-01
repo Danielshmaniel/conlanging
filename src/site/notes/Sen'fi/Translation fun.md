@@ -40,7 +40,7 @@ BTW, i put a tiny bit of touhou references in my words, such as `ban` (boundary)
 | Great Fairy Treehouse                           | vo pe bon pi meziyami            | big tree of butterfly-people                                  |
 | Eientei<br>lit. House of Eternity               | monhu pi ksoksun                 | house of no end                                               |
 | Forest of Magic                                 | bovo pi zashii                   | group of trees of mysterious energy                           |
-| Bamboo Forest of the Lost                       | bovo the Banbu pi shiiho         | group of trees of the Bamboo kind of way-confusion            |
+| Bamboo Forest of the Lost                       | Banbu-the bovo pi shiiho         | group of trees of the Bamboo kind of way-confusion            |
 | Sanzu River                                     | Sanzu-the lule                   | water-line called Sanzu                                       |
 | Netherworld                                     | gun pi konmiqa                   | realm of ghosts                                               |
 | Nameless Hill                                   | gonbin pi kso-jakonqa            | small mountain of no name                                     |
@@ -83,5 +83,5 @@ BTW, i put a tiny bit of touhou references in my words, such as `ban` (boundary)
 | Lunar Clock ~ Luna Dial                  | tonzha pe tsu ~ Luna-the tonnitsen                                      | lunar timepiece ~ "Luna" round measuring instrument                                       |
 | The Young Descendant of Tepes            | mezhalen pe pya pi Tepesh-the                                           |                                                                                           |
 | Septette for a Dead Princess             | pyaburo pe ksunqa than Septet-the manhefi                               |                                                                                           |
-| The Centennial Festival of Magical Girls | mimeman pi tsen'yun pe hyan pin bu-zashii-tso                           | fun gathering of 100 solar cycles of magical girls                                        |
+| The Centennial Festival of Magical Girls | mimeman pi tsen'yun pe hyan pin buzashii-tso                            | fun gathering of 100 solar cycles of magical girls                                        |
 | U.N. Owen was Her?                       | mebu wa Yu En Owen-the unshi?                                           |                                                                                           |
