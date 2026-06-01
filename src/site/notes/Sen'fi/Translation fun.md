@@ -19,7 +19,7 @@ BTW, i put a tiny bit of touhou references in my words, such as `ban` (boundary)
 | Shoot the Bullet              | qifin wa taqifin-en                | lit. the projectile gets projected                                                                        |
 | Mountain of Faith             | gon pi dyun                        |                                                                                                           |
 | Scarlet Weather Rhapsody      | manhefi pi hemahewi pe yami-lumaya | music of the skies' bright-red mood                                                                       |
-| Subterranean Animism          | dyun pi qa dun wogo                | belief in spirits in the underground                                                                      |
+| Subterranean Animism          | wogo-dun dyun pi qa                | belief in spirits in the underground                                                                      |
 | Unidentified Fantastic Object | kon pe mino-an shii-an             |                                                                                                           |
 | Double Spoiler                | me pi fen-enkon pen nifun          | the second exposer (as in exposing someone in journalism/photography; assuming that "spoiler" means that) |
 | Great Fairy Wars              | ksabontso pi meziyami              | the big battles of butterfly-people                                                                       |
@@ -34,7 +34,7 @@ BTW, i put a tiny bit of touhou references in my words, such as `ban` (boundary)
 | Human Village                                   | bomonhu pi meme                  | group of houses of human people                               |
 | Hakurei Shrine                                  | Hakure-the monhu-qya             | god house of Hakurei                                          |
 | Moriya Shrine                                   | Moriya-the monhu-qya             |                                                               |
-| Scarlet Devil Mansion                           | monhuba pi qaksan pe yami-lumaya | rich-house of the bright-blood-coloured horror-spirit         |
+| Scarlet Devil Mansion                           | monhubon pi qaksan pe yami-lumaya | rich-house of the bright-blood-coloured horror-spirit         |
 | Misty Lake                                      | malu pe helushii                 | body of water with unclear humid air                          |
 | Youkai Mountain                                 | gon pi qahewi                    | mountain of (sky) spirits                                     |
 | Great Fairy Treehouse                           | vo pe bon pi meziyami            | big tree of butterfly-people                                  |
@@ -45,9 +45,9 @@ BTW, i put a tiny bit of touhou references in my words, such as `ban` (boundary)
 | Netherworld                                     | gun pi konmiqa                   | realm of ghosts                                               |
 | Nameless Hill                                   | gonbin pi kso-jakonqa            | small mountain of no name                                     |
 | Garden of the Sun                               | govava pi yun                    |                                                               |
-| Ruined Western Mansion                          | monhuba pe hoyunwo-an kizho-an   | rich-house like the direction of sunset (west) and age-broken |
+| Ruined Western Mansion                          | monhubon pe hoyunwo-an kizho-an   | rich-house like the direction of sunset (west) and age-broken |
 | Heaven, Tenkai<br>lit. Celestial World          | gunhewi                          | realm-of-sky                                                  |
-| Palace of the Earth Spirits                     | monhuba pi qa-go                 |                                                               |
+| Palace of the Earth Spirits                     | monhubon pi qa-go                 |                                                               |
 | Old Hell                                        | huksan pe zho                    | horror-pit of old                                             |
 | Old Capital                                     | bomonhu pe zho                   | house-group of old                                            |
 | Spring Path                                     | hota pi zhava                    | walking-way of plant-time                                     |
