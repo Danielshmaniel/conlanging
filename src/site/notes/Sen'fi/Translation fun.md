@@ -77,7 +77,7 @@ BTW, i put a tiny bit of touhou references in my words, such as `ban` (boundary)
 | Beloved Tomboyish Girl                   | buzhin pe da-anzhin qu-an                                         | almost-woman who is, kind of masculine, and loved                                         |
 | Shanghai Teahouse ~ Chinese Tea          | monhu pi Cha the luhan pi Shanhai the ~ Cha the luhan pi Sina the | 'cha' is a japanese/chinese/universal word for "tea". 'Sina' is the latin name for China. |
 | Shanghai Alice of Meiji 17               | Shanhai Alis the me pi Meiji the zha pe junnan                    |                                                                                           |
-| Voile, the Magic Library                 | Vuwala the mi-enhya, monhu-bofansen pe zashii wa dun              | look, in a 'Voile' way, magical book-house is there                                       |
+| Voile, the Magic Library                 | Vuwala the mi-enhya, monhu-sen pe zashii wa dun                   | look, in a 'Voile' way, magical writing-house is there                                    |
 | Locked Girl ~ the Girl's Sealed Room     | bu pe ban ~ hu pe ban pin buzhin                                  |                                                                                           |
 | The Maid and the Pocket Watch of Blood   | buten-monhu o tonzha pi luma                                      |                                                                                           |
 | Lunar Clock ~ Luna Dial                  | tonzha pe tsu ~ Luna the tonnitsen                                |                                                                                           |
