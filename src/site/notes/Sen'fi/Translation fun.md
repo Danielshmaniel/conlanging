@@ -84,4 +84,4 @@ BTW, i put a tiny bit of touhou references in my words, such as `ban` (boundary)
 | The Young Descendant of Tepes            | mezhalen pe pya pi Tepesh-the                                           |                                                                                           |
 | Septette for a Dead Princess             | pyaburo pe ksunqa than Septet-the manhefi                               |                                                                                           |
 | The Centennial Festival of Magical Girls | mimeman pi tsen'yun pe hyan pin bu-zashii-tso                           | fun gathering of 100 solar cycles of magical girls                                        |
-| U.N. Owen was Her?                       | mebu wa Yu En Owen-the un'shi?                                          |                                                                                           |
+| U.N. Owen was Her?                       | mebu wa Yu En Owen-the unshi?                                           |                                                                                           |
