@@ -68,14 +68,20 @@ BTW, i put a tiny bit of touhou references in my words, such as `ban` (boundary)
 | Great Youkai Forest                             | bovo pe bon pi qahewi            | big tree-group of sky spirits                                 |
 ### Touhou music titles
 
-| English Title                        | Translation                                                       | Note                                                                                      |
-| ------------------------------------ | ----------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
-| A Dream More Scarlet than Red        | mishu pen yamiluma thin ya-anbo                                   | a dream coloured brighter than blood                                                      |
-| A Soul as Scarlet as a Ground Cherry | qa pen Cherasus the van-si unnen yami-lumaya                      | (scarlet resembling crushed 'cerasus' fruit) spirit                                       |
-| Apparitions Stalk the Night          | konmiqa wa zhatsu dun ?-en                                        |                                                                                           |
-| Lunate Elf                           | qazashii pe tsu-than ksodenno                                     | moon-crazy mystical creature                                                              |
-| Beloved Tomboyish Girl               | buzhin pe da-anzhin qu-an                                         | almost-woman who is, kind of masculine, and loved                                         |
-| Shanghai Teahouse ~ Chinese Tea      | monhu pi Cha the luhan pi Shanhai the ~ Cha the luhan pi Sina the | 'cha' is a japanese/chinese/universal word for "tea". 'Sina' is the latin name for China. |
-| Shanghai Alice of Meiji 17           | Shanhai Alis the me pi Meiji the zha pe junnan                    |                                                                                           |
-| Voile, the Magic Library             | Vuwala the mi-enhya, monhu-bofansen pe zashii wa dun              | look, in a 'Voile' way, magical book-house is there                                       |
-| Locked Girl                          | buzhin pe ban                                                     |                                                                                           |
+| English Title                            | Translation                                                       | Note                                                                                      |
+| ---------------------------------------- | ----------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| A Dream More Scarlet than Red            | mishu pen yamiluma thin ya-anbo                                   | a dream coloured brighter than blood                                                      |
+| A Soul as Scarlet as a Ground Cherry     | qa pen Cherasus the van-si unnen yami-lumaya                      | (scarlet resembling crushed 'cerasus' fruit) spirit                                       |
+| Apparitions Stalk the Night              | konmiqa wa zhatsu dun ksan-en                                     |                                                                                           |
+| Lunate Elf                               | qazashii pe tsu-than ksodenno                                     | moon-crazy mystical creature                                                              |
+| Beloved Tomboyish Girl                   | buzhin pe da-anzhin qu-an                                         | almost-woman who is, kind of masculine, and loved                                         |
+| Shanghai Teahouse ~ Chinese Tea          | monhu pi Cha the luhan pi Shanhai the ~ Cha the luhan pi Sina the | 'cha' is a japanese/chinese/universal word for "tea". 'Sina' is the latin name for China. |
+| Shanghai Alice of Meiji 17               | Shanhai Alis the me pi Meiji the zha pe junnan                    |                                                                                           |
+| Voile, the Magic Library                 | Vuwala the mi-enhya, monhu-bofansen pe zashii wa dun              | look, in a 'Voile' way, magical book-house is there                                       |
+| Locked Girl ~ the Girl's Sealed Room     | bu pe ban ~ hu pe ban pin buzhin                                  |                                                                                           |
+| The Maid and the Pocket Watch of Blood   | buten-monhu o tonzha pi luma                                      |                                                                                           |
+| Lunar Clock ~ Luna Dial                  | tonzha pe tsu ~ Luna the tonnitsen                                |                                                                                           |
+| The Young Descendant of Tepes            | mezhalen pe pya pi Tepesh the                                     |                                                                                           |
+| Septette for a Dead Princess             | pyaburo pe ksunqa than Septet the                                 |                                                                                           |
+| The Centennial Festival of Magical Girls | mimeman pi tsen'yun pe hyan pin bu-zashii-tso                     | fun gathering of 100 solar cycles of magical girls                                        |
+| U.N. Owen was Her?                       | mebu wa Yu En Owen the un'shi?                                    |                                                                                           |
