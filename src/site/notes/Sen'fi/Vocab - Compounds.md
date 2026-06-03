@@ -365,6 +365,7 @@
 |                              | rome                  | politics                                                                                                                                                                                                  | governing + people                                                      |
 |                              | jumero                | government                                                                                                                                                                                                | association + governing                                                 |
 |                              | gogun'ro              | country, state, kingdom                                                                                                                                                                                   | land + governed                                                         |
+|                              | aan'yin               | identity, personality, sense of self, what makes you you                                                                                                                                                  | characteristic + self                                                   |
 ## Feelings
 
 | glyph                   | sound           | meaning                                                           | combo                |
@@ -489,6 +490,9 @@
 |                         | (pe)boan'bi | less (noun)                                     | many + less                  |
 |                         | ksen'hin    | seclusion, exclusion of one thing, singling out | removal + single             |
 |                         | ksen'ba     | cost (*synonym of nin*)                         | taking away + money          |
+|                         | kozhin      | most                                            | all + almost                 |
+|                         | kibon       | majority, most                                  | part + big                   |
+|                         | kibin       | minority                                        | part + small                 |
 ## Spatial concepts
 
 | glyph                     | sound           | meaning                                                                                                                                  | combo                             |
@@ -543,6 +547,8 @@
 
 | glyph | sound                        | meaning                                                                                                               | combo                   |
 | ----- | ---------------------------- | --------------------------------------------------------------------------------------------------------------------- | ----------------------- |
+|       | kozha                        | always, forever, without fail                                                                                         | all + time              |
+|       | ksozha                       | never                                                                                                                 | no + time               |
 |       | zhava                        | spring                                                                                                                | period + vegetation     |
 |       | zhaka                        | summer                                                                                                                | period + heat           |
 |       | zhachu                       | winter                                                                                                                | period + cold           |
@@ -792,31 +798,31 @@ NOTE: *These are the meanings of causative verbal nouns (`methi` and `yin'thi`pr
 |                          | -an'zhin       | almost/quite/kind of (adj)                                                                                      | (adj) + almost             |
 ## Pronouns
 
-| glyph | sound        | meaning              | combo                                                                    |
-| ----- | ------------ | -------------------- | ------------------------------------------------------------------------ |
-|       | meyin        | I, me                | person + self<br>(*cross ref. to Maltese "jien" (where "yin" came from*) |
-|       | meyin'tso    | we, us               | me + (plural)                                                            |
-|       | menon        | you                  | person + faced, in front<br>(*cross ref. to Japanese "omae"*)            |
-|       | menon'tso    | you all              | you + (plural)                                                           |
-|       | meon         | him or her           | person + (far)                                                           |
-|       | daon         | he, him              | male + (far)                                                             |
-|       | buon         | she, her             | female + (far)                                                           |
-|       | meme-on      | they, them           | person + person + (far)                                                  |
-|       | meme-ee      | others, other people | people + other                                                           |
-|       | kon'in       | this                 | thing + (near)                                                           |
-|       | kon'on       | that / it            | thing + (far)                                                            |
-|       | kon'ee       | another              | thing + other                                                            |
-|       | kon'in'tso   | these                | this + (plural)                                                          |
-|       | kon'on'tso   | those                | that + (plural)                                                          |
-|       | yin'mein     | myself               | self + me                                                                |
-|       | yin'mein'tso | ourselves            | self + us                                                                |
-|       | yin'meon     | yourself             | self + you                                                               |
-|       | yin'meon'tso | yourselves           | self + you all                                                           |
-|       | yin'me       | oneself              | self + person                                                            |
-|       | yin'meda     | himself              | self + him                                                               |
-|       | yin'mebu     | herself              | self + her                                                               |
-|       | yin'memeon   | themselves           | self + they                                                              |
-|       | yin'kon'on   | itself               | self + it                                                                |
+| glyph | sound         | meaning              | combo                                                                    |
+| ----- | ------------- | -------------------- | ------------------------------------------------------------------------ |
+|       | meyin         | I, me                | person + self<br>(*cross ref. to Maltese "jien" (where "yin" came from*) |
+|       | meyin'tso     | we, us               | me + (plural)                                                            |
+|       | menon         | you                  | person + faced, in front<br>(*cross ref. to Japanese "omae"*)            |
+|       | menon'tso     | you all              | you + (plural)                                                           |
+|       | meon          | him or her           | person + (far)                                                           |
+|       | daon          | he, him              | male + (far)                                                             |
+|       | buon          | she, her             | female + (far)                                                           |
+|       | meme-on       | they, them           | person + person + (far)                                                  |
+|       | meme-ee       | others, other people | people + other                                                           |
+|       | kon'in        | this                 | thing + (near)                                                           |
+|       | kon'on        | that / it            | thing + (far)                                                            |
+|       | kon'ee        | another              | thing + other                                                            |
+|       | kon'in'tso    | these                | this + (plural)                                                          |
+|       | kon'on'tso    | those                | that + (plural)                                                          |
+|       | yin'meyin     | myself               | self + me                                                                |
+|       | yin'meyin'tso | ourselves            | self + us                                                                |
+|       | yin'meon      | yourself             | self + you                                                               |
+|       | yin'meon'tso  | yourselves           | self + you all                                                           |
+|       | yin'me        | oneself              | self + person                                                            |
+|       | yin'meda      | himself              | self + him                                                               |
+|       | yin'mebu      | herself              | self + her                                                               |
+|       | yin'memeon    | themselves           | self + they                                                              |
+|       | yin'kon'on    | itself               | self + it                                                                |
 ## Metalanguage
 
 | glyph | sound          | meaning                                                                                                                                                                        | combo                                                                      |
