@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sen-fi/about/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/sen-fi/about/"}
 ---
 
 # SEN'FI
