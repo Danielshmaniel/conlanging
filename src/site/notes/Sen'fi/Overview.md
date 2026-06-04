@@ -11,7 +11,6 @@ views:
     order:
       - file.name
     sort: []
-    image: note.feature
     imageFit: contain
     imageAspectRatio: 0.7
     cardSize: 150
