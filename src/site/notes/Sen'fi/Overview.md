@@ -7,7 +7,7 @@
 
 ```base
 views:
-  - type: cards
+  - type: table
     name: Table
     filters:
       and:
