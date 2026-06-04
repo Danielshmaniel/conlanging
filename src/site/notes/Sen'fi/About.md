@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sen-fi/about/"}
+{"dg-publish":true,"permalink":"/sen-fi/about/","dg-note-properties":{"feature":"Sen'fi/Excalidraw/OTHER/senfi.dark.svg"}}
 ---
 
 # SEN'FI

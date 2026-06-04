@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sen-fi/phonotactics-and-alphabet/"}
+{"dg-publish":true,"permalink":"/sen-fi/phonotactics-and-alphabet/","dg-note-properties":{}}
 ---
 
 ## Syllable count

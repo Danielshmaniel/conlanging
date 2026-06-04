@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sen-fi/vocab-atomic-radicals/"}
+{"dg-publish":true,"permalink":"/sen-fi/vocab-atomic-radicals/","dg-note-properties":{}}
 ---
 
 # Concrete things
