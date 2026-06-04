@@ -5,9 +5,6 @@
 (WIP)
 
 ```base
-properties:
-  note.keyword:
-    displayName: =
 views:
   - type: cards
     name: Table
