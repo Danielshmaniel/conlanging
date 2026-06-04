@@ -4,7 +4,6 @@
 
 (WIP)
 
-
 ```base
 views:
   - type: table
