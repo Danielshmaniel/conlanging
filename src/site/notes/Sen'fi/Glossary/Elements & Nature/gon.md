@@ -9,7 +9,8 @@
 | ~          | *n.*         | mountain, peak / heap / bump |
 ### Etymology
 #### Glyph
-山. maybe the Gozitan flag :P
+- 山
+- maybe the Gozitan flag :P
 #### Sound
 - Related to [[Sen'fi/Glossary/Elements & Nature/go\|go]] (earth)
 - *a priori:* g=earthliness, on=rounded

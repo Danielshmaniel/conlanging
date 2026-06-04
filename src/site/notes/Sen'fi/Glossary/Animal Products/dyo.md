@@ -13,4 +13,4 @@
 #### Glyph
 inspired from 甲, and turtle shells resembling shields (testudo).
 #### Sound
-- Related to [[Sen'fi/Excalidraw/Elements & Natural materials/do\|Sen'fi/Excalidraw/Elements & Natural materials/do]] (rock)
+- Related to [[Sen'fi/Glossary/Elements & Nature/do\|do]] (rock)
