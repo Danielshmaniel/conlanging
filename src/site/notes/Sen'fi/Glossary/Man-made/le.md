@@ -7,6 +7,8 @@
 | infl. | class | meaning                     |
 | ----- | ----- | --------------------------- |
 | ~     | *n.*  | thread, strand, fibre, line |
+### Implied meaning
+- sequence
 ### Etymology
 #### Glyph
 kanji silk/thread radical 幺. Drawn easily by interlocking three "2"s.
