@@ -16,7 +16,7 @@
 | ~un        | *adv.*       | normally, usually / directly, accurately                                                                                                                  |
 ### Etymology
 #### Glyph
-
+直, a line perpendicular to an eye, showing that something is being perceived right
 #### Sound
 - *a priori:* d=forceful, en=connective
 #### Meaning
