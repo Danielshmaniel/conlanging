@@ -12,4 +12,5 @@
 口 + the curve represents a tongue inside
 #### Sound
 - Japanese onomatopoeia "hamuhamu"
+- *imitative of:* eating something
 - *a priori:* h=emptiness/hunger, an=bodily

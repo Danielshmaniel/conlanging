@@ -13,3 +13,4 @@
 simple pictograph ([[Sen'fi/Glossary/Creatures/gi\|gi]] + wings)
 #### Sound
 - *a priori:* z=buzzing, i=smallness
+- *imitative of:* buzzing
