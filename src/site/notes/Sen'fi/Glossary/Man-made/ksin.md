@@ -11,5 +11,6 @@
 #### Glyph
 oracle bone script 刀
 #### Sound
-- *a priori:* ks=destruction, in=sharp (imitative of a sword being unsheathed or the blow of a sword)
+- *a priori:* ks=destruction, in=sharp
+- *imitative of:* a sword being unsheathed, or the blow of a sword
 - Related to [[Sen'fi/Glossary/Man-made/ksi\|ksi]] (blade, knife)

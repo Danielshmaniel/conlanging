@@ -16,4 +16,5 @@
 - Resembles a Japanese torii gate
 - Not to be confused with 円
 #### Sound
-- *a priori:* b=solidity, an=strength (imitative of a door slamming shut)
+- *a priori:* b=solidity, an=strength
+- *imitative of:* a door slamming shut

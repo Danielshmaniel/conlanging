@@ -21,4 +21,6 @@
 [[Sen'fi/Glossary/Man-made/hu\|hu]] with open gates, compare with [[Sen'fi/Glossary/Man-made/ban\|ban]].
 Not to be confused with 卯.
 #### Sound
-- *a priori:* f=flow, en=process (imitative of curtains opening or something being sliced open)
+- *a priori:* f=flow, en=process
+- *imitative of:* curtains opening, or something being sliced open
+- Slightly related to [[Sen'fi/Glossary/Body parts/fe\|fe]] (nose; both words have "flow" of air in and out) 
