@@ -7,7 +7,9 @@
 | infl. | class  | meaning                                   |
 | ----- | ------ | ----------------------------------------- |
 | ~     | *n.*   | child, young one                          |
-| ~an   | *adj.* | young, new, fresh *(synonyms of [[Sen'fi/Glossary/Temporal concepts/gen\|gen]])* |
+| ~an   | *adj.* | young, new, fresh *(synonyms of [[Sen'fi/Excalidraw/Temporal concepts/gen\|gen]])* |
+### Implied meaning
+- youth
 ### Etymology
 #### Glyph
 子

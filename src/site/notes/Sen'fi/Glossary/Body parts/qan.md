@@ -13,4 +13,4 @@ oracle bone script of 心
 #### Sound
 - Maltese "qalb", (qa + n)
 - *a priori:* q=beating, an=bodily (imitative of a heart beating)
-- Related to [[Sen'fi/Excalidraw/Concepts/qa\|qa]] (life)
+- Related to [[Sen'fi/Excalidraw/Concepts/qa\|Sen'fi/Excalidraw/Concepts/qa]] (life)

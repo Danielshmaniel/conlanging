@@ -9,6 +9,8 @@
 | ~     | *n.*   | elder, senior       |
 | ~en   | *v.*   | to age, to grow old |
 | ~an   | *adj.* | old                 |
+### Implied meaning
+- age, oldness
 ### Etymology
 #### Glyph
 老, a crooked person with a cane

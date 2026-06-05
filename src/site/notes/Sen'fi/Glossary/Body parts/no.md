@@ -7,6 +7,8 @@
 | infl.      | class        | meaning |
 | ---------- | ------------ | ------- |
 | ~          | *n.*         | head    |
+### Implied meaning
+- mind
 ### Etymology
 #### Glyph
 simple pictograph, circling the head part of a person sitting down.

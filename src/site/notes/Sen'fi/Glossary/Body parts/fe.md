@@ -6,9 +6,11 @@
 ### Meaning
 | infl. | class  | meaning        |
 | ----- | ------ | -------------- |
-| ~     | *n.*   | nose / (smell) |
+| ~     | *n.*   | nose           |
 | ~en   | *v.*   | to smell (tr.) |
 | ~a    | *psv.* | smelled        |
+### Implied meaning
+- smell, scent
 ### Etymology
 #### Glyph
 oracle bone script of 自 (originally meaning "nose", not "myself").

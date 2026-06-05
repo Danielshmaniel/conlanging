@@ -6,9 +6,11 @@
 ### Meaning
 | infl. | class  | meaning                      |
 | ----- | ------ | ---------------------------- |
-| ~     | *n.*   | ear / (hearing)              |
+| ~     | *n.*   | ear                          |
 | ~en   | *v.*   | to hear, listen, sense (tr.) |
 | ~a    | *psv.* | heard                        |
+### Implied meaning
+- hearing
 ### Etymology
 #### Glyph
 earlier script of 耳
