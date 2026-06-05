@@ -171,12 +171,12 @@ A demonstrative determiner is when you say "This fish". This is represented usin
 > *NOUN* `pi hoin/hoon`
 > so `fu pi hoin`
 
-# Post-verbs & Verb chains
-To chain verbs you just split them with `en` suffixes like you do with `an` adjective lists. Since they are chained, the tense is only applied to the last `en` suffix, like in Japanese. Post-verbs obviously go after the main verb. `o` is used to separate verb chains.
+# Pre-verbs & Verb chains
+To chain verbs you just split them with `en` suffixes like you do with `an` adjective lists. Since they are chained, the tense is only applied to the last `en` suffix, like in Japanese. Pre-verbs obviously go before the main verb. `o` is used to separate verb chains.
 
->`shuma-en gen-en'ksun` means "started to sleep"
->`shuma-en hya-en gen-en` means "starts wanting to sleep"
->`shuma-en hya-en gen-en o ja-en shuta-en` means "starts wanting to sleep and stops talking"
+>`gen-en shuma-en'ksun` means "started to sleep"
+>`gen-en hya-en shuma-en` means "starts wanting to sleep"
+>`gen-en hya-en shuma-en o shuta-en ja-en` means "starts wanting to sleep and stops talking"
 
 # Tenses
 ## Present / Infinitive
