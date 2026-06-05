@@ -12,7 +12,8 @@
 | ~a      | *psv.*  | hidden, shut off, closed                                                   |
 ### Etymology
 #### Glyph
-[[Sen'fi/Glossary/Man-made/hu\|hu]], with closed gates like 門.
-Not to be confused with 円.
+- [[Sen'fi/Glossary/Man-made/hu\|hu]], with closed gates like 門
+- Resembles a Japanese torii gate
+- Not to be confused with 円
 #### Sound
 - *a priori:* b=solidity, an=strength (imitative of a door slamming shut)
