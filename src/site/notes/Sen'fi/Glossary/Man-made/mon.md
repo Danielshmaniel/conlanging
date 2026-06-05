@@ -13,7 +13,7 @@
 - to embrace, to wrap around
 - protection (from the elements -> in general)
 ### Synonym
-- [[Sen'fi/Excalidraw/Concepts/ban\|Sen'fi/Excalidraw/Concepts/ban]] (to hide, obstruct, close, cover)
+- [[Sen'fi/Glossary/Man-made/ban\|ban]] (to hide, obstruct, close, cover)
 ### Etymology
 #### Glyph
 宀 (not to be confused with 介; the vertical lines are walls here)
