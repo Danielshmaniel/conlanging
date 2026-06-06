@@ -15,6 +15,7 @@ views:
     order:
       - file.name
       - keyword
+      - kanji
     sort:
       - property: file.name
         direction: ASC
