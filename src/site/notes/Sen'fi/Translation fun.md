@@ -34,7 +34,7 @@ BTW, i put a tiny bit of touhou references in my words, such as `ban` (boundary)
 | Human Village                                   | bomon pi meme                   | group of houses of human people                               |
 | Hakurei Shrine                                  | Hakure-the mon-qya              | god house of Hakurei                                          |
 | Moriya Shrine                                   | Moriya-the mon-qya              |                                                               |
-| Scarlet Devil Mansion                           | monbon pi qaksan pe yami-lumaya | rich-house of the bright-blood-coloured horror-spirit         |
+| Scarlet Devil Mansion                           | monbon pi qaksan pe yami-lumaya | big-house of the bright-blood-coloured horror-spirit          |
 | Misty Lake                                      | malu pe helushii                | body of water with unclear humid air                          |
 | Youkai Mountain                                 | gon pi qahewi                   | mountain of (sky) spirits                                     |
 | Great Fairy Treehouse                           | vo pe bon pi meziyami           | big tree of butterfly-people                                  |
@@ -69,23 +69,23 @@ BTW, i put a tiny bit of touhou references in my words, such as `ban` (boundary)
 ## Touhou music titles
 ### EoSD
 
-| English Title                            | Translation                                                             | Note                                                                                      |
-| ---------------------------------------- | ----------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
-| A Dream More Scarlet than Red            | mishu pen yamiluma thin ya-anbo                                         | a dream coloured brighter than blood                                                      |
-| A Soul as Scarlet as a Ground Cherry     | qa pen Cherasus-the van-si unnen yami-lumaya                            | (scarlet resembling crushed 'cerasus' fruit) spirit                                       |
-| Apparitions Stalk the Night              | konmiqa wa zhatsu dun ksan-en                                           |                                                                                           |
-| Lunate Elf                               | qazashii pe tsu-than ksodenno                                           | moon-crazy mystical creature                                                              |
-| Beloved Tomboyish Girl                   | buzhin pe da-anzhin, qu-a                                               | almost-woman who is, kind of masculine, and loved                                         |
-| Shanghai Teahouse ~ Chinese Tea          | mon pi Cha-the luinhan pi Shanhai the ~ Sina-the-thin Cha-the luinhan | 'cha' is a japanese/chinese/universal word for "tea". 'Sina' is the latin name for China. |
-| Shanghai Alice of Meiji 17               | Shanhai Alis-the me pi Meiji-the zha pe junnan                          |                                                                                           |
+| English Title                            | Translation                                                           | Note                                                                                      |
+| ---------------------------------------- | --------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| A Dream More Scarlet than Red            | mishu pen yamiluma thin ya-anbo                                       | a dream coloured brighter than blood                                                      |
+| A Soul as Scarlet as a Ground Cherry     | qa pen Cherasus-the van-si unnen yami-lumaya                          | (scarlet resembling crushed 'cerasus' fruit) spirit                                       |
+| Apparitions Stalk the Night              | konmiqa wa zhatsu dun ksan-en                                         |                                                                                           |
+| Lunate Elf                               | qazashii pe tsu-than ksodenno                                         | moon-crazy mystical creature                                                              |
+| Beloved Tomboyish Girl                   | buzhin pe da-anzhin, qu-a                                             | almost-woman who is, kind of masculine, and loved                                         |
+| Shanghai Teahouse ~ Chinese Tea          | mon pi Cha-the luinhan pi Shanhai-the ~ Sina-the-thin Cha-the luinhan | 'cha' is a japanese/chinese/universal word for "tea". 'Sina' is the latin name for China. |
+| Shanghai Alice of Meiji 17               | Shanhai Alis-the me pi Meiji-the zha pe junnan                        |                                                                                           |
 | Voile, the Magic Library                 | Vuwala the mi-enhya, monsen pe zashii wa dun                          | look, in a 'Voile' way, magical writing-house is there                                    |
-| Locked Girl ~ the Girl's Sealed Room     | bu pe ban ~ hu pe ban pi buzhin                                         |                                                                                           |
+| Locked Girl ~ the Girl's Sealed Room     | bu pe ban ~ hu pe ban pi buzhin                                       |                                                                                           |
 | The Maid and the Pocket Watch of Blood   | buten-mon o tonzha pi luma                                            |                                                                                           |
-| Lunar Clock ~ Luna Dial                  | tonzha pe tsu ~ Luna-the tonnitsen                                      | lunar timepiece ~ "Luna" round measuring instrument                                       |
-| The Young Descendant of Tepes            | mezhalen pe pya pi Tepesh-the                                           |                                                                                           |
-| Septette for a Dead Princess             | pyaburo pe ksunqa than Septet-the manhefi                               |                                                                                           |
-| The Centennial Festival of Magical Girls | mimeman pi tsen'yun pe hyan pin buzashii-tso                            | fun gathering of 100 solar cycles of magical girls                                        |
-| U.N. Owen was Her?                       | mebu wa Yu En Owen-the unshi?                                           |                                                                                           |
+| Lunar Clock ~ Luna Dial                  | tonzha pe tsu ~ Luna-the tonnitsen                                    | lunar timepiece ~ "Luna" round measuring instrument                                       |
+| The Young Descendant of Tepes            | mezhalen pe pya pi Tepesh-the                                         |                                                                                           |
+| Septette for a Dead Princess             | pyaburo pe ksunqa than Septet-the manhefi                             |                                                                                           |
+| The Centennial Festival of Magical Girls | mimeman pi tsen'yun pe hyan pin buzashii-tso                          | fun gathering of 100 solar cycles of magical girls                                        |
+| U.N. Owen was Her?                       | mebu wa Yu En Owen-the unshi?                                         |                                                                                           |
 ### PCB
 | English Title       | Translation | Note |
 | ------------------- | ----------- | ---- |

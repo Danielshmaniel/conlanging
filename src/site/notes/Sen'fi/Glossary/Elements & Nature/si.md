@@ -9,6 +9,7 @@
 | ~     | *n.*  | powder, sediment, granular mixture (dust, sand, gravel, clay, snow; flour, sugar, salt) |
 ### Implied meaning
 - mosaic, pixelation
+- to crush, pulverize
 ### Etymology
 #### Glyph
 vaguely inspired by 粉; this is a pictograph of small things like grains ([[Sen'fi/Glossary/Elements & Nature/pan\|pan]]) gathered together
