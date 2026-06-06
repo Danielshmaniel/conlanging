@@ -9,7 +9,7 @@
 # Basic particles
 Particles are postpositions, meaning they go after the word that they mark e.g.
 
->`koqigun'ksun un, mein wa fu pe we-an wu in'han-en`
+>`koqigun'ksun un, meyin wa fu pe we-an wu in'han-en`
 >yesterday `un`, I `wa` \[fish `pe` good `an`] `wu` eat `en`
 >yesterday I ate a good fish
 
@@ -71,11 +71,11 @@ Also refer to Past Participles for the last adjective.
 ## pe vs. pen
 `pe` only modifies the immediate noun preceding it, not the whole noun chain. So:
 
->`fu pi mein pe we-an` does not mean "my good fish", it means "the fish of good me"
->therefore `fu pi (mein pe we-an)` not `(fu pi mein) pe we-an`
+>`fu pi meyin pe we-an` does not mean "my good fish", it means "the fish of good me"
+>therefore `fu pi (meyin pe we-an)` not `(fu pi meyin) pe we-an`
 
 In order to describe a whole noun chain we use `pen`:
-> `(fu pi mein) pen we-an`
+> `(fu pi meyin) pen we-an`
 ## Adjectives as Past Participles
 Normally adjectives describe the quality of something, however if you replace the `en` in a verb root with `u` you describe what was done to something. Additional suffixes may be used as well.
 
@@ -106,9 +106,9 @@ When describing a noun as doing something or having something done to it, begin 
 # Possession
 To show possession or composition you use `pi`. You start with the "head noun", and then the next words are called "modifiers". A chain of `pi` nest each other. In the case that you want to group multiple words as one modifier, `o` is used to join said words within the `pi`. Example:
 
->`fu pe we-an pi mein` means "my good fish"
->`((fu pi mu) pi mein)` means "the fish of my mother"
->`fu pi (meon o mein)` means "my and your fish"
+>`fu pe we-an pi meyin` means "my good fish"
+>`((fu pi mu) pi meyin)` means "the fish of my mother"
+>`fu pi (menon o meyin)` means "my and your fish"
 ## pi vs pin
 `pin` is used like `pi` when a whole noun chain needs to be possessed by a noun. Example:
 
@@ -228,19 +228,19 @@ Used for actions people must NOT do
 | meaning  | must see         | must not see      |
 ## Favours
 `-en'jen`
-Experimental, inspired by Japanese grammar. Conveys that an action was done for someone else's sake.
+Experimental, inspired by Japanese grammar. Conveys that an action was done for somenone else's sake.
 
-> `meda wa (mein than) kon'on wu mi-en'jen` = he does (me) the favour of seeing it
-> `meda wa (mein than) kon'on wu mi-en'jen'kso` = he does (me) the favour of not seeing it
+> `meda wa (meyin than) kon'on wu mi-en'jen` = he does (me) the favour of seeing it
+> `meda wa (meyin than) kon'on wu mi-en'jen'kso` = he does (me) the favour of not seeing it
 
-Adding a `thu` conveys that you got someone to do something for you:
+Adding a `thu` conveys that you got somenone to do something for you:
 
-> `mein thu meda wa (mein than) kon'on wu mi-en'jen` = i get him to see it (for me); i have it seen (for me) by him.
+> `meyin thu meda wa (meyin than) kon'on wu mi-en'jen` = i get him to see it (for me); i have it seen (for me) by him.
 ### Alternative
-One might ask if you can avoid using this favour suffix. This is possible using `thii pi mein than` ("for my sake") or `hen pi mein than` ("for my gain/benefit").
+One might ask if you can avoid using this favour suffix. This is possible using `thii pi meyin than` ("for my sake") or `hen pi meyin than` ("for my gain/benefit").
 
-> `meda wa [hen/thii] pi mein than kon'on wu mi-en` = he sees it for my sake
-> `meda wa [hen/thii] pi mein than kon'on wu mi-en'kso` = he doesn't see it, for my sake
+> `meda wa [hen/thii] pi meyin than kon'on wu mi-en` = he sees it for my sake
+> `meda wa [hen/thii] pi meyin than kon'on wu mi-en'kso` = he doesn't see it, for my sake
 ## Past
 `-en'ksun`
 Used for finished actions
