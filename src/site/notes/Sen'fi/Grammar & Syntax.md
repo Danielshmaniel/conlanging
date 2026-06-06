@@ -2,11 +2,11 @@
 {"dg-publish":true,"permalink":"/sen-fi/grammar-and-syntax/","dg-note-properties":{}}
 ---
 
-# Word order
+## Word order
 
 > (Agent) Subject Object Verb — (A)SOV
 
-# Basic particles
+## Basic particles
 Particles are postpositions, meaning they go after the word that they mark e.g.
 
 >`koqigun'ksun un, meyin wa fu pe we-an wu in'han-en`
@@ -52,7 +52,7 @@ Particles are postpositions, meaning they go after the word that they mark e.g.
 | ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | *tse* (silent)   | Does not give a sound by itself, it only appears as a glyph preceding another glyph. Its purpose is to lengthen the preceding syllable/vowel; like「ー」 in Japanese or the silent letters "għ/h" in Maltese. This gives a new semantic meaning to the preceding glyph as well, transforming it into a noun.<br>e.g.: `shi` (what) + *tse* = `shii` (confusion, unknown, mystery)<br>works with nasals too: `dun` (on/at) + *tse* = `duun` (existence, presence, reality) |
 
-# Adjectives
+## Adjectives
 ### Simple adjective chains
 In a noun phrase, adjectives go *after* nouns, requiring `pe` after the noun and `an` after each adjective. Within `pe`, a chain of simple `an` suffixes is used to list adjectives describing one noun. e.g.:
 
