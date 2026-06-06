@@ -3,7 +3,7 @@
 ---
 
 [[Sen'fi/Glossary (Tagged)\|Sort: Categorical A-Z]]
-(WIP)
+*WIP*
 
 ```base
 views:
