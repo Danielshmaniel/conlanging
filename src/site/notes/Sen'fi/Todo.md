@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sen-fi/todo/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/sen-fi/todo/","noteIcon":"[feature]","dg-note-properties":{}}
 ---
 
 ℹ️ `The following is a page meant for the creator to keep track of needed vocabulary`

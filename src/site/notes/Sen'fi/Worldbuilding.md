@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sen-fi/worldbuilding/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/sen-fi/worldbuilding/","noteIcon":"[feature]","dg-note-properties":{}}
 ---
 
 *WIP*
