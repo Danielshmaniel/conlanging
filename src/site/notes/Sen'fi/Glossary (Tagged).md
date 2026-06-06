@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sen-fi/glossary-tagged/","noteIcon":"[feature]","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/sen-fi/glossary-tagged/","dg-note-properties":{}}
 ---
 
 [[Sen'fi/Glossary (A-Z)\|Sort: Only by A-Z]]

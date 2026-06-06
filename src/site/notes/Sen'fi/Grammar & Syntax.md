@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sen-fi/grammar-and-syntax/","noteIcon":"[feature]","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/sen-fi/grammar-and-syntax/","dg-note-properties":{}}
 ---
 
 ## Word order

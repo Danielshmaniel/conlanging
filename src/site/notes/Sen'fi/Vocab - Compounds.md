@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sen-fi/vocab-compounds/","noteIcon":"[feature]","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/sen-fi/vocab-compounds/","dg-note-properties":{}}
 ---
 
 # Concrete things
