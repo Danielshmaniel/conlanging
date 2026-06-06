@@ -13,10 +13,28 @@ or **Sen'fi** for short.
 ### Overview
 Welcome to SEN'FI, a passion project of mine to make an artlang (conlang made for aesthetic purposes) restricted to having **as many meanings as it has syllables**, written like Sitelen Pona and Kanji. Glyphs are intuitive and pictographic/ideographic, basing most of their etymology on **old Chinese scripts**. Sounds are **symbolic, onomatopoeic and/or loanwords**. Vocabulary is mostly **compounds** of said core logosyllables; and aims to be **as non-ambiguous as possible** unlike Toki Pona.
 ### Fast-travel via Yukari's gaps
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
+
+
+# Excalidraw Data
+
+## Text Elements
+
+
+</div></div>
+
 - #### Vocab
 	- [[Sen'fi/Vocab - Atomic Radicals\|Atomic Radicals]]
 	- [[Sen'fi/Vocab - Compounds\|Compounds]]
 	- [[Sen'fi/Vocab - Phrases\|Phrases]]
+	- [[Sen'fi/Glossary (Tagged)\|Glossary (Tagged)]]
+	- [[Sen'fi/Glossary (A-Z)\|Glossary (A-Z)]]
 - #### Language rules
 	- [[Sen'fi/Phonotactics & Alphabet\|Phonotactics & Alphabet]]
 	- [[Sen'fi/Grammar & Syntax\|Grammar & Syntax]]
