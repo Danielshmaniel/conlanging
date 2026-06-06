@@ -11,7 +11,7 @@
 	- (category)
 	- kanji
 	- symbol
-- *dg-publish true*
+- *imp: dg-publish true*
 - *copying templates*
 - *imp: fixing relative links*
 ### Words to do
