@@ -500,6 +500,7 @@
 | glyph                     | sound           | meaning                                                                                                                                  | combo                             |
 | ------------------------- | --------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------- |
 |                           | mahe            | space                                                                                                                                    | body + air                        |
+|                           | fen'he          | ==gap== in spacetime, wormhole, portal                                                                                                   | gap + air                         |
 |                           | ksomahe-(an)    | *n.* used up space, fullness<br><br>*adj.* full, occupied, brimming with ...                                                             | absence + space                   |
 |                           | hoin            | this way<br><br>*~ pi hoin:* this ...                                                                                                    | way + (near)                      |
 |                           | hoon            | that way<br><br>*~ pi hoon:* that ... (over there)                                                                                       | way + (far)                       |
