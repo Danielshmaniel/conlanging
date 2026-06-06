@@ -53,22 +53,22 @@ Particles are postpositions, meaning they go after the word that they mark e.g.
 | *tse* (silent)   | Does not give a sound by itself, it only appears as a glyph preceding another glyph. Its purpose is to lengthen the preceding syllable/vowel; like「ー」 in Japanese or the silent letters "għ/h" in Maltese. This gives a new semantic meaning to the preceding glyph as well, transforming it into a noun.<br>e.g.: `shi` (what) + *tse* = `shii` (confusion, unknown, mystery)<br>works with nasals too: `dun` (on/at) + *tse* = `duun` (existence, presence, reality) |
 
 # Adjectives
-## Simple adjective chains
+### Simple adjective chains
 In a noun phrase, adjectives go *after* nouns, requiring `pe` after the noun and `an` after each adjective. Within `pe`, a chain of simple `an` suffixes is used to list adjectives describing one noun. e.g.:
 
 >`fu pe bon-an yamigo-an` means "big brown fish"
-## Lone adjectives
+### Lone adjectives
 If an adjective chain is composed of only one adjective, `an` may be omitted. e.g.:
 
 >`fu pe bon` means "big fish"
-## Special adjective chains need commas
+### Special adjective chains need commas
 When including special adjectives (adjectives with special suffixes, listed later) in an adjective chain, you need to separate the adjectives with a **comma** character to avoid mistakes in parsing. Example:
 
 > `fu pe me thin bon-an'bo, yamigo-an, wa me wu in'han-en'to, me than in'han-atokso ` means "a fish which is bigger than a human, is brown, can eat humans, and is inedible for humans"
 
 See Relative Clauses if you're confused why one adjective begins with `wa`.
 Also refer to Past Participles for the last adjective.
-## pe vs. pen
+### pe vs. pen
 `pe` only modifies the immediate noun preceding it, not the whole noun chain. So:
 
 >`fu pi meyin pe we-an` does not mean "my good fish", it means "the fish of good me"
@@ -76,40 +76,40 @@ Also refer to Past Participles for the last adjective.
 
 In order to describe a whole noun chain we use `pen`:
 > `(fu pi meyin) pen we-an`
-## Adjectives as Past Participles
+### Adjectives as Past Participles
 Normally adjectives describe the quality of something, however if you replace the `en` in a verb root with `u` you describe what was done to something. Additional suffixes may be used as well.
 
 > e.g. `mi-en` meaning "to see", turns into `mi-a` meaning "seen"
 > a suffix such as `tokso` can be added: `mi-atokso` meaning "cannot be seen"
 
-## Relative Clauses as Adjectives
+### Relative Clauses as Adjectives
 When describing a noun as doing something or having something done to it, begin an verbal adjective with `thu` (agent), `wa` (active) or `wu` (passive) within the adjective chain. As always, separate with commas. e.g.:
 
 > `fu pe yamigo-an, wu fu pe ee wa gavahan-an` = a fish which is brown and was devoured by another fish
 > `fu pe yamigo-an, wa fu pe ee wu gavahan-en` = a fish which is brown and devours another fish
-## Special Suffixes
-### Negative
+### Special Suffixes
+#### Negative
 `-an'kso` = not (adj.)
 (`kso` can be affixed to all the below suffixes)
-### Comparatives
+#### Comparatives
 `-an'bo` = more (adj.)
 `-an'bi` = less (adj.)
-### Superlatives
+#### Superlatives
 `-an'boko` = the most (adj.)
 `-an'biko` = the least (adj.)
-### Excessive
+#### Excessive
 `-an'on` = too (adj.)
-### Potential
+#### Potential
 `-an'to` = can be (adj); (vrb)-able
-### Approximate
+#### Approximate
 `-an'zhin` = almost/kind of (adj)
-# Possession
+## Possession
 To show possession or composition you use `pi`. You start with the "head noun", and then the next words are called "modifiers". A chain of `pi` nest each other. In the case that you want to group multiple words as one modifier, `o` is used to join said words within the `pi`. Example:
 
 >`fu pe we-an pi meyin` means "my good fish"
 >`((fu pi mu) pi meyin)` means "the fish of my mother"
 >`fu pi (menon o meyin)` means "my and your fish"
-## pi vs pin
+### pi vs pin
 `pin` is used like `pi` when a whole noun chain needs to be possessed by a noun. Example:
 
 >Correct use of `pin`:
@@ -117,15 +117,15 @@ To show possession or composition you use `pi`. You start with the "head noun", 
 
 >If `pi` was used instead:
 >`(len'kon'mi pi mi-en'kon) pi vafen` would mean "viewing-phantasmagoria of flower"
-# Plurality
+## Plurality
 By default, words are singular (unless quantified already)
 > e.g. `me` means "person"
-## In monosyllabic nouns
+### In monosyllabic nouns
 To show plurality, monosyllabic nouns such as `me` are pluralised by reduplication:
 >`meme` means "people"
 
 *Side-note:* `tso` may be used as a pluralising suffix for monosyllabic nouns too, such as `fan'tso`
-## In polysyllabic nouns
+### In polysyllabic nouns
 Polysyllabic nouns with plurality make use of the suffix `tso` as a shortcut to reduplication of a whole noun:
 
 >`meksin` (swordsman) -> `meksin'tso` (swordsmen)
@@ -134,20 +134,20 @@ This is because `meksin'tso` is shorter to say than `meksin'meksin`
 
 *Side-note:* During the word creation process `tsa` can be used to compound plural nouns with other words, in order to reduplicate the sub-word and not the whole word. No examples yet, but it's just in case.
 
-# Numerical determiners
+## Numerical determiners
 Note: Noun plurality is not needed when a number or quantifier is given, definite or indefinite.
-## Cardinal numbers
+### Cardinal numbers
 
 >*NOUN (single)* `pe` *NUMBER*
 
 e.g. "One fish" -> `fu pe hin`
 "Three fish" -> `fu pe min`
-## Ordinal numbers
+### Ordinal numbers
 
 >*NOUN* `pe` (`ni`+ *NUMBER*)
 
 e.g. "The second fish" -> `fu pe nifun`
-## Quantifiers
+### Quantifiers
 
 >*QUANTIFIER* `pi` *NOUN*
 
@@ -163,7 +163,7 @@ e.g. "The second fish" -> `fu pe nifun`
 | *on'hyaqa* | too many/too much       |
 e.g. "All the fish" -> `ko pi fu`
 
-# Demonstrative determiners
+## Demonstrative determiners
 The words for "this" and "that" are `kon'in` and `kon'on`.
 By themselves they are demonstrative pronouns, such as "This is a fish" -> `kon'in wa fu`
 A demonstrative determiner is when you say "This fish". This is represented using:
@@ -171,15 +171,15 @@ A demonstrative determiner is when you say "This fish". This is represented usin
 > *NOUN* `pi hoin/hoon`
 > so `fu pi hoin`
 
-# Pre-verbs & Verb chains
+## Pre-verbs & Verb chains
 To chain verbs you just split them with `en` suffixes like you do with `an` adjective lists. Since they are chained, the tense is only applied to the last `en` suffix, like in Japanese. Pre-verbs obviously go before the main verb. `o` is used to separate verb chains.
 
 >`gen-en shuma-en'ksun` means "started to sleep"
 >`gen-en hya-en shuma-en` means "starts wanting to sleep"
 >`gen-en hya-en shuma-en o shuta-en ja-en` means "starts wanting to sleep and stops talking"
 
-# Tenses
-## Present / Infinitive
+## Tenses
+### Present / Infinitive
 `-en`
 The infinitive or present tense, used for
 1. frequent actions (routines etc),
@@ -190,7 +190,7 @@ The infinitive or present tense, used for
 | -------- | ----------- | ---------- |
 | verb: mi | `mien`      | `mien'kso` |
 | meaning  | see         | not see    |
-## Continuous
+### Continuous
 `-en'len`
 A type of present tense used for currently ongoing actions
 
@@ -198,7 +198,7 @@ A type of present tense used for currently ongoing actions
 | -------- | ----------- | -------------- |
 | verb: mi | `mien'len`  | `mien'len'kso` |
 | meaning  | seeing      | not seeing     |
-## Imperative
+### Imperative
 `-en'hya`
 Used for commanding or requesting from the listener
 
@@ -206,7 +206,7 @@ Used for commanding or requesting from the listener
 | -------- | ----------- | ------------- |
 | verb: mi | `mien'hya`  | `mien'hyakso` |
 | meaning  | look!       | don't look!   |
-## Potential
+### Potential
 `en'to`
 Used for declaring one's ability to do something
 
@@ -214,11 +214,11 @@ Used for declaring one's ability to do something
 | -------- | ----------- | ------------ |
 | verb: mi | `mien'to`   | `mien'tokso` |
 | meaning  | can see     | cannot see   |
-## Obligatory
-### Positive
+### Obligatory
+#### Positive
 `en'ksoun'ksu`
 Used for actions people must do (to avoid trouble); duties, obligations
-### Negative
+#### Negative
 `en'dun'un'ksu`
 Used for actions people must NOT do
 
@@ -226,7 +226,7 @@ Used for actions people must NOT do
 | -------- | ---------------- | ----------------- |
 | verb: mi | `mien'ksoun'ksu` | `mien'dun'un'ksu` |
 | meaning  | must see         | must not see      |
-## Favours
+### Favours
 `-en'jen`
 Experimental, inspired by Japanese grammar. Conveys that an action was done for somenone else's sake.
 
@@ -236,12 +236,12 @@ Experimental, inspired by Japanese grammar. Conveys that an action was done for 
 Adding a `thu` conveys that you got somenone to do something for you:
 
 > `meyin thu meda wa (meyin than) kon'on wu mi-en'jen` = i get him to see it (for me); i have it seen (for me) by him.
-### Alternative
+#### Alternative
 One might ask if you can avoid using this favour suffix. This is possible using `thii pi meyin than` ("for my sake") or `hen pi meyin than` ("for my gain/benefit").
 
 > `meda wa [hen/thii] pi meyin than kon'on wu mi-en` = he sees it for my sake
 > `meda wa [hen/thii] pi meyin than kon'on wu mi-en'kso` = he doesn't see it, for my sake
-## Past
+### Past
 `-en'ksun`
 Used for finished actions
 
@@ -249,7 +249,7 @@ Used for finished actions
 | -------- | ----------- | --------------- |
 | verb: mi | `mien'ksun` | `mien'ksun'kso` |
 | meaning  | saw         | didn't see      |
-## Future
+### Future
 `-en'zhin`
 Used for actions yet to be started
 
@@ -257,8 +257,8 @@ Used for actions yet to be started
 | -------- | ----------- | --------------- |
 | verb: mi | `mien'zhin` | `mien'zhin'kso` |
 | meaning  | will see    | will not see    |
-# Causative verbs
-## Normal causatives
+## Causative verbs
+### Normal causatives
  `thu` marks the agent
  `wa` marks the subject (patient)
  
@@ -268,7 +268,7 @@ Used for actions yet to be started
 >`meda` made `mebu` die
 >`meda` killed `mebu`
 
-## Double causatives
+### Double causatives
 i.e. an agent has their own agent
 
 > *AGENT2* thu *AGENT1* thu *SUBJECT* wa *VERB*
@@ -277,7 +277,7 @@ i.e. an agent has their own agent
 > `meme` made `meda` make `mebu` die
 > `meme` made `meda` kill `mebu`
 
-## Self-causatives
+### Self-causatives
 i.e. doing something to oneself; being one's own agent and patient
 
 >*AGENT* thuwa *VERB*
@@ -285,7 +285,7 @@ i.e. doing something to oneself; being one's own agent and patient
 >because of `meda`, `meda` died
 >`meda` killed oneself
 
-# Verbal nouns
+## Verbal nouns
 When the `en` of most verbs is dropped they turn into nouns.
 `methi` is a prefix denoting that a verbal noun is causative.
 
