@@ -18,7 +18,7 @@ BTW, i put a tiny bit of touhou references in my words, such as `ban` (boundary)
 | Phantasmagoria of Flower View | lenkonmi pin mi-enkon pi vafen     | series of images, of flower-viewing                                                                       |
 | Shoot the Bullet              | qifin wa taqifin-en                | lit. the projectile gets projected                                                                        |
 | Mountain of Faith             | gon pi dyun                        |                                                                                                           |
-| Scarlet Weather Rhapsody      | manhefi pi hemahewi pe yami-lumaya | music of the skies' bright-red mood                                                                       |
+| Scarlet Weather Rhapsody      | manfi pi hemahewi pe yami-lumaya | music of the skies' bright-red mood                                                                       |
 | Subterranean Animism          | wogo-dun dyun pi qa                | belief in spirits in the underground                                                                      |
 | Unidentified Fantastic Object | kon pe mino-an shii-an             |                                                                                                           |
 | Double Spoiler                | me pi fen-enkon pen nifun          | the second exposer (as in exposing someone in journalism/photography; assuming that "spoiler" means that) |
@@ -83,7 +83,7 @@ BTW, i put a tiny bit of touhou references in my words, such as `ban` (boundary)
 | The Maid and the Pocket Watch of Blood   | buten-mon o tonzha pi luma                                            |                                                                                           |
 | Lunar Clock ~ Luna Dial                  | tonzha pe tsu ~ Luna-the tonnitsen                                    | lunar timepiece ~ "Luna" round measuring instrument                                       |
 | The Young Descendant of Tepes            | mezhalen pe pya pi Tepesh-the                                         |                                                                                           |
-| Septette for a Dead Princess             | pyaburo pe ksunqa than Septet-the manhefi                             |                                                                                           |
+| Septette for a Dead Princess             | pyaburo pe ksunqa than Septet-the manfi                             |                                                                                           |
 | The Centennial Festival of Magical Girls | mimeman pi tsen'yun pe hyan pin buzashii-tso                          | fun gathering of 100 solar cycles of magical girls                                        |
 | U.N. Owen was Her?                       | mebu wa Yu En Owen-the unshi?                                         |                                                                                           |
 ### PCB
