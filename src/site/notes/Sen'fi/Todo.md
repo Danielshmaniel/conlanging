@@ -44,7 +44,8 @@
 	- **meso** - middle, in between, neither/both this or that, neutral, mixed, ambivalence
 - native reduplicated onomatopoeia sounds like Maltese and Japanese
 - 147 numericals, change the 7 to look more like a y and 4 like a reverse ?
-- https://youtu.be/O3D9xrYYhGY
+- Body parts: https://youtu.be/O3D9xrYYhGY
+- Stones: https://chatgpt.com/c/6a2427f4-edfc-83eb-bc68-dd5e4b4feaec
 ### Radicals/Vocab
 - Swadesh List
 - https://www.archchinese.com/arch_chinese_radicals.html
