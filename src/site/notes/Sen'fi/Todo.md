@@ -9,6 +9,7 @@
 	- grammar
 	- compound
 	- (category)
+	- kanji
 - *dg-publish true*
 - *copying templates*
 - *imp: fixing relative links*
