@@ -6,8 +6,12 @@
 ### Meaning
 | infl. | class  | meaning                                                                       |
 | ----- | ------ | ----------------------------------------------------------------------------- |
-| ~     | *n.*   | air, atmosphere, gas, (wind)                                                  |
+| ~     | *n.*   | air, atmosphere, gas                                                          |
 | ~an   | *adj.* | *concrete:* light<br>*metaphor:* intangible, immaterial, incorporal, ethereal |
+### Implied meaning
+- wind
+- ether
+- sky
 ### Etymology
 #### Glyph
 a spin on the Chinese radical 气, where there is a swirly gust of wind at the top
