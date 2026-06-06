@@ -15,7 +15,6 @@
 - *copying templates*
 - *imp: fixing relative links*
 ### Words to do
-- chin = clink/chime sound (italian "cincin") = crystal, glass
 - (distinction between clean and good); clean: kso + filth
 - cleaning/cleansing: ksen + filth
 - sex/gender, **seed**, **egg**, fertilisation, fertility
@@ -36,6 +35,7 @@
 - **bewitch**, charm, hex, spell, enchantment, witch, alluring, magic=zashii, "seher", tempt, attract, possess, enthrall, captivate, fascinating, mesmerize -> (youkai=bewitching apparition)
 - to haunt, pester, creep, stalk, linger, hover, wander, roam, lurk
 - to fit = mutual ju acceptance/agreement/accordance, something can be contained (enough space for it)
+- to make, create (different from to act, to do)
 ### Other
 - toki pona concepts
 	- **jaki** - filth

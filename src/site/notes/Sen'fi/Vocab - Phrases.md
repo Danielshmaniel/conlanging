@@ -4,19 +4,19 @@
 
 ## Greetings & Salutations
 
-| phrase                      | meaning                                                            | combo                                      |
-| --------------------------- | ------------------------------------------------------------------ | ------------------------------------------ |
-| jamime                      | greetings, hello, hey, hi                                          | word + seeing + person                     |
-| yun'wiwe                    | good morning                                                       | sunrise + good                             |
-| yun'we                      | good day                                                           | (day) + good                               |
-| yun'wowe                    | good afternoon                                                     | sunset + good                              |
-| tsuwe                       | good evening / good night                                          | (night) + good                             |
-| mimezhin                    | see you later, until we meet again                                 | seeing + person + soon                     |
-| taksen'we                   | farewell, goodbye, adios                                           | departure + good                           |
-| weqa (wu in'te-en'hya)      | take care, salutations                                             | health + \[have!]                          |
+| phrase                       | meaning                                                            | combo                                      |
+| ---------------------------- | ------------------------------------------------------------------ | ------------------------------------------ |
+| jamime                       | greetings, hello, hey, hi                                          | word + seeing + person                     |
+| yun'wiwe                     | good morning                                                       | sunrise + good                             |
+| yun'we                       | good day                                                           | (day) + good                               |
+| yun'wowe                     | good afternoon                                                     | sunset + good                              |
+| tsuwe                        | good evening / good night                                          | (night) + good                             |
+| mimezhin                     | see you later, until we meet again                                 | seeing + person + soon                     |
+| tajon'we                     | farewell, goodbye, adios                                           | departure + good                           |
+| weqa (wu in'te-en'hya)       | take care, salutations                                             | health + \[have!]                          |
 | (menon wa) we-an un'shi?     | how are you?<br>are you doing okay?                                | \[you (subj)] + okay + or what             |
 | (menon wa) shiho un duun-en? | how are you?<br>how do you do?<br>how are you doing?<br>what's up? | \[you (subj)] + in what way (context) + be |
-| hyahan'we                   | buon appetit                                                       | appetite + good                            |
+| hyahan'we                    | buon appetit                                                       | appetite + good                            |
 ## Please, Thanks, Sorry
 
 | phrase              | meaning                      | combo                        |
