@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/sen-fi/glossary-a-z/","dg-note-properties":{}}
 ---
 
-[[Sen'fi/Glossary (A-Z)\|Sort: Categorical A-Z]]
+[[Sen'fi/Glossary (Tagged)\|Sort: Categorical A-Z]]
 (WIP)
 
 ```base
