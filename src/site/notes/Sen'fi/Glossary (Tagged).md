@@ -19,6 +19,7 @@ views:
       - file.name
       - keyword
       - kanji
+      - symbol
     sort:
       - property: file.name
         direction: ASC

@@ -10,6 +10,7 @@
 	- compound
 	- (category)
 	- kanji
+	- symbol
 - *dg-publish true*
 - *copying templates*
 - *imp: fixing relative links*
