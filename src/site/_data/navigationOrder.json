@@ -1,0 +1,108 @@
+{
+  "/": [
+    "Sen'fi"
+  ],
+  "/Sen'fi": [
+    "Glossary",
+    "About SEN'FI",
+    "Glossary (A-Z)",
+    "Glossary (Tagged)",
+    "Vocab - Atomic Radicals",
+    "Vocab - Compounds",
+    "Vocab - Phrases",
+    "Grammar & Syntax",
+    "Phonotactics & Alphabet",
+    "Example sentences",
+    "Translation fun",
+    "Worldbuilding",
+    "Todo"
+  ],
+  "/Sen'fi/Glossary": [
+    "Animal Products",
+    "Body parts",
+    "Concepts",
+    "Creatures",
+    "Elements & Nature",
+    "Man-made"
+  ],
+  "/Sen'fi/Glossary/Animal Products": [
+    "ba",
+    "dyo",
+    "gan"
+  ],
+  "/Sen'fi/Glossary/Body parts": [
+    "ben",
+    "fe",
+    "fi",
+    "gin",
+    "han",
+    "ma",
+    "mi",
+    "no",
+    "non",
+    "qan",
+    "tan",
+    "te"
+  ],
+  "/Sen'fi/Glossary/Concepts": [
+    "chen",
+    "den",
+    "ju",
+    "kon",
+    "kson",
+    "ksu",
+    "nen",
+    "nin",
+    "qa",
+    "qya",
+    "to",
+    "we",
+    "yin"
+  ],
+  "/Sen'fi/Glossary/Creatures": [
+    "bu",
+    "da",
+    "fu",
+    "ga",
+    "gi",
+    "me",
+    "pya",
+    "ri",
+    "so",
+    "va",
+    "vi",
+    "vo",
+    "zho",
+    "zi"
+  ],
+  "/Sen'fi/Glossary/Elements & Nature": [
+    "chu",
+    "do",
+    "don",
+    "fan",
+    "go",
+    "gon",
+    "gun",
+    "he",
+    "ka",
+    "lu",
+    "pan",
+    "si",
+    "tsu",
+    "van",
+    "ya",
+    "yun",
+    "za"
+  ],
+  "/Sen'fi/Glossary/Man-made": [
+    "ban",
+    "fen",
+    "fin",
+    "hu",
+    "ksi",
+    "ksin",
+    "le",
+    "mon",
+    "ton"
+  ]
+}
