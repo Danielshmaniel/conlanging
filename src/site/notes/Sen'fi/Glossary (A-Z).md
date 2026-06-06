@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sen-fi/glossary-a-z/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/sen-fi/glossary-a-z/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
 [[Sen'fi/Glossary (Tagged)\|Sort: Categorical A-Z]]
