@@ -11,7 +11,7 @@
 ### Etymology
 #### Glyph
 - 神, lightning (申) on an altar or tablet (示): signifying the presence of a spirit.
-- ᛋ means life-force in Futhork and 𓊳 is the Egyptian symbol for shrine.
+- Coincidentally, ᛋ means life-force in Futhork and 𓊳 is the Egyptian symbol for shrine.
 #### Sound
 - Related to [[Sen'fi/Glossary/Concepts/qa\|qa]] (spirit)
 - *a priori:* q=hidden power, ya=powerful energy
