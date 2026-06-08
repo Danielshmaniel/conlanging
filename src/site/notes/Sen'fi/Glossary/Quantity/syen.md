@@ -14,4 +14,4 @@ From the native "1-4-7" numerical system.
 #### Sound
 - Japanese "sen"
 - Numbers always end in a nasal coda ("n")
-- [[Sen'fi/Excalidraw/Actions/sen\|sen]] is already taken, so a "y" was added.
+- [[Sen'fi/Excalidraw/Actions/sen\|Sen'fi/Excalidraw/Actions/sen]] is already taken, so a "y" was added.

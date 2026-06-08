@@ -13,4 +13,4 @@ simple pictograph. (足 did not make that much sense to me)
 #### Sound
 - Chinese 腿 (tuǐ)
 - *a priori:* t=control, an=bodily
-- Related to [[Sen'fi/Excalidraw/Actions/ta\|ta]] (movement)
+- Related to [[Sen'fi/Glossary/Actions/ta\|ta]] (movement)
