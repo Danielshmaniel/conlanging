@@ -15,7 +15,8 @@
 - danger, risk, threat
 ### Etymology
 #### Glyph
-厃, a person on the edge of a cliff.
-The jagged lines complement the feeling of fear. The man is posed in a way that his feet are close to the edge while he has his hands out either to keep balance or to brace himself for the fall, either way he is taking a risk - the risk of deliberately leaping into the unknown or the risk of accidentally stumbling.
+- A direct inspiration from 厃, a person on the edge of a cliff.
+- 危 (danger/fear) is related to 厄 (misfortune) and it is the same radical but with an added kneeling figure on the bottom -> being on one's knees with fearful submission and loss of direction at a dead end.
+- The jagged lines complement the feeling of fear. The man is posed in a way that his feet are close to the edge while he has his hands out either to keep balance or to brace himself for the fall, either way he is taking a risk - the risk of deliberately leaping into the unknown or the risk of accidentally stumbling.
 #### Sound
 - *a priori:* ks=destruction, an=bodily feeling
