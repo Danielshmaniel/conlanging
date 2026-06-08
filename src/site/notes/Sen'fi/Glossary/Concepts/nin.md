@@ -21,4 +21,4 @@ weighing scale, a symbol of equivalent exchange and judgement
 #### Meaning
 inspired by 値, a man judged for his merit -> to deserve
 #### Sound
-- Related to [[Sen'fi/Excalidraw/Quantity/ni\|ni]] (quantity; v.s. quality)
+- Related to [[Sen'fi/Excalidraw/Quantity/ni\|Sen'fi/Excalidraw/Quantity/ni]] (quantity; v.s. quality)

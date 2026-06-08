@@ -14,6 +14,6 @@
 - cutting
 ### Etymology
 #### Glyph
-Egyptian knife hieroglyph 𓌜 - but looks more liked 𓇋 (reed)
+Egyptian knife hieroglyph 𓌜 but looks more like 𓇋 (reed)
 #### Sound
 - *a priori:* ks=destruction, i=sharp

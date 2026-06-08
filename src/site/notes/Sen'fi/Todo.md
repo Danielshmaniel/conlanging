@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sen-fi/todo/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/sen-fi/todo/","dg-note-properties":{"feature":"Pasted image 20260608160136.png"}}
 ---
 
 > [!info] The following is a page meant for the creator to keep track of needed vocabulary
@@ -15,6 +15,8 @@
 - *copying templates*
 - *imp: fixing relative links*
 ### Words to do
+- 泥 water + close contact = sticky, mud, viscous (conveys adhesives and slimy substances at the same time)
+- loss = on'te? i have a word for gain (hen) but not a word for loss. ksen is similar since it's the act of removing something, but the perspective is different here since something is removed FROM you outside of your control. loss is also the antonym of win.
 - (distinction between clean and good); clean: kso + filth
 - cleaning/cleansing: ksen + filth
 - sex/gender, **seed**, **egg**, fertilisation, fertility
@@ -54,3 +56,6 @@
 - Touhou is the equivalent of Greek/Chinese mythology/polytheism to the Senfians
 - The society is however free to believe in any faith (a surprisingly peaceful society by itself)
 - A name for the society of Sen'fians (Sect of the Truth Seekers)
+
+![Pasted image 20260608160136.png\|270](/img/user/Pasted%20image%2020260608160136.png) 
+oddly Flandre-looking cave painting, gives me further inspiration to make this society believe in Touhou mythology.

@@ -7,7 +7,7 @@
 | infl. | class  | meaning                                   |
 | ----- | ------ | ----------------------------------------- |
 | ~     | *n.*   | child, young one                          |
-| ~an   | *adj.* | young, new, fresh *(synonyms of [[Sen'fi/Excalidraw/Temporal concepts/gen\|gen]])* |
+| ~an   | *adj.* | young, new, fresh *(synonyms of [[Sen'fi/Excalidraw/Temporal concepts/gen\|Sen'fi/Excalidraw/Temporal concepts/gen]])* |
 ### Implied meaning
 - youth
 ### Etymology
