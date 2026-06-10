@@ -16,10 +16,8 @@
 - *imp: fixing relative links*
 ### Words to do
 - charm + qu = falling in love, lovestruck, under a spell
-- On second thought, **jin and jon are probably wasteful** phonoglyphs. Chen them into chen'in and chen'on?
 - **early/fast/SPEED** zya and **late/slow** zyo
-- **泥** water + close contact = sticky, mud, viscous (conveys **adhesives** and **slimy** substances at the same time)
-- loss = on'te? i have a word for gain (hen) but not a word for loss. ksen is similar since it's the act of removing something, but the perspective is different here since something is removed FROM you outside of your control. loss is also the antonym of win.
+- **loss** = i have a word for gain (hen) but not a word for loss. ksen is similar since it's the act of removing something, but the perspective is different here since something is removed FROM you outside of your control. loss is also the antonym of win.
 - (distinction between clean and good); clean: kso + filth
 - cleaning/cleansing: ksen + filth
 - sex/gender, **seed**, **egg**, fertilisation, fertility
