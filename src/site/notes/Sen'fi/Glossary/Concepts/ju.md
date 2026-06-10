@@ -15,4 +15,5 @@
 交, two legs crossed
 #### Sound
 - Chinese "jian"
+- weirdly, Japanese 汁 "juu" (gather + water = soup, juice; mixture)
 - *a priori:* j=sudden/social (GPT called it "social" so i'm going with that lol), u=deep (as in the area between two things)
