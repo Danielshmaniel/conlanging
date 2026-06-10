@@ -17,7 +17,6 @@
 ### Words to do
 - charm + qu = falling in love, lovestruck, under a spell
 - **early/fast/SPEED** zya and **late/slow** zyo
-- **loss** = i have a word for gain (hen) but not a word for loss. ksen is similar since it's the act of removing something, but the perspective is different here since something is removed FROM you outside of your control. loss is also the antonym of win.
 - (distinction between clean and good); clean: kso + filth
 - cleaning/cleansing: ksen + filth
 - sex/gender, **seed**, **egg**, fertilisation, fertility
