@@ -8,7 +8,7 @@
 | ----- | ------ | ------------------------------------------------------------------------------------------ |
 | ~     | *n.*   | loss, drop from fumbling, slipping out of grasp /<br>miss, failure, blunder, mistake, flaw |
 | ~en   | *v.*   | to lose, lose grasp of, accidentally drop, miss, fail to                                   |
-| ~a    | *psv.* | lost, slipped out                                                                          |
+| ~a    | *psv.* | lost, slipped out, leaked out                                                              |
 | ~an   | *adj.* | careless, clumsy, awkward, butterfingers, lacking grace/coordination/polish                |
 ### Implied meaning
 - to misplace
