@@ -8,7 +8,7 @@
 | ----- | ------ | --------------------------------------------------------------------------------- |
 | ~     | *n.*   | loss, drop from fumbling, slipping out of grasp / miss, failure, blunder, mistake |
 | ~en   | *v.*   | to lose, lose grasp of, accidentally drop, miss, fail to                          |
-| ~a    | *psv.* | lost                                                                              |
+| ~a    | *psv.* | lost, slipped out                                                                 |
 | ~an   | *adj.* | accidental / clumsy, awkward                                                      |
 ### Synonym
 - **ksueen** (mistake)
