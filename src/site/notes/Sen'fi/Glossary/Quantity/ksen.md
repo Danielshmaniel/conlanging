@@ -7,7 +7,7 @@
 | infl. | class  | meaning                                                                                                 |
 | ----- | ------ | ------------------------------------------------------------------------------------------------------- |
 | ~     | *n.*   | subtraction, removal, taking away, throwing away, riddance, elimination, exclusion, release, letting go |
-| ~en   | *v.*   | to remove, take away, exclude, get rid of, throw away, release, do away with                            |
+| ~en   | *v.*   | to remove, take away, ditch, drop, exclude, get rid of, throw away, release, do away with               |
 | ~a    | *psv.* | removed, gone, missing                                                                                  |
 ### Etymology
 #### Glyph
