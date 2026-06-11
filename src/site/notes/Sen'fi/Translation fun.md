@@ -79,7 +79,7 @@ BTW, i put a tiny bit of touhou references in my words, such as `ban` (boundary)
 | Shanghai Teahouse ~ Chinese Tea          | mon pi Cha-the lujinhan pi Shanhai-the ~ Sina-the-thin Cha-the lujinhan | 'cha' is a japanese/chinese/universal word for "tea". 'Sina' is the latin name for China. |
 | Shanghai Alice of Meiji 17               | Shanhai Alis-the me pi Meiji-the zha pe junnan                          |                                                                                           |
 | Voile, the Magic Library                 | Vuwala the mi-enhya, monsen pe zashii wa dun                            | look, in a 'Voile' way, magical writing-house is there                                    |
-| Locked Girl ~ the Girl's Sealed Room     | bu pe ban ~ hu pe ban pi buzhin                                         |                                                                                           |
+| Locked Girl ~ the Girl's Sealed Room     | bu pe ban-a ~ hu pe ban-a pi buzhin                                     |                                                                                           |
 | The Maid and the Pocket Watch of Blood   | buten-mon o tonzha pi luma                                              |                                                                                           |
 | Lunar Clock ~ Luna Dial                  | tonzha pe tsu ~ Luna-the tonnitsen                                      | lunar timepiece ~ "Luna" round measuring instrument                                       |
 | The Young Descendant of Tepes            | mezhalen pe pya pi Tepesh-the                                           |                                                                                           |
