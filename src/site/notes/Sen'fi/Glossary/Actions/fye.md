@@ -9,7 +9,7 @@
 | ~     | *n.*   | loss, drop from fumbling, slipping out of grasp / miss, failure, blunder, mistake |
 | ~en   | *v.*   | to lose, lose grasp of, accidentally drop, miss, fail to                          |
 | ~a    | *psv.* | lost                                                                              |
-| ~an   | *adj.* | accidental, clumsy                                                                |
+| ~an   | *adj.* | accidental / clumsy, awkward                                                      |
 ### Synonym
 - **ksueen** (mistake)
 - [[Sen'fi/Glossary/Quantity/ksen\|ksen]] (to remove intentionally)
