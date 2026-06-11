@@ -9,7 +9,8 @@
 | ~     | *n.*  | fish    |
 ### Etymology
 #### Glyph
-simple pictograph
+- simple pictograph
+- like the Ichthus symbol
 #### Sound
 - Maltese "ħut"
 - *a priori:* f=flow, u=deep
