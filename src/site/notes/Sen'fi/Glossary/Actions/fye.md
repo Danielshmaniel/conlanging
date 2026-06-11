@@ -21,3 +21,4 @@
 - Vaguely based on 失 (hand/action indicator + downward arrow, showing a slip or loss of footing).
 #### Sound
 - *a priori:* f=transience, y=movement, e=transition
+- *imitative of:* something wooshing/slipping out of a hand's grasp
