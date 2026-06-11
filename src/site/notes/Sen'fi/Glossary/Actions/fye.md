@@ -12,9 +12,11 @@
 | ~an   | *adj.* | accidental / clumsy, awkward                                                      |
 ### Synonym
 - **ksueen** (mistake)
-- [[Sen'fi/Glossary/Quantity/ksen\|ksen]] (to remove intentionally)
+- **fyethaahya** (failure)
+- [[Sen'fi/Glossary/Quantity/ksen\|ksen]] (to remove *intentionally*)
 ### Antonym
 - [[Sen'fi/Glossary/Actions/hen\|hen]] (gain)
+- **hen'thaahya** (win)
 ### Etymology
 #### Glyph
 - a simplified hand ([[Sen'fi/Glossary/Body parts/te\|te]]) combined with an out-arrow ([[Sen'fi/Glossary/Spatial concepts/on\|on]]/[[Sen'fi/Glossary/Actions/jon\|jon]]), symbolizing something that is accidentally dropped or slips out of grasp.
