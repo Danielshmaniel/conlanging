@@ -9,10 +9,11 @@
 | ~     | *n.*   | loss, drop from fumbling, slipping out of grasp / miss, failure, blunder, mistake |
 | ~en   | *v.*   | to lose, lose grasp of, accidentally drop, miss, fail to                          |
 | ~a    | *psv.* | lost, slipped out                                                                 |
-| ~an   | *adj.* | accidental / clumsy, awkward                                                      |
+| ~an   | *adj.* | careless, clumsy, awkward, butterfingers, lacking grace/coordination/polish       |
 ### Implied meaning
 - to misplace
 - to forget
+- slipping
 ### Synonyms
 - **ksueen** (mistake)
 - **fyethaahya** (failure)
