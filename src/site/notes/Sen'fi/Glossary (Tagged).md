@@ -11,18 +11,16 @@ views:
     name: Table
     filters:
       and:
-        - file.folder.startsWith("Sen'fi/Glossary")
+        - file.path.startsWith("Sen'fi/Glossary/")
     groupBy:
       property: tags
-      direction: DESC
+      direction: ASC
     order:
       - file.name
       - keyword
       - kanji
       - symbol
-    sort:
-      - property: file.name
-        direction: ASC
+    sort: []
     image: note.feature
     imageFit: contain
     imageAspectRatio: 0.7
