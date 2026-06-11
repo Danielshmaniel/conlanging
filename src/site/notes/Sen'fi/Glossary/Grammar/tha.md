@@ -8,7 +8,7 @@
 ### Antonym
 - [[Sen'fi/Glossary/Grammar/thi\|thi]]
 ### Semanticization
-*Appending a [[Sen'fi/Glossary/Grammar/(tse)\|tse]] glyph yields **[[]]***
+*Appending a [[Sen'fi/Glossary/Grammar/(tse)\|tse]] glyph yields **[[Sen'fi/Glossary/Concepts/thaa\|thaa]]***
 ### Etymology
 #### Glyph
 - a ball object bouncing, showing the consequence of throwing something (not to be confused with [[Sen'fi/Glossary/Actions/pyon\|pyon]], literal bouncing)

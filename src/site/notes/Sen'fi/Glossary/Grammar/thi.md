@@ -8,7 +8,7 @@
 ### Antonym
 - [[Sen'fi/Glossary/Grammar/tha\|tha]]
 ### Semanticization
-*Appending a [[Sen'fi/Glossary/Grammar/(tse)\|tse]] glyph yields **[[]]***
+*Appending a [[Sen'fi/Glossary/Grammar/(tse)\|tse]] glyph yields **[[Sen'fi/Glossary/Concepts/thii\|thii]]***
 ### Etymology
 #### Glyph
 - a hand grasping a ball object, ready to throw it (showing agency); causing the object to be thrown like in [[Sen'fi/Glossary/Grammar/tha\|tha]].

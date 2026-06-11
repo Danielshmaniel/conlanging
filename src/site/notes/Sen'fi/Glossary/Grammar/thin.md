@@ -8,7 +8,7 @@
 ### Antonym
 - [[Sen'fi/Glossary/Grammar/than\|than]]
 ### Semanticization
-*Appending a [[Sen'fi/Glossary/Grammar/(tse)\|tse]] glyph yields **[[]]***
+*Appending a [[Sen'fi/Glossary/Grammar/(tse)\|tse]] glyph yields **[[Sen'fi/Glossary/Spatial concepts/thiin\|thiin]]***
 ### Etymology
 #### Glyph
 - compare to [[Sen'fi/Glossary/Grammar/than\|than]], following the analogy by making the "origin point" the crossbow firing said arrow.

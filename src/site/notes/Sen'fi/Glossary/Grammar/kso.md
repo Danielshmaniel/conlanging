@@ -7,7 +7,7 @@
 - 「~ pi ...」*quantifier of absence:* no, not, non-, none
 - 「... wa ~」as a whole sentence means "is not there"
 ### Semanticization
-*Appending a [[Sen'fi/Glossary/Grammar/(tse)\|tse]] glyph yields **[[]]***
+*Appending a [[Sen'fi/Glossary/Grammar/(tse)\|tse]] glyph yields **[[Sen'fi/Glossary/Concepts/ksoo\|ksoo]]***
 ### Etymology
 #### Glyph
 - ideograph of the "No" sign; circle with a line slicing through it

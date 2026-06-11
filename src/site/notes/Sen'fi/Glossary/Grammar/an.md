@@ -6,7 +6,7 @@
 ### Function
 - 「...~ 」*qualifier:* -like, -y, -ful (adjective marker)
 ### Semanticization
-*Appending a [[Sen'fi/Glossary/Grammar/(tse)\|tse]] glyph yields **[[]]***
+*Appending a [[Sen'fi/Glossary/Grammar/(tse)\|tse]] glyph yields **[[Sen'fi/Glossary/Concepts/aan\|aan]]***
 ### Etymology
 #### Glyph
 - ideograph of a thing with a label attached to it -> labelling -> describing.

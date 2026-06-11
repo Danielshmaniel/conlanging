@@ -7,7 +7,7 @@
 - 「... ~」*position marker of general location:* on / at
 - 「... wa ~」as a whole sentence means "is there"
 ### Semanticization
-*Appending a [[Sen'fi/Glossary/Grammar/(tse)\|tse]] glyph yields **[[]]***
+*Appending a [[Sen'fi/Glossary/Grammar/(tse)\|tse]] glyph yields **[[Sen'fi/Glossary/Concepts/duun\|duun]]***
 ### Etymology
 #### Glyph
 - ideograph of a thing existing on the ground (inspired by sitelen pona for "lon")

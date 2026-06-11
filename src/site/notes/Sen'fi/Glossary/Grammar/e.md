@@ -6,7 +6,7 @@
 ### Function
 「... ~ ...」*conjunction of alternatives:* or
 ### Semanticization
-*Appending a [[Sen'fi/Glossary/Grammar/(tse)\|tse]] glyph yields **[[]]***
+*Appending a [[Sen'fi/Glossary/Grammar/(tse)\|tse]] glyph yields **[[Sen'fi/Glossary/Concepts/ee\|ee]]***
 ### Etymology
 #### Glyph
 - an ideograph of a fork in the path, both ways leading to their own "thing".

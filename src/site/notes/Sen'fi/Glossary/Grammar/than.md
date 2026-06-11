@@ -8,7 +8,7 @@
 ### Antonym
 - [[Sen'fi/Glossary/Grammar/thin\|thin]]
 ### Semanticization
-*Appending a [[Sen'fi/Glossary/Grammar/(tse)\|tse]] glyph yields **[[]]***
+*Appending a [[Sen'fi/Glossary/Grammar/(tse)\|tse]] glyph yields **[[Sen'fi/Glossary/Spatial concepts/thaan\|thaan]]***
 ### Etymology
 #### Glyph
 - 至, an arrow hitting something

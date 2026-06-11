@@ -6,7 +6,7 @@
 ### Function
 「... ~」*clause marker:* as for, in terms of / if, supposing that, in the case that (context/adverbial marker)
 ### Semanticization
-*Appending a [[Sen'fi/Glossary/Grammar/(tse)\|tse]] glyph yields **[[]]***
+*Appending a [[Sen'fi/Glossary/Grammar/(tse)\|tse]] glyph yields **[[Sen'fi/Glossary/Concepts/uun\|uun]]***
 ### Etymology
 #### Glyph
 - ideograph of a hand (whose arm is coming from the left) placing an object on a surface -> "putting something on the table" -> supposing (compare with [[Sen'fi/Glossary/Grammar/dun\|dun]], which is an object already placed on the ground)

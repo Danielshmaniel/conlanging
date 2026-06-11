@@ -6,7 +6,7 @@
 ### Function
 - 「...~」*verb marker*
 ### Semanticization
-*Appending a [[Sen'fi/Glossary/Grammar/(tse)\|tse]] glyph yields **[[]]***
+*Appending a [[Sen'fi/Glossary/Grammar/(tse)\|tse]] glyph yields **[[Sen'fi/Glossary/Actions/een\|een]]***
 ### Etymology
 #### Glyph
 - pictograph of a person taking a step while running -> action.
