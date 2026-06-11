@@ -9,7 +9,7 @@
 | ~       | *n.*    | enclosure, perimeter, ==border==, ==boundary==, barrier, limit, wall, seal |
 | ~en     | *v.*    | to close, to shut, to obstruct, to seal, to hide, to conceal, to cover     |
 | ~en'kon | *v. n.* | closing, hiding                                                            |
-| ~a      | *psv.*  | hidden, shut off, closed                                                   |
+| ~a      | *psv.*  | hidden, shut off, closed, locked away                                      |
 ### Antonym
 - [[Sen'fi/Glossary/Man-made/fen\|fen]]
 ### Etymology
