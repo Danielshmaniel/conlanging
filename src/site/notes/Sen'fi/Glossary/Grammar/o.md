@@ -6,7 +6,7 @@
 ### Function
 「... ~ ...」*conjunction of addition:* and
 ### Semanticization
-*Appending a [[Sen'fi/Glossary/Grammar/(tse)\|tse]] glyph yields **[[]]***
+*Appending a [[Sen'fi/Glossary/Grammar/(tse)\|tse]] glyph yields **[[Sen'fi/Glossary/Quantity/oo\|oo]]***
 ### Etymology
 #### Glyph
 an ideograph of two things connected to each other and a line perpendicular to it, like the vertical line of [[Sen'fi/Glossary/Grammar/e\|e]]
