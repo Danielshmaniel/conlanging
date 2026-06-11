@@ -69,23 +69,23 @@ BTW, i put a tiny bit of touhou references in my words, such as `ban` (boundary)
 ## Touhou music titles
 ### EoSD
 
-| English Title                            | Translation                                                           | Note                                                                                      |
-| ---------------------------------------- | --------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
-| A Dream More Scarlet than Red            | mishu pen yamiluma thin ya-anbo                                       | a dream coloured brighter than blood                                                      |
-| A Soul as Scarlet as a Ground Cherry     | qa pen Cherasus-the van-si unnen yami-lumaya                          | (scarlet resembling crushed 'cerasus' fruit) spirit                                       |
-| Apparitions Stalk the Night              | konmiqa wa zhatsu dun ksan-en                                         |                                                                                           |
-| Lunate Elf                               | qazashii pe tsu-than ksodenno                                         | moon-crazy mystical creature                                                              |
-| Beloved Tomboyish Girl                   | buzhin pe da-anzhin, qu-a                                             | almost-woman who is, kind of masculine, and loved                                         |
-| Shanghai Teahouse ~ Chinese Tea          | mon pi Cha-the luinhan pi Shanhai-the ~ Sina-the-thin Cha-the luinhan | 'cha' is a japanese/chinese/universal word for "tea". 'Sina' is the latin name for China. |
-| Shanghai Alice of Meiji 17               | Shanhai Alis-the me pi Meiji-the zha pe junnan                        |                                                                                           |
-| Voile, the Magic Library                 | Vuwala the mi-enhya, monsen pe zashii wa dun                          | look, in a 'Voile' way, magical writing-house is there                                    |
-| Locked Girl ~ the Girl's Sealed Room     | bu pe ban ~ hu pe ban pi buzhin                                       |                                                                                           |
-| The Maid and the Pocket Watch of Blood   | buten-mon o tonzha pi luma                                            |                                                                                           |
-| Lunar Clock ~ Luna Dial                  | tonzha pe tsu ~ Luna-the tonnitsen                                    | lunar timepiece ~ "Luna" round measuring instrument                                       |
-| The Young Descendant of Tepes            | mezhalen pe pya pi Tepesh-the                                         |                                                                                           |
-| Septette for a Dead Princess             | pyaburo pe ksunqa than Septet-the manfi                             |                                                                                           |
-| The Centennial Festival of Magical Girls | mimeman pi tsen'yun pe hyan pin buzashii-tso                          | fun gathering of 100 solar cycles of magical girls                                        |
-| U.N. Owen was Her?                       | mebu wa Yu En Owen-the unshi?                                         |                                                                                           |
+| English Title                            | Translation                                                             | Note                                                                                      |
+| ---------------------------------------- | ----------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| A Dream More Scarlet than Red            | mishu pen yamiluma thin ya-anbo                                         | a dream coloured brighter than blood                                                      |
+| A Soul as Scarlet as a Ground Cherry     | qa pen Cherasus-the van-si unnen yami-lumaya                            | (scarlet resembling crushed 'cerasus' fruit) spirit                                       |
+| Apparitions Stalk the Night              | konmiqa wa zhatsu dun ksan-en                                           |                                                                                           |
+| Lunate Elf                               | qazashii pe tsu-than ksodenno                                           | moon-crazy mystical creature                                                              |
+| Beloved Tomboyish Girl                   | buzhin pe da-anzhin, qu-a                                               | almost-woman who is, kind of masculine, and loved                                         |
+| Shanghai Teahouse ~ Chinese Tea          | mon pi Cha-the lujinhan pi Shanhai-the ~ Sina-the-thin Cha-the lujinhan | 'cha' is a japanese/chinese/universal word for "tea". 'Sina' is the latin name for China. |
+| Shanghai Alice of Meiji 17               | Shanhai Alis-the me pi Meiji-the zha pe junnan                          |                                                                                           |
+| Voile, the Magic Library                 | Vuwala the mi-enhya, monsen pe zashii wa dun                            | look, in a 'Voile' way, magical writing-house is there                                    |
+| Locked Girl ~ the Girl's Sealed Room     | bu pe ban ~ hu pe ban pi buzhin                                         |                                                                                           |
+| The Maid and the Pocket Watch of Blood   | buten-mon o tonzha pi luma                                              |                                                                                           |
+| Lunar Clock ~ Luna Dial                  | tonzha pe tsu ~ Luna-the tonnitsen                                      | lunar timepiece ~ "Luna" round measuring instrument                                       |
+| The Young Descendant of Tepes            | mezhalen pe pya pi Tepesh-the                                           |                                                                                           |
+| Septette for a Dead Princess             | pyaburo pe ksunqa than Septet-the manfi                                 |                                                                                           |
+| The Centennial Festival of Magical Girls | mimeman pi tsen'yun pe hyan pin buzashii-tso                            | fun gathering of 100 solar cycles of magical girls                                        |
+| U.N. Owen was Her?                       | mebu wa Yu En Owen-the unshi?                                           |                                                                                           |
 ### PCB
 | English Title       | Translation | Note |
 | ------------------- | ----------- | ---- |
