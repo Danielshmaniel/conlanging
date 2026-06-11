@@ -9,7 +9,7 @@
 | ~     | *n.*  | bird    |
 ### Etymology
 #### Glyph
-simple pictograph influenced by the Egyptian bird hieroglyph 𓅂
+simple pictograph influenced by Egyptian bird hieroglyphs such as 𓅂
 #### Sound
 - Japanese "tori"
 - *a priori:* r=fluttering, i=agility

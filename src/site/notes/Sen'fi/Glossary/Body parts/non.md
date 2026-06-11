@@ -6,10 +6,10 @@
 ### Meaning
 | infl. | class  | meaning                       |
 | ----- | ------ | ----------------------------- |
-| ~     | *n.*   | face, front, facade, surface  |
+| ~     | *n.*   | face, surface / front, facade |
 | ~en   | *v.*   | to face, be in front of (tr.) |
 | ~a    | *psv.* | faced                         |
-| ~an   | *adj.* | front, anterior               |
+| ~an   | *adj.* | front, anterior / superficial |
 ### Etymology
 #### Glyph
 oracle bone script of 面 (mask); pictograph of a face.
