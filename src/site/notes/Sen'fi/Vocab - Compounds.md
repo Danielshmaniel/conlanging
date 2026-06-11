@@ -578,6 +578,7 @@
 |                           | zabye-(en)      | *n.* attraction, bond<br>*v.* to attract                                                                                                 | force + bond                      |
 |                           | zabyechen       | chemical bond                                                                                                                            | attraction + (chemical reaction)  |
 |                           | zabyedon-(en)   | *n.* magnetic force<br>*v.* to magnetically attract                                                                                      | attraction + metal                |
+|                           | hin'go          | atom, unit of matter                                                                                                                     | (unit) + (matter)                 |
 ## Temporal concepts
 
 | glyph | sound                        | meaning                                                                                                               | combo                   |
@@ -771,7 +772,7 @@ NOTE: *These are the meanings of causative verbal nouns (`methi` and `yin'thi`pr
 |       | buten'mon   | maid                                                                               | female worker + domestic |
 |       | mekon'ba    | merchant, seller, shopkeeper, clerk, salesperson                                   | person + buyable goods   |
 |       | merogogun   | landlord                                                                           | person + owning land     |
-## Question/Indefinite Words
+## Questions and Unclarity
 
 | glyph | sound          | meaning              | combo                         |
 | ----- | -------------- | -------------------- | ----------------------------- |
