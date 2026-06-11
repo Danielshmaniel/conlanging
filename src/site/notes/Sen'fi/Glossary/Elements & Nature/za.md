@@ -7,6 +7,7 @@
 | infl. | class  | meaning                                     |
 | ----- | ------ | ------------------------------------------- |
 | ~     | *n.*   | energy, electricity, force, charge, impetus |
+| ~en   | *v.*   | to charge with energy                       |
 | ~an   | *adj.* | energetic, forceful, charged                |
 | ~un   | *adv.* | forcefully, energetically                   |
 ### Implied meaning
