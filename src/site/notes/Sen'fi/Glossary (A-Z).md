@@ -2,8 +2,10 @@
 {"dg-publish":true,"permalink":"/sen-fi/glossary-a-z/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
-[[Sen'fi/Glossary (Tagged)\|Sort: Categorical A-Z]]
+[[Sen'fi/Glossary (Tagged)\|Sort: By Category]]
+
 *WIP*
+
 
 ```base
 views:
