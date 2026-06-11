@@ -157,23 +157,24 @@
 |                           | byedoka         | lava                                                                                                               | semi-solid + rock + fire        |
 |                           | byego           | mud, clay                                                                                                          | semi-solid + earth              |
 |                           | byezivafen      | honey                                                                                                              | viscous substance + bee         |
+|                           | don'zabye       | magnet                                                                                                             | metal + attraction              |
 ## Foodstuffs
 
-| glyph | sound        | meaning          | combo                  |
-| ----- | ------------ | ---------------- | ---------------------- |
-|       | pan'luka     | pasta            | grain + boiling water  |
-|       | pan'ka       | bread            | grain + (heat)         |
-|       | pan'kawi     | leavened bread   | bread + risen          |
-|       | pan'kawo     | flatbread, pitta | bread + low            |
-|       | pan'kaman    | pastry, cake     | bread + sweet          |
-|       | dyopan'ka    | crust of bread   | shell + bread          |
-|       | sipan        | flour            | powder + grain         |
-|       | sipan'ka     | crumb            | particles + bread      |
-|       | byepan       | dough            | paste + grain          |
-|       | luvan        | juice            | liquid + fruit         |
-|       | sivan        | sugar            | powder + fruit         |
-|       | sido-jin'han | salt             | powder + rock + eating |
-|       | vafe-jin'han | spice, seasoning | plant + smell + eating |
+| glyph | sound        | meaning                                  | combo                  |
+| ----- | ------------ | ---------------------------------------- | ---------------------- |
+|       | pan'luka     | pasta                                    | grain + boiling water  |
+|       | pan'ka       | bread                                    | grain + (heat)         |
+|       | pan'kawi     | leavened bread                           | bread + risen          |
+|       | pan'kawo     | unleavened bread, flatbread, pitta bread | bread + low            |
+|       | pan'kaman    | pastry, cake, tart, pie                  | bread + sweet          |
+|       | dyopan'ka    | crust of bread                           | shell + bread          |
+|       | sipan        | flour                                    | powder + grain         |
+|       | sipan'ka     | crumb                                    | particles + bread      |
+|       | byepan       | dough                                    | paste + grain          |
+|       | luvan        | juice                                    | liquid + fruit         |
+|       | sivan        | sugar                                    | powder + fruit         |
+|       | sido-jin'han | salt                                     | powder + rock + eating |
+|       | vafe-jin'han | spice, seasoning                         | plant + smell + eating |
 ## Tools & Man-made objects
 
 | glyph                    | sound          | meaning                                                                                                                                                             | combo                                               |
@@ -574,6 +575,9 @@
 |                           | in'hu-(en)      | *n.* contents<br><br>*v.* to contain                                                                                                     | inside + room                     |
 |                           | pyon'ya-(en/an) | *n.* reflection (of light)<br><br>*v.* to reflect (light)<br><br>*adj.* reflective, shiny                                                | bounce + light                    |
 |                           | pyon'hefi-(en)  | echo                                                                                                                                     | bounce (back) + sound             |
+|                           | zabye-(en)      | *n.* attraction, bond<br>*v.* to attract                                                                                                 | force + bond                      |
+|                           | zabyechen       | chemical bond                                                                                                                            | attraction + (chemical reaction)  |
+|                           | zabyedon-(en)   | *n.* magnetic force<br>*v.* to magnetically attract                                                                                      | attraction + metal                |
 ## Temporal concepts
 
 | glyph | sound                        | meaning                                                                                                               | combo                   |
@@ -645,6 +649,7 @@ NOTE: *"en" glyphs are omitted from the glyph column since they're everywhere he
 |                         | hyami-(en)            | *n.* search, hunt, seeking<br><br>*v.* to search for, to look for, to seek, to hunt<br><br>*preverb:* to try to, to attempt to                                                    | wanting + to see                                                  |
 |                         | hyamithaa-(en)        | *n.* trying, trial, test<br><br>*v.* to try (trans.), to test (trans.)                                                                                                            | seeking + outcome                                                 |
 |                         | thaan'kon'mi-(en)     | *n.* finding, discovery, noticing<br><br>*v.* to find, to notice, to discover, to spot, to come across, to locate                                                                 | arrival + sight-thing                                             |
+|                         | fyekon'mi-(en)        | *n.* misplacing, forgetting the location of smth, losing sight of smth<br><br>*v.* to misplace<br>                                                                                | slip out of + sight                                               |
 |                         | ksate-(en)            | *n.* fist-fight<br>*v.* to punch, to hit (with hands)                                                                                                                             | fight + hand                                                      |
 |                         | jin'han-(en)          | *n.* eating, ingestion, digestion, consumption<br>*v.* to eat, to ingest, to digest, to consume                                                                                   | putting into + mouth                                              |
 |                         | jin'han'lu-(en)       | drinking<br>to drink<br>                                                                                                                                                          | ingestion + water                                                 |
