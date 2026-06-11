@@ -11,4 +11,4 @@
 ### Implied meaning
 - falsehood
 ### Grammar counterpart
-*See [[Sen'fi/Glossary/Grammar/dun\|dun]] for the original use and etymology.*
+*See [[Sen'fi/Glossary/Grammar/an\|an]] for the original use and etymology.*

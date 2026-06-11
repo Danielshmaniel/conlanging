@@ -12,4 +12,4 @@
 ### Implied meaning
 - falsehood
 ### Grammar counterpart
-*See [[Sen'fi/Glossary/Grammar/dun\|dun]] for the original use and etymology.*
+*See [[Sen'fi/Glossary/Grammar/kso\|kso]] for the original use and etymology.*
