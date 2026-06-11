@@ -14,6 +14,8 @@
 | ~a         | *psv.*     | joined together                         |
 | ~an        | *adj.*     | unified, complete                       |
 | ~un        | *adv.*     | completely, 100%                        |
+### Antonym
+- [[Sen'fi/Glossary/Quantity/ki\|ki]]
 ### Etymology
 #### Glyph
 ideograph of a box encircling two things

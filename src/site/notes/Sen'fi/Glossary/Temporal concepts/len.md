@@ -10,6 +10,10 @@
 | ~en        | *v.*       | to continue, stay, keep doing, resume, advance, follow, persist (intr.)                                                          |
 | ...thu ~en | *caus. v.* | to continue, resume, advance (tr.)                                                                                               |
 | ~an        | *adj.*     | the next, the following, successive                                                                                              |
+### Antonyms
+- **kson'len**
+- [[Sen'fi/Glossary/Temporal concepts/ksun\|ksun]]
+- **shuta**
 ### Etymology
 #### Glyph
 - compare to [[Sen'fi/Glossary/Temporal concepts/ksun\|ksun]], which is the same thing but with a knife at the end of it, signifying a conclusion. This absence of a limit allows the plant object to grow longer, thus continuing the line.

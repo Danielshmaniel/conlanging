@@ -10,6 +10,8 @@
 | ~pi   | *quant.* | few, little              |
 | ~an   | *adj.*   | few                      |
 | ~un   | *adv.*   | hardly, barely           |
+### Antonym
+- [[Sen'fi/Glossary/Quantity/bo\|bo]]
 ### Etymology
 #### Glyph
 oracle bone script of 少 (4 droplets), signifying a tiny amount

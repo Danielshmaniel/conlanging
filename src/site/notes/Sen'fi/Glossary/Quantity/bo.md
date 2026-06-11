@@ -10,6 +10,8 @@
 | ~pi   | *quant.* | many, much, a lot, several, plenty |
 | ~an   | *adj.*   | many, numerous, several, plenty    |
 | ~un   | *adv.*   | very, a lot, considerably          |
+### Antonym
+- [[Sen'fi/Glossary/Quantity/bi\|bi]]
 ### Etymology
 #### Glyph
 sitelen pona for "kulupu", but with the added meaning of "mute".

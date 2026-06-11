@@ -11,6 +11,8 @@
 | ~an   | *adj.* | old                 |
 ### Implied meaning
 - age, oldness
+### Antonym
+- [[Sen'fi/Glossary/Creatures/pya\|pya]]
 ### Etymology
 #### Glyph
 老, a crooked person with a cane

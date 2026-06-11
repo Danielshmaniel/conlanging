@@ -10,6 +10,8 @@
 | ~en   | *v.*   | to recieve, accept, get, acquire, take, gain, be given |
 | ~a    | *psv.* | received, taken                                        |
 | ~an   | *adj.* | receptive, accepting, passive                          |
+### Antonym
+- [[Sen'fi/Glossary/Actions/jen\|jen]]
 ### Etymology
 #### Glyph
 a hand dropping an object onto another person's hand (this hand is related to the diagonal strokes in [[Sen'fi/Glossary/Feelings/qu\|qu]])

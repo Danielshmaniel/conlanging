@@ -8,6 +8,8 @@
 | ----- | ------ | --------------------------- |
 | ~     | *n.*   | down, lower area, underside |
 | ~an   | *adj.* | low                         |
+### Antonym
+- [[Sen'fi/Glossary/Spatial concepts/wi\|wi]]
 ### Etymology
 #### Glyph
 - 下 but the lower slanting line is replaced with half an arrow head.

@@ -8,6 +8,9 @@
 | ------- | ------- | --------------------------------------------- |
 | ~       | *n.*    | ability, strength, power, potential, capacity |
 | ~an     | *adj.*  | able, mighty, capable                         |
+### Antonym
+- **ksoto**
+- **bito**
 ### Etymology
 #### Glyph
 力 ("a depiction of the rippling muscles of a powerful arm")

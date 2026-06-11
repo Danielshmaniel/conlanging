@@ -11,9 +11,11 @@
 | ~an   | *adj.* | alive, living         |
 ### Implied meaning
 - spirit, soul, anima
+### Antonym
+- **ksoqa**
 ### Etymology
 #### Glyph
-- 生. a plant with soil and two rain droplets -> survival
+- 生. a plant ([[Sen'fi/Glossary/Creatures/va\|va]]) with soil and two rain droplets -> survival
 - Coincidence: ᛉ is the life rune in Futhark.
 #### Sound
 - *a priori:* q=hidden power, a=energy

@@ -12,6 +12,8 @@
 ### Implied meaning
 - past
 - former, ex-
+### Antonym
+- [[Sen'fi/Glossary/Temporal concepts/ksun\|ksun]]
 ### Etymology
 #### Glyph
 - 了, showing the end of a rolled object (perhaps a string or plant)

@@ -555,6 +555,7 @@
 |                           | in'hu-(en)      | *n.* contents<br><br>*v.* to contain                                                                                                     | inside + room                     |
 |                           | pyon'ya-(en/an) | *n.* reflection (of light)<br><br>*v.* to reflect (light)<br><br>*adj.* reflective, shiny                                                | bounce + light                    |
 |                           | pyon'hefi-(en)  | echo                                                                                                                                     | bounce (back) + sound             |
+|                           | ksogon-(an)     | smooth, flat                                                                                                                             | absence + bump                    |
 ## Temporal concepts
 
 | glyph | sound                        | meaning                                                                                                               | combo                   |

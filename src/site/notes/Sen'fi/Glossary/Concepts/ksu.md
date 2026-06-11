@@ -11,6 +11,8 @@
 ### Implied meaning
 - evil
 - corrupted
+### Antonym
+- [[Sen'fi/Glossary/Concepts/we\|we]]
 ### Etymology
 #### Glyph
 凶, showing a rotated person falling into a pit -> unfortunate, disaster/disgrace, evil.

@@ -14,9 +14,11 @@
 - sweetness
 - relaxation
 - entertainment
+### Antonym
+- **ksoman**
 ### Etymology
 #### Glyph
-inspired by 甘 except that the "sweet" part on the tongue is replaced by a fruit hanging off of a tree (which also gives a "shelter of comfort" to the person/mouth like [[Sen'fi/Excalidraw/Actions/shu\|Sen'fi/Excalidraw/Actions/shu]]).
+inspired by 甘 except that the "sweet" part on the tongue is replaced by a fruit hanging off of a tree (which also gives a "shelter of comfort" to the person/mouth like [[Sen'fi/Glossary/Actions/shu\|shu]]).
 #### Meaning
 - kinda toki pona "suwi, musi"
 - philosophical concept "Low-hanging fruit" (MT: tistenna l-bajtra taqa' f'ħalqek)

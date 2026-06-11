@@ -14,8 +14,9 @@
 - cycle, loop
 - repetition, re-
 ### Note
-*for "loop/circle", see [[kon'tsen\|kon'tsen]]/[[Sen'fi/Excalidraw/Geometry/ksoqi\|ksoqi]]; for "cycle" see [[tsen'zha\|tsen'zha]].*
-*warning: potential ambiguity between physical and temporal cycles.*
+- for "loop/circle", see **kon'tsen**/**ksoqi**;
+- for "cycle" see **tsen'zha**.
+- Warning: potential ambiguity between physical and temporal cycles.
 ### Etymology
 #### Glyph
 回, an object rotating within another; a swirl

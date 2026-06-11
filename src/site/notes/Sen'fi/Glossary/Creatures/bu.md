@@ -7,6 +7,8 @@
 | infl. | class | meaning       |
 | ----- | ----- | ------------- |
 | ~     | *n.*  | woman, female |
+### Antonym
+- [[Sen'fi/Glossary/Creatures/da\|da]]
 ### Etymology
 #### Glyph
 (person kneeling like geisha + breasts/womb) -> 女

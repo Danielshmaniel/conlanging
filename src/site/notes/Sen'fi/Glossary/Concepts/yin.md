@@ -15,7 +15,7 @@
 - 厶
 - sitelen pona "sipi"
 
-both of these show something going from itself back to itself; a thread looping back to itself
+Both of these show something going back to itself; a thread looping back to itself
 #### Sound
 - Maltese "jien"
 - *a priori:* in=inner/mental

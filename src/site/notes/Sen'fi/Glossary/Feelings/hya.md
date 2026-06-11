@@ -14,6 +14,8 @@
 - request
 - begging
 - expectation
+### Antonym
+- [[Sen'fi/Glossary/Feelings/kse\|kse]]
 ### Etymology
 #### Glyph
 similar to 欠; a depiction of a kneeling person with their arms out to request receiving something (instead of an open mouth in the oracle bone script character) - imagine a beggar or a child wanting something

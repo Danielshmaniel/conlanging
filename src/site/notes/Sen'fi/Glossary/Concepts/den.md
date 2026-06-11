@@ -14,9 +14,11 @@
 | ...thu ~a  | *psv. caus.* | corrected, straightened out                                                                                                                               |
 | ~an        | *adj.*       | normal, orthodox, regular, conforming, adhering to ..., faithful to ... / direct, efficient, straight, smooth, straightforward, blunt / correct, accurate |
 | ~un        | *adv.*       | normally, usually / directly, accurately                                                                                                                  |
+### Antonym
+- **ksoden**
 ### Etymology
 #### Glyph
-直, a line perpendicular to an eye, showing that something is being perceived right
+直, a line perpendicular to an eye ([[Sen'fi/Glossary/Body parts/mi\|mi]]), showing that something is being perceived right
 #### Sound
 - *a priori:* d=forceful, en=connective
 #### Meaning

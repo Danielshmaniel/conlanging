@@ -11,6 +11,8 @@
 ### Implied meaning
 - cleanliness
 - purity
+### Antonym
+- [[Sen'fi/Glossary/Concepts/ksu\|ksu]]
 ### Etymology
 #### Glyph
 良, something on water, being cleaned by a pure spring -> moral purity / perfection. Cross reference to Japanese "kirei" which means both clean and beautiful.

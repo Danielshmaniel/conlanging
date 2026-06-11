@@ -13,6 +13,8 @@
 | methi~     | *caus. n.* | breaking smth. apart          |
 | ~a         | *psv.*     | broken apart, divided         |
 | ~un        | *adv.*     | partly                        |
+### Antonym
+- [[Sen'fi/Glossary/Quantity/ko\|ko]]
 ### Etymology
 #### Glyph
 ideograph of a slash cutting apart two things in a box, [[Sen'fi/Glossary/Quantity/ko\|ko]]

@@ -9,6 +9,8 @@
 | ~     | *n.*   | love, respect, care        |
 | ~a    | *psv.* | loved, beloved, cared for  |
 | ~an   | *adj.* | loving, caring, respectful |
+### Antonym
+- [[Sen'fi/Glossary/Feelings/kse\|kse]]
 ### Etymology
 #### Glyph
 - a heart beating (notice that the heart is just [[Sen'fi/Glossary/Body parts/qan\|qan]] flipped on its side minus the blood vessels)

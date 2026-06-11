@@ -10,10 +10,12 @@
 | ~en   | *v.*   | to dislike, to hate, to reject, to be irritated by                        |
 | ~a    | *psv.* | disgusting, annoying, hated, disliked, repulsive                          |
 | ~an   | *adj.* | hateful, contemptful                                                      |
+### Antonym
+- [[Sen'fi/Glossary/Feelings/qu\|qu]]
 ### Etymology
 #### Glyph
 - Two people separated from each other by a wall
-- Related to [[Sen'fi/Excalidraw/Actions/ksa\|Sen'fi/Excalidraw/Actions/ksa]], however it should not be cause for confusion as [[Sen'fi/Excalidraw/Actions/ksa\|Sen'fi/Excalidraw/Actions/ksa]] has two people engaged in a fight while "kse" is about the energy driving it which doesn't necessarily cause fights but distance and hostility.
+- Related to [[Sen'fi/Glossary/Actions/ksa\|ksa]], however it should not be cause for confusion, as [[Sen'fi/Glossary/Actions/ksa\|ksa]] has two people engaged in a fight while "kse" is about the energy driving it which doesn't necessarily cause fights but distance and hostility.
 - Cross reference to Maltese "mibgħeda" (hate) which is lexically related to "bogħod" (far/distance)
 #### Sound
 - *a priori:* ks=destruction, e=harmony

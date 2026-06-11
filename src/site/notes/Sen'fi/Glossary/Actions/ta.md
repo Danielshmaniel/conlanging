@@ -12,7 +12,7 @@
 | ~a         | *psv.*     | moved, shifted                |
 ### Etymology
 #### Glyph
-similar to [[Sen'fi/Excalidraw/Grammar/en\|en]], depicting a running man.
+similar to **en**, depicting a running man.
 #### Sound
 - toki pona "tawa"
 - *a priori:* t=control, a=energy

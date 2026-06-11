@@ -10,6 +10,8 @@
 | ~en   | *v.*   | to give, hand over, provide, transmit |
 | ~a    | *psv.* | given                                 |
 | ~an   | *adj.* | providing, generous                   |
+### Antonym
+- [[Sen'fi/Glossary/Actions/hen\|hen]]
 ### Etymology
 #### Glyph
 a hand offering an object towards another person (this hand is related to the diagonal strokes in [[Sen'fi/Glossary/Feelings/qu\|qu]])

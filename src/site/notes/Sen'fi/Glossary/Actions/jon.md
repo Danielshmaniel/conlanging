@@ -12,6 +12,8 @@
 ### Synonyms
 - [[Sen'fi/Glossary/Quantity/ksen\|ksen]] (throwing *away*, not *out*)
 - [[Sen'fi/Glossary/Actions/jen\|jen]] (transmitting, not emitting)
+### Antonym
+- [[Sen'fi/Glossary/Actions/jin\|jin]]
 ### Etymology
 #### Glyph
 [[Sen'fi/Glossary/Spatial concepts/on\|on]] with an object. Related to 出.

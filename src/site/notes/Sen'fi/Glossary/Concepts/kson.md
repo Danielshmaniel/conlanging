@@ -18,4 +18,4 @@
 #### Meaning
 Ambiguity warning: vertical or sideways?
 #### Sound
-- Related to [[Sen'fi/Excalidraw/Grammar/kso\|kso]] (not)
+- Related to **kso** (not)

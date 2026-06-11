@@ -15,7 +15,6 @@
 #### Glyph
 - ⚡
 - oracle bone script of 申 (lightning bolt)
-- ᛋ is the "life force" rune in Futhark
 - The two swirls coming from both sides of the bolt represent the flow of energy from one body to another, otherwise they're just sparks of the lightning bolt.
 #### Sound
 - *a priori:* z=energy/buzzing, a=energy

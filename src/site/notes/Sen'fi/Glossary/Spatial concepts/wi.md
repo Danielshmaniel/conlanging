@@ -8,6 +8,8 @@
 | ----- | ------ | ------------------------------------ |
 | ~     | *n.*   | up, upper area (the area over smth.) |
 | ~an   | *adj.* | upper, high up                       |
+### Antonym
+- [[Sen'fi/Glossary/Spatial concepts/wo\|wo]]
 ### Etymology
 #### Glyph
 上 but the upper horizontal line is replaced with half an arrow head. Arrowhead: compare to [[Sen'fi/Glossary/Spatial concepts/on\|on]]

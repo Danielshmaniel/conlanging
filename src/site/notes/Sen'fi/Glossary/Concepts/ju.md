@@ -8,7 +8,8 @@
 | ----- | ------ | ----------------------------------------------------------------------------- |
 | ~     | *n.*   | mixing, intersection, crossing, mutuality, association, interchange, exchange |
 | ~en   | *v.*   | to exchange (tr.)                                                             |
-| ~an   | *adj.* | mutual, inter-                                                                |
+| ~a    | *psv.* | shared, exchanged                                                             |
+| ~an   | *adj.* | mutual, inter-, in common                                                     |
 | ~un   | *adv.* | each other, one another, mutually                                             |
 ### Etymology
 #### Glyph

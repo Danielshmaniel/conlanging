@@ -9,6 +9,8 @@
 | ~     | *n.*   | outside area, beyond smth. |
 ### Implied meaning
 - far out
+### Antonym
+- [[Sen'fi/Glossary/Spatial concepts/in\|in]]
 ### Etymology
 #### Glyph
 - ideograph of an arrow (half an arrow head) exiting something; compare this to [[Sen'fi/Glossary/Spatial concepts/in\|in]].

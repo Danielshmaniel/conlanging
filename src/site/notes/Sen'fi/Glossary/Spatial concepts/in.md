@@ -9,6 +9,8 @@
 | ~     | *n.*  | inside area, contents, within smth. |
 ### Implied meaning
 - within the area: nearby, vicinity
+### Antonym
+- [[Sen'fi/Glossary/Spatial concepts/on\|on]]
 ### Etymology
 #### Glyph
 ideograph of an arrow (half an arrow head) entering something.

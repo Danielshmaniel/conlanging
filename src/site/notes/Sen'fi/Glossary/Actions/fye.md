@@ -10,8 +10,10 @@
 | ~en   | *v.*   | to lose, lose grasp of, accidentally drop, miss, fail to                          |
 | ~a    | *psv.* | lost                                                                              |
 | ~an   | *adj.* | accidental                                                                        |
-### Synonyms
-- ksueen
+### Synonym
+- **ksueen**
+### Antonym
+- [[Sen'fi/Glossary/Actions/hen\|hen]]
 ### Etymology
 #### Glyph
 - a simplified hand ([[Sen'fi/Glossary/Body parts/te\|te]]) combined with an out-arrow ([[Sen'fi/Glossary/Spatial concepts/on\|on]]/[[Sen'fi/Glossary/Actions/jon\|jon]]), symbolizing something that is accidentally dropped or slips out of grasp.

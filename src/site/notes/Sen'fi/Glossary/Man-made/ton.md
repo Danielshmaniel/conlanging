@@ -11,4 +11,4 @@
 #### Glyph
 pictograph of a hoe like the one [[Sen'fi/Glossary/Creatures/da\|da]] holds
 #### Sound
-- Related to [[Sen'fi/Excalidraw/Concepts/to\|Sen'fi/Excalidraw/Concepts/to]] (ability)
+- Related to [[Sen'fi/Glossary/Concepts/to\|to]] (ability)

@@ -11,6 +11,8 @@
 | ~a    | *psv.* | entered, input, inserted, contained, included         |
 ### Implied meaning
 - filling a container
+### Antonym
+- [[Sen'fi/Glossary/Actions/jon\|jon]]
 ### Etymology
 #### Glyph
 [[Sen'fi/Glossary/Spatial concepts/in\|in]] with an object. Vaguely resembles 入.

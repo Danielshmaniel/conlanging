@@ -8,6 +8,8 @@
 | ----- | ------ | ------------------------------------------ |
 | ~     | *n.*   | angle, corner, vertex, point / horn, spike |
 | ~an   | *adj.* | pointy                                     |
+### Antonym
+- **ksoqi**
 ### Etymology
 #### Glyph
 oracle bone script of 角. Originally a depiction of a horn but then generalised to pointiness, therefore to angles. Wittily designed to look like both a horn and angle notation.

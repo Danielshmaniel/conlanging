@@ -10,6 +10,8 @@
 | ~en     | *v.*    | to close, to shut, to obstruct, to seal, to hide, to conceal, to cover     |
 | ~en'kon | *v. n.* | closing, hiding                                                            |
 | ~a      | *psv.*  | hidden, shut off, closed                                                   |
+### Antonym
+- [[Sen'fi/Glossary/Man-made/fen\|fen]]
 ### Etymology
 #### Glyph
 - [[Sen'fi/Glossary/Man-made/hu\|hu]], with closed gates like 門

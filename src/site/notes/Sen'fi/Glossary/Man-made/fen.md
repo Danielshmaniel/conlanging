@@ -15,7 +15,9 @@
 - parting two sides
 - gate, door
 ### Synonym
-- [[Sen'fi/Excalidraw/Tools & Man-made objects/han'hu\|han'hu]] (lit. mouth of a hole)
+- **han'hu** (lit. mouth of a hole)
+### Antonym
+- [[Sen'fi/Glossary/Man-made/ban\|ban]]
 ### Etymology
 #### Glyph
 [[Sen'fi/Glossary/Man-made/hu\|hu]] with open gates, compare with [[Sen'fi/Glossary/Man-made/ban\|ban]].

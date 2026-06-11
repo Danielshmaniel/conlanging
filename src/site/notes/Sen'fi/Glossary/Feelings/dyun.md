@@ -13,6 +13,8 @@
 | ...thu ~a  | *psv. caus.* | convinced                                                                                                  |
 | ~an        | *adj.*       | inevitable, indubitable, undeniable, conclusive, absolute, definite, assertive, affirmative, sure, certain |
 | ~un        | *adv.*       | surely, absolutely, definitely, inevitably, indubitably, certainly                                         |
+### Antonym
+- **ksodyun**
 ### Etymology
 #### Glyph
 [[Sen'fi/Glossary/Body parts/qan\|qan]] but with a diagonal strike instead of the extra part. A striked heart, inspired directly by 必.
@@ -20,4 +22,4 @@
 - Conveys the phrase i just made up: "On my heart!" or "As sure as death!"
 - Not to be confused with the Maltese metaphor of "taqta' qalbek" (cutting one's heart) i.e. giving up; it's the opposite in fact. More like the phrase "naqta' rasi li ..." (i swear on my head that...)
 #### Sound
-- Related to [[Sen'fi/Excalidraw/Grammar/dun\|dun]] (reality; truth)
+- Related to **dun** (reality; truth)

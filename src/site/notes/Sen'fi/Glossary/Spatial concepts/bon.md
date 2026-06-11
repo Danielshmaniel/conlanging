@@ -10,6 +10,8 @@
 | ~an   | *adj.* | big, great, grand |
 ### Implied meaning
 - importance, grandeur
+### Antonym
+- [[Sen'fi/Glossary/Spatial concepts/bin\|bin]]
 ### Etymology
 #### Glyph
 a pictograph of a person spreading his arms and legs like 大 -> a giant

@@ -8,8 +8,11 @@
 | ----- | ------ | ------------------------- |
 | ~     | *n.*   | length (of space or time) |
 | ~an   | *adj.* | long                      |
+### Antonym
+- **bilo**
 ### Etymology
 #### Glyph
-長, a picture of a man with long, flowing hair on the back of his head
+- 長, a picture of a man with long, flowing hair on the back of his head
+- For some reason it resembles ==Gerson== from Deltarune..
 #### Sound
 - *a priori:* l=continuity, o=power

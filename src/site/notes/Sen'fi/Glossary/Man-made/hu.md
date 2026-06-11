@@ -11,8 +11,11 @@
 | ~en'kon | *v. n.*   | digging                                                      |
 | ~an     | *adj.*    | hollow, empty, vacant                                        |
 | ~an'kon | *adj. n.* | emptiness, hollowness                                        |
+### Antonym
+- [[Sen'fi/Glossary/Elements & Nature/gon\|gon]] (protrusion)
 ### Etymology
 #### Glyph
 穴. Imagine the entrance to a mine or cave dwelling
 #### Sound
 - *a priori:* h=emptiness, u=deep/hollowness
+- Related to [[Sen'fi/Glossary/Body parts/han\|han]] (mouth)

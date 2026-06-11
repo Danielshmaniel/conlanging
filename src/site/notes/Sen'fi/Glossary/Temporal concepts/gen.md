@@ -12,6 +12,9 @@
 | ~un   | *adv.* | originally, initially                                                      |
 ### Implied meaning
 - (botanical) roots
+- newness
+### Antonym
+- [[Sen'fi/Glossary/Temporal concepts/ksun\|ksun]]
 ### Etymology
 #### Glyph
 - compare to [[Sen'fi/Glossary/Temporal concepts/zhin\|zhin]], but there is only roots.
