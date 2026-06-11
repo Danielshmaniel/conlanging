@@ -10,11 +10,14 @@
 | ~en   | *v.*   | to lose, lose grasp of, accidentally drop, miss, fail to                          |
 | ~a    | *psv.* | lost, slipped out                                                                 |
 | ~an   | *adj.* | accidental / clumsy, awkward                                                      |
-### Synonym
+### Implied meaning
+- to misplace
+- to forget
+### Synonyms
 - **ksueen** (mistake)
 - **fyethaahya** (failure)
 - [[Sen'fi/Glossary/Quantity/ksen\|ksen]] (to remove *intentionally*)
-### Antonym
+### Antonyms
 - [[Sen'fi/Glossary/Actions/hen\|hen]] (gain)
 - **hen'thaahya** (win)
 ### Etymology
