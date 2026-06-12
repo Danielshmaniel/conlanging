@@ -461,20 +461,20 @@
 |                        | kibo            | brittle                                                                                                         | break + much              |
 ## Colours
 
-| glyph | sound      | meaning             | combo          |
-| ----- | ---------- | ------------------- | -------------- |
-|       | yeya       | white               | colour + light |
-|       | yeksoya    | black               | colour + dark  |
-|       | yeluma     | red, blood-red      | colour + blood |
-|       | yelumaya   | bright red, scarlet | red + bright   |
-|       | yelumaka   | orange              | red + fire     |
-|       | yeka       | yellow              | colour + fire  |
-|       | yekadon    | golden yellow       | yellow + metal |
-|       | yeva       | green               | colour + plant |
-|       | yehewi     | blue                | colour + sky   |
-|       | yehewiluma | purple              | blue + blood   |
-|       | yeyaluma   | pink                | white + blood  |
-|       | yego       | brown               | colour + earth |
+| glyph | sound      | meaning             | combo                   |
+| ----- | ---------- | ------------------- | ----------------------- |
+|       | yeya       | white               | colour + light          |
+|       | yeksoya    | black               | colour + dark           |
+|       | yeluma     | red, blood-red      | colour + blood          |
+|       | yelumaya   | bright red, scarlet | red + bright            |
+|       | yelumaka   | orange              | red + fire              |
+|       | yeka       | yellow              | colour + fire           |
+|       | yekadon    | golden yellow       | yellow + metal          |
+|       | yeva       | green               | colour + plant          |
+|       | yehewi     | blue                | colour + sky            |
+|       | yehewiluma | purple              | blue + blood            |
+|       | yeyaluma   | pink                | colour + bright + blood |
+|       | yego       | brown               | colour + earth          |
 ## Geometry
 
 | glyph                    | sound         | meaning                                                                | combo                          |
@@ -584,62 +584,68 @@
 |                           | hin'go          | atom, unit of matter                                                                                                                     | (unit) + (matter)                 |
 ## Time
 
-| glyph | sound                        | meaning                                                                                                               | combo                   |
-| ----- | ---------------------------- | --------------------------------------------------------------------------------------------------------------------- | ----------------------- |
-|       | kozha                        | always, forever, without fail                                                                                         | all + time              |
-|       | ksozha                       | never                                                                                                                 | no + time               |
-|       | zhava                        | spring                                                                                                                | period + vegetation     |
-|       | zhaka                        | summer                                                                                                                | period + heat           |
-|       | zhachu                       | winter                                                                                                                | period + cold           |
-|       | zhafan                       | autumn                                                                                                                | period + leaf           |
-|       | zhayun                       | day                                                                                                                   | period + sun            |
-|       | zhatsu                       | night                                                                                                                 | period + moon           |
-|       | zhayuntsu                    | Monday                                                                                                                | day + Japanese day name |
-|       | zhayun'ka                    | Tuesday                                                                                                               |                         |
-|       | zhayun'lu                    | Wednesday                                                                                                             |                         |
-|       | zhayun'vo                    | Thursday                                                                                                              |                         |
-|       | zhayun'don                   | Friday                                                                                                                |                         |
-|       | zhayun'go                    | Saturday                                                                                                              |                         |
-|       | zhayun'yun                   | Sunday                                                                                                                |                         |
-|       | zhayun'ksun-un               | yesterday                                                                                                             |                         |
-|       | zhayun'ksun pe (*number*) un | (*number*) days ago                                                                                                   |                         |
-|       | zhayun'zhin-un               | tomorrow                                                                                                              |                         |
-|       | zhayun'ta                    | today                                                                                                                 | day + moving            |
-|       | zhatsuta                     | tonight                                                                                                               | night + moving          |
-|       | tsuhin                       | January                                                                                                               | (month) + (a number)    |
-|       | tsufun                       | February                                                                                                              |                         |
-|       | zhatsun                      | March                                                                                                                 |                         |
-|       | tsuyon                       | April                                                                                                                 |                         |
-|       | tsugyon                      | May                                                                                                                   |                         |
-|       | tsuron                       | June                                                                                                                  |                         |
-|       | tsunan                       | July                                                                                                                  |                         |
-|       | tsuyan                       | August                                                                                                                |                         |
-|       | tsukyun                      | September                                                                                                             |                         |
-|       | tsujun                       | October                                                                                                               |                         |
-|       | tsujun'hin                   | November                                                                                                              |                         |
-|       | tsujun'fun                   | December                                                                                                              |                         |
-|       | miyun'zhin pe (*number*) un  | (*number*) days from now                                                                                              |                         |
-|       | zha piun ... un              | when                                                                                                                  |                         |
-|       | in'zha(piun...un)            | *n.* duration<br><br>*adv.* during, while                                                                             | within + time           |
-|       | zhanon(piun...un)            | before, preceding                                                                                                     | time + facing           |
-|       | zhalen(piun...un)            | after, following                                                                                                      | time + successive       |
-|       | zhaksun                      | past                                                                                                                  | time + finished         |
-|       | zhata                        | present                                                                                                               | time + motion           |
-|       | zhazhin                      | future                                                                                                                | time + not yet          |
-|       | zhayun'wi                    | sunrise time, morning                                                                                                 | time + sunrise          |
-|       | zhayun'wo                    | sunset time, afternoon                                                                                                | time + sunset           |
-|       | tsen'gun                     | day (as in 24 hrs)                                                                                                    | rotation + earth        |
-|       | tsen'yun                     | year                                                                                                                  | cycle (around) + sun    |
-|       | tsen'tsu                     | month                                                                                                                 | rotation + moon         |
-|       | zhapya                       | childhood                                                                                                             | time + child            |
-|       | zhamezhin                    | teenhood, teen age                                                                                                    | time + teenager         |
-|       | zhamebon                     | adulthood                                                                                                             | time + adult            |
-|       | zhazho                       | elderhood, old age                                                                                                    | time + elder            |
-|       | nizho                        | age                                                                                                                   | measurement + oldness   |
-|       | ksoksun                      | constant, unending, recurring, infinite, unlimited, forever                                                           | absence + end           |
-|       | kizho-(an)                   | *adj.* in ruin, ruined, worn down, "having seen better days"                                                          | broken + age            |
-|       | ksuzho-(an)                  | *adj.* (of food) expired, gone bad, rotten, decayed                                                                   | bad (flawed) + age      |
-|       | kson'len-(en/an)             | *n.* regress, regression, rewinding<br><br>*v.* to regress, to revert, to rewind (in/trans.)<br><br>*adj.* regressive | reverse + continue      |
+| glyph | sound                        | meaning                                                                                                                                                    | combo                   |
+| ----- | ---------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
+|       | hyazhalo-(an/en)             | *n.* a drag, tedium<br><br>*adj.* slow, time-consuming, lengthy, prolonged, tedious, taking an "eternity"<br><br>*v.* to drag on, to consume too much time | requiring + time + long |
+|       | zhanon'in-(an/un)            | *n.* recency<br><br>*adj.* recent<br><br>*adv.* recently, a short while ago                                                                                | time before + (near)    |
+|       | in'gen-(an)                  | *n.* being near the start<br><br>*adj.* early (in the day or period)                                                                                       | within/near + start     |
+|       | in'ksun-(an)                 | *n.* being near the end<br><br>*adj.* late (in the day or period)                                                                                          | within/near + end       |
+|       | in'zhahya-(an)               | *n.* punctuality, timeliness<br><br>*adj.* timely, punctual, lit. within expected time                                                                     | within + time + desired |
+|       | on'zhahya-(an)               | *n.* tardiness, delay, lag<br><br>*adj.* tardy, late, delayed, overdue, lagging behind, lit. beyond expected time                                          | within + time + desired |
+|       | kozha                        | always, forever, without fail                                                                                                                              | all + time              |
+|       | ksozha                       | never                                                                                                                                                      | no + time               |
+|       | zhava                        | spring                                                                                                                                                     | period + vegetation     |
+|       | zhaka                        | summer                                                                                                                                                     | period + heat           |
+|       | zhachu                       | winter                                                                                                                                                     | period + cold           |
+|       | zhafan                       | autumn                                                                                                                                                     | period + leaf           |
+|       | zhayun                       | day                                                                                                                                                        | period + sun            |
+|       | zhatsu                       | night                                                                                                                                                      | period + moon           |
+|       | zhayuntsu                    | Monday                                                                                                                                                     | day + Japanese day name |
+|       | zhayun'ka                    | Tuesday                                                                                                                                                    |                         |
+|       | zhayun'lu                    | Wednesday                                                                                                                                                  |                         |
+|       | zhayun'vo                    | Thursday                                                                                                                                                   |                         |
+|       | zhayun'don                   | Friday                                                                                                                                                     |                         |
+|       | zhayun'go                    | Saturday                                                                                                                                                   |                         |
+|       | zhayun'yun                   | Sunday                                                                                                                                                     |                         |
+|       | zhayun'ksun-un               | yesterday                                                                                                                                                  |                         |
+|       | zhayun'ksun pe (*number*) un | (*number*) days ago                                                                                                                                        |                         |
+|       | zhayun'zhin-un               | tomorrow                                                                                                                                                   |                         |
+|       | zhayun'ta                    | today                                                                                                                                                      | day + moving            |
+|       | zhatsuta                     | tonight                                                                                                                                                    | night + moving          |
+|       | tsuhin                       | January                                                                                                                                                    | (month) + (a number)    |
+|       | tsufun                       | February                                                                                                                                                   |                         |
+|       | zhatsun                      | March                                                                                                                                                      |                         |
+|       | tsuyon                       | April                                                                                                                                                      |                         |
+|       | tsugyon                      | May                                                                                                                                                        |                         |
+|       | tsuron                       | June                                                                                                                                                       |                         |
+|       | tsunan                       | July                                                                                                                                                       |                         |
+|       | tsuyan                       | August                                                                                                                                                     |                         |
+|       | tsukyun                      | September                                                                                                                                                  |                         |
+|       | tsujun                       | October                                                                                                                                                    |                         |
+|       | tsujun'hin                   | November                                                                                                                                                   |                         |
+|       | tsujun'fun                   | December                                                                                                                                                   |                         |
+|       | miyun'zhin pe (*number*) un  | (*number*) days from now                                                                                                                                   |                         |
+|       | zha piun ... un              | when                                                                                                                                                       |                         |
+|       | in'zha(piun...un)            | *n.* duration<br><br>*adv.* during, while                                                                                                                  | within + time           |
+|       | zhanon(piun...un)            | before, preceding                                                                                                                                          | time + facing           |
+|       | zhalen(piun...un)            | after, following                                                                                                                                           | time + successive       |
+|       | zhaksun                      | past                                                                                                                                                       | time + finished         |
+|       | zhata                        | present                                                                                                                                                    | time + motion           |
+|       | zhazhin                      | future                                                                                                                                                     | time + not yet          |
+|       | zhayun'wi                    | sunrise time, morning                                                                                                                                      | time + sunrise          |
+|       | zhayun'wo                    | sunset time, afternoon                                                                                                                                     | time + sunset           |
+|       | tsen'gun                     | day (as in 24 hrs)                                                                                                                                         | rotation + earth        |
+|       | tsen'yun                     | year                                                                                                                                                       | cycle (around) + sun    |
+|       | tsen'tsu                     | month                                                                                                                                                      | rotation + moon         |
+|       | zhapya                       | childhood                                                                                                                                                  | time + child            |
+|       | zhamezhin                    | teenhood, teen age                                                                                                                                         | time + teenager         |
+|       | zhamebon                     | adulthood                                                                                                                                                  | time + adult            |
+|       | zhazho                       | elderhood, old age                                                                                                                                         | time + elder            |
+|       | nizho                        | age                                                                                                                                                        | measurement + oldness   |
+|       | ksoksun                      | constant, unending, recurring, infinite, unlimited, forever                                                                                                | absence + end           |
+|       | kizho-(an)                   | *adj.* in ruin, ruined, worn down, "having seen better days"                                                                                               | broken + age            |
+|       | ksuzho-(an)                  | *adj.* (of food) expired, gone bad, rotten, decayed                                                                                                        | bad (flawed) + age      |
+|       | kson'len-(en/an)             | *n.* regress, regression, rewinding<br><br>*v.* to regress, to revert, to rewind (in/trans.)<br><br>*adj.* regressive                                      | reverse + continue      |
 ## Actions
 NOTE: *"en" glyphs are omitted from the glyph column since they're everywhere here plus sometimes they're optional*
 
