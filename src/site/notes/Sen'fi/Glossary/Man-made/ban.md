@@ -14,7 +14,7 @@
 - [[Sen'fi/Glossary/Man-made/fen\|fen]]
 ### Etymology
 #### Glyph
-- [[Sen'fi/Glossary/Man-made/hu\|hu]], with closed gates like 門
+- [[Sen'fi/Glossary/Man-made/hu\|Sen'fi/Glossary/Man-made/hu]], with closed gates like 門
 - Resembles a Japanese torii gate
 - Not to be confused with 円
 #### Sound

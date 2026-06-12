@@ -11,7 +11,7 @@
 | ~a    | *psv.* | removed, gone, missing                                                                                  |
 ### Etymology
 #### Glyph
-similar to 刈; a picture of plants being reaped or weeded out of the ground using a blade ([[Sen'fi/Glossary/Man-made/ksi\|ksi]])
+similar to 刈; a picture of plants being reaped or weeded out of the ground using a blade ([[Sen'fi/Glossary/Man-made/ksi\|Sen'fi/Glossary/Man-made/ksi]])
 #### Sound
 - *a priori:* ks=destruction, en=process
 - *imitative of:* weeds being cut with a tool

@@ -14,4 +14,4 @@ From the native "1-4-7" numerical system.
 #### Sound
 - Japanese "go"
 - Numbers always end in a nasal coda ("n")
-- [[Sen'fi/Glossary/Elements & Nature/gon\|gon]] is already taken, so a "y" was added.
+- [[Sen'fi/Glossary/Nature/gon\|Sen'fi/Glossary/Nature/gon]] is already taken, so a "y" was added.

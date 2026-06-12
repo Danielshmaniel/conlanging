@@ -12,7 +12,7 @@
 - [[Sen'fi/Glossary/Creatures/bu\|bu]]
 ### Etymology
 #### Glyph
-person ([[Sen'fi/Glossary/Creatures/me\|me]]) + hoe ([[Sen'fi/Glossary/Man-made/ton\|ton]]) -> person who works the land -> similar to 男
+person ([[Sen'fi/Glossary/Creatures/me\|me]]) + hoe ([[Sen'fi/Glossary/Man-made/ton\|Sen'fi/Glossary/Man-made/ton]]) -> person who works the land -> similar to 男
 #### Sound
 - similar to Japanese reading of 男 (dan)
 - *a priori:* d=forceful, a=energy

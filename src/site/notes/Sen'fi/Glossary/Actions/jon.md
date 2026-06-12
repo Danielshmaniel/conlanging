@@ -16,7 +16,7 @@
 - [[Sen'fi/Glossary/Actions/jin\|jin]]
 ### Etymology
 #### Glyph
-[[Sen'fi/Glossary/Spatial concepts/on\|on]] with an object. Related to 出.
+[[Sen'fi/Glossary/Space/on\|Sen'fi/Glossary/Space/on]] with an object. Related to 出.
 #### Sound
-- Related to [[Sen'fi/Glossary/Spatial concepts/on\|on]]
+- Related to [[Sen'fi/Glossary/Space/on\|Sen'fi/Glossary/Space/on]]
 - *a priori:* j=interactive/sudden, on=outer

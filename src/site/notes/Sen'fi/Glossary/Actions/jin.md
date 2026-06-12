@@ -15,7 +15,7 @@
 - [[Sen'fi/Glossary/Actions/jon\|jon]]
 ### Etymology
 #### Glyph
-[[Sen'fi/Glossary/Spatial concepts/in\|in]] with an object. Vaguely resembles 入.
+[[Sen'fi/Glossary/Space/in\|Sen'fi/Glossary/Space/in]] with an object. Vaguely resembles 入.
 #### Sound
-- Related to [[Sen'fi/Glossary/Spatial concepts/in\|in]]
+- Related to [[Sen'fi/Glossary/Space/in\|Sen'fi/Glossary/Space/in]]
 - *a priori:* j=interactive/sudden, in=inner
