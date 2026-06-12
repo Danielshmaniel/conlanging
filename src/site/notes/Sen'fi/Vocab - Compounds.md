@@ -461,19 +461,20 @@
 |                        | kibo            | brittle                                                                                                         | break + much              |
 ## Colours
 
-| glyph | sound      | meaning             | combo                   |
-| ----- | ---------- | ------------------- | ----------------------- |
-|       | yeya       | white               | colour + light          |
-|       | yeksoya    | black               | colour + dark           |
-|       | yeluma     | red, blood-red      | colour + blood          |
-|       | yelumaya   | bright red, scarlet | colour + blood + bright |
-|       | yelumaka   | orange              | colour + blood + fire   |
-|       | yeka       | yellow              | colour + fire           |
-|       | yeva       | green               | colour + plant          |
-|       | yehewi     | blue                | colour + sky            |
-|       | yehewiluma | purple              | colour + sky + blood    |
-|       | yeyaluma   | pink                | colour + bright + blood |
-|       | yego       | brown               | colour + earth          |
+| glyph | sound      | meaning             | combo          |
+| ----- | ---------- | ------------------- | -------------- |
+|       | yeya       | white               | colour + light |
+|       | yeksoya    | black               | colour + dark  |
+|       | yeluma     | red, blood-red      | colour + blood |
+|       | yelumaya   | bright red, scarlet | red + bright   |
+|       | yelumaka   | orange              | red + fire     |
+|       | yeka       | yellow              | colour + fire  |
+|       | yekadon    | golden yellow       | yellow + metal |
+|       | yeva       | green               | colour + plant |
+|       | yehewi     | blue                | colour + sky   |
+|       | yehewiluma | purple              | blue + blood   |
+|       | yeyaluma   | pink                | white + blood  |
+|       | yego       | brown               | colour + earth |
 ## Geometry
 
 | glyph                    | sound         | meaning                                                                | combo                          |
