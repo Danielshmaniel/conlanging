@@ -9,9 +9,9 @@
 | ~           | *n.*    | start, beginning, origin, genesis, (metaphorical) roots, basis                                               |
 | ~en         | *v.*    | to start (in/tr.), to take root, originate (intr.),<br>to initiate, create, birth, generate, establish (tr.) |
 | ~en'kon     | *v. n.* | starting, creation, establishment, initiation                                                                |
-| ~a          | *psv.*  | started, created, established                                                                                |
+| ~a          | *psv.*  | started, created, established, taken root                                                                    |
 | ... thin ~a | *psv.*  | based on, rooted in, originated from                                                                         |
-| ~an         | *adj.*  | original, initial                                                                                            |
+| ~an         | *adj.*  | original, initial, first                                                                                     |
 | ~un         | *adv.*  | originally, initially                                                                                        |
 ### Implied meaning
 - (botanical) roots
