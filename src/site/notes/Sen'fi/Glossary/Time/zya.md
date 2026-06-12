@@ -14,6 +14,7 @@
 #### Glyph
 - depiction of the goddess of wind and speed ==Aya=='s wing flapping, forcing the nearby air to blow a gust of wind.
 - Alternatively, you can interpet it as a road being distorted with speed and spiralling into a dot in the distance (the gust signifies a dash)
+- The gust is also a cross-reference to the Maltese word for "quick", "malajr" (lit. with the wind) 
 #### Sound
 - Related to [[Sen'fi/Glossary/Nature/za\|za]] (energy)
 - Similar to "Aya"
