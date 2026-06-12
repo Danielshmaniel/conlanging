@@ -7,6 +7,6 @@
 - 「...~」*whole word pluralizer:* -s
 ### Etymology
 #### Glyph
-[[Sen'fi/Glossary/Quantity/fun\|fun]] (number 2) but with two arrows pointing to the preceding word -> repeat the whole word
+[[Sen'fi/Glossary/Quantity/fun\|fun]] (number 2) but with two arrows pointing to the preceding word instead of one in [[Sen'fi/Glossary/Grammar/tsa\|tsa]] -> repeat the whole word
 #### Sound
 - *a priori:* ts=reduplication, o=authority/complete
