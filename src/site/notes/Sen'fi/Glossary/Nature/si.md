@@ -12,7 +12,7 @@
 - to crush, pulverize
 ### Etymology
 #### Glyph
-vaguely inspired by 粉; this is a pictograph of small things like grains ([[Sen'fi/Glossary/Nature/pan\|Sen'fi/Glossary/Nature/pan]]) gathered together
+vaguely inspired by 粉; this is a pictograph of small things like grains ([[Sen'fi/Glossary/Nature/pan\|pan]]) gathered together
 #### Sound
 - *a priori:* s=the soft sound of powder, i=smallness
 - *imitative of:* the soft sound of powder

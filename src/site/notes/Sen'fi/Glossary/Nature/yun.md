@@ -15,5 +15,5 @@
 - alchemical symbol ☉
 #### Sound
 - Maltese "jum" (day)
-- Related to [[Sen'fi/Glossary/Nature/ya\|Sen'fi/Glossary/Nature/ya]] (light)
+- Related to [[Sen'fi/Glossary/Nature/ya\|ya]] (light)
 - *a priori:* y=brightness, un=cosmic

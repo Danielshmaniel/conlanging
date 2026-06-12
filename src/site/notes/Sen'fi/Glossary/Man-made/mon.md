@@ -14,7 +14,7 @@
 - protection (from the elements -> in general)
 - upper cover: roof, lid
 ### Synonym
-- [[Sen'fi/Glossary/Man-made/ban\|Sen'fi/Glossary/Man-made/ban]] (to hide, obstruct, close, cover)
+- [[Sen'fi/Glossary/Man-made/ban\|ban]] (to hide, obstruct, close, cover)
 ### Etymology
 #### Glyph
 - 宀 (not to be confused with 介; the vertical lines are walls here)

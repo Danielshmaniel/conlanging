@@ -12,7 +12,7 @@
 | ~an     | *adj.*    | hollow, empty, vacant                                        |
 | ~an'kon | *adj. n.* | emptiness, hollowness                                        |
 ### Antonym
-- [[Sen'fi/Glossary/Nature/gon\|Sen'fi/Glossary/Nature/gon]] (protrusion)
+- [[Sen'fi/Glossary/Nature/gon\|gon]] (protrusion)
 ### Etymology
 #### Glyph
 穴. Imagine the entrance to a mine or cave dwelling

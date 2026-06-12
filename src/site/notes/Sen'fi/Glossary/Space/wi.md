@@ -9,10 +9,10 @@
 | ~     | *n.*   | up, upper area (the area over smth.) |
 | ~an   | *adj.* | upper, high up                       |
 ### Antonym
-- [[Sen'fi/Glossary/Space/wo\|Sen'fi/Glossary/Space/wo]]
+- [[Sen'fi/Glossary/Space/wo\|wo]]
 ### Etymology
 #### Glyph
-上 but the upper horizontal line is replaced with half an arrow head. Arrowhead: compare to [[Sen'fi/Glossary/Space/on\|Sen'fi/Glossary/Space/on]]
+上 but the upper horizontal line is replaced with half an arrow head. Arrowhead: compare to [[Sen'fi/Glossary/Space/on\|on]]
 #### Sound
 - kinda Japanese "ue"
 - toki pona "sewi"

@@ -23,7 +23,7 @@
 - **hen'thaahya** (win)
 ### Etymology
 #### Glyph
-- a simplified hand ([[Sen'fi/Glossary/Body parts/te\|te]]) combined with an out-arrow ([[Sen'fi/Glossary/Space/on\|Sen'fi/Glossary/Space/on]]/[[Sen'fi/Glossary/Actions/jon\|jon]]), symbolizing something that is accidentally dropped or slips out of grasp.
+- a simplified hand ([[Sen'fi/Glossary/Body parts/te\|te]]) combined with an out-arrow ([[Sen'fi/Glossary/Actions/jon\|jon]]), symbolizing something that is accidentally dropped or slips out of grasp.
 - Vaguely based on 失 (hand/action indicator + downward arrow, showing a slip or loss of footing).
 #### Sound
 - *a priori:* f=transience, y=movement, e=transition

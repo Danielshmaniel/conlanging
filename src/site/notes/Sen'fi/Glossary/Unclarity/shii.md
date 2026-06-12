@@ -11,4 +11,4 @@
 | ~a    | *psv.* | confused, mystified, bewildered     |
 | ~an   | *adj.* | confusing, puzzling, mysterious     |
 ### Grammar counterpart
-*See [[Sen'fi/Glossary/Unclarity/shi\|Sen'fi/Glossary/Unclarity/shi]] for the original use and etymology.*
+*See [[Sen'fi/Glossary/Unclarity/shi\|shi]] for the original use and etymology.*

@@ -11,7 +11,7 @@
 ### Implied meaning
 - importance, grandeur
 ### Antonym
-- [[Sen'fi/Glossary/Space/bin\|Sen'fi/Glossary/Space/bin]]
+- [[Sen'fi/Glossary/Space/bin\|bin]]
 ### Etymology
 #### Glyph
 a pictograph of a person spreading his arms and legs like 大 -> a giant

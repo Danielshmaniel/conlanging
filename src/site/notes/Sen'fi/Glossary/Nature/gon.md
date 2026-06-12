@@ -9,11 +9,11 @@
 | ~     | *n.*   | mountain, peak / heap / bump |
 | ~an   | *adj.* | protruding, mountainous      |
 ### Antonym
-- [[Sen'fi/Glossary/Man-made/hu\|Sen'fi/Glossary/Man-made/hu]] (hole)
+- [[Sen'fi/Glossary/Man-made/hu\|hu]] (hole)
 ### Etymology
 #### Glyph
 - 山
 - maybe the Gozitan flag :P
 #### Sound
-- Related to [[Sen'fi/Glossary/Nature/go\|Sen'fi/Glossary/Nature/go]] (earth)
+- Related to [[Sen'fi/Glossary/Nature/go\|go]] (earth)
 - *a priori:* g=earthliness, on=rounded

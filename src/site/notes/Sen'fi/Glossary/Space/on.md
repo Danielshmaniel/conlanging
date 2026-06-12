@@ -10,10 +10,10 @@
 ### Implied meaning
 - far out
 ### Antonym
-- [[Sen'fi/Glossary/Space/in\|Sen'fi/Glossary/Space/in]]
+- [[Sen'fi/Glossary/Space/in\|in]]
 ### Etymology
 #### Glyph
-- ideograph of an arrow (half an arrow head) exiting something; compare this to [[Sen'fi/Glossary/Space/in\|Sen'fi/Glossary/Space/in]].
+- ideograph of an arrow (half an arrow head) exiting something; compare this to [[Sen'fi/Glossary/Space/in\|in]].
 - Similar to oracle bone script 出 (which shows a foot coming out of a hollow object).
 #### Sound
 - *a priori:* on=largeness (that is outside something)

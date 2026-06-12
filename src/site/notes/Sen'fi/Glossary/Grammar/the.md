@@ -9,7 +9,7 @@
 - removes native semantic from the preceding sound/s
 ### Etymology
 #### Glyph
-speech bubble ([[Sen'fi/Glossary/Grammar/tho\|tho]]), but with an arrow going out of it to signify outside ([[Sen'fi/Glossary/Space/on\|Sen'fi/Glossary/Space/on]]) -> foreign words.
+speech bubble ([[Sen'fi/Glossary/Grammar/tho\|tho]]), but with an arrow going out of it to signify outside ([[Sen'fi/Glossary/Space/on\|on]]) -> foreign words.
 #### Sound
 - Japanese "tte"
 - *a priori:* th=thought, e=neutral/flexible

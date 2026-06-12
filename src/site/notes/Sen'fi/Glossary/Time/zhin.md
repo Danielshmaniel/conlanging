@@ -14,6 +14,6 @@
  未, roots are bigger than the branches which are still sprouting (horizontal line is the ground).
 #### Note
 - Do not confuse this glyph with [[Sen'fi/Glossary/Concepts/nen\|nen]] (same roots and branches)
-- Do not confuse the meaning with [[Sen'fi/Glossary/Time/len\|Sen'fi/Glossary/Time/len]] (still, ongoing)
+- Do not confuse the meaning with [[Sen'fi/Glossary/Time/len\|len]] (still, ongoing)
 #### Sound
 - *a priori:* zh=refinement/subtle power, in=small/hidden/mental (compare with [[Sen'fi/Glossary/Creatures/zho\|zho]], which is total refinement)

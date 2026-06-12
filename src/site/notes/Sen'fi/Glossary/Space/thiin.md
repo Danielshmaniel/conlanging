@@ -8,7 +8,7 @@
 | ----- | ----- | --------------- |
 | ~     | *n.*  | point of origin |
 ### Synonym
-- [[Sen'fi/Glossary/Time/gen\|Sen'fi/Glossary/Time/gen]] (start)
+- [[Sen'fi/Glossary/Time/gen\|gen]] (start)
 ### Antonym
 - [[Sen'fi/Glossary/Space/thaan\|thaan]] (point of destination)
 ### Grammar counterpart

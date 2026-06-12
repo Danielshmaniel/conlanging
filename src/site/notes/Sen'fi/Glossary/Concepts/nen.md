@@ -15,7 +15,7 @@
 #### Glyph
 (tree divided by soil; branch = roots) -> "As above, so below"
 #### Note
-Do not confuse the glyph with [[Sen'fi/Glossary/Time/zhin\|Sen'fi/Glossary/Time/zhin]]
+Do not confuse the glyph with [[Sen'fi/Glossary/Time/zhin\|zhin]]
 #### Sound
 - autological word ("nen" is symmetrical, thus the same on both sides)
 - *a priori:* n=connection, en=neutral

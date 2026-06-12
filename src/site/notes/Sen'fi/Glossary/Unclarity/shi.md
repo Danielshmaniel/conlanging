@@ -7,7 +7,7 @@
 - 「~...」 what (in questions)
 - 「...~」some... (in statements, e.g. someone)
 ### Semanticization
-*Appending a [[Sen'fi/Glossary/Grammar/(tse)\|tse]] glyph yields **[[Sen'fi/Glossary/Unclarity/shii\|Sen'fi/Glossary/Unclarity/shii]]***
+*Appending a [[Sen'fi/Glossary/Grammar/(tse)\|tse]] glyph yields **[[Sen'fi/Glossary/Unclarity/shii\|shii]]***
 ### Etymology
 #### Glyph
 a pictograph of a person's face covered in fog/mist/haze -> unknown figure, obstructed vision, confusion

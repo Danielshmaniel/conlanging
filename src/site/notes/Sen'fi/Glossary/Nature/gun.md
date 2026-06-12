@@ -15,5 +15,5 @@
 - sitelen pona for "ma"
 - perhaps a crosshair; the location ideogram
 #### Sound
-- Related to [[Sen'fi/Glossary/Nature/go\|Sen'fi/Glossary/Nature/go]] (earth)
+- Related to [[Sen'fi/Glossary/Nature/go\|go]] (earth)
 - *a priori:* g=earthliness, un=cosmic

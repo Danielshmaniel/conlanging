@@ -9,7 +9,7 @@
 | ~     | *n.*   | smallness              |
 | ~an   | *adj.* | small, tiny, miniscule |
 ### Antonym
-- [[Sen'fi/Glossary/Space/bon\|Sen'fi/Glossary/Space/bon]]
+- [[Sen'fi/Glossary/Space/bon\|bon]]
 ### Etymology
 #### Glyph
 a pictograph of 3 droplets like 小.

@@ -14,10 +14,10 @@
 - (botanical) roots
 - newness
 ### Antonym
-- [[Sen'fi/Glossary/Time/ksun\|Sen'fi/Glossary/Time/ksun]]
+- [[Sen'fi/Glossary/Time/ksun\|ksun]]
 ### Etymology
 #### Glyph
-- compare to [[Sen'fi/Glossary/Time/zhin\|Sen'fi/Glossary/Time/zhin]], but there is only roots.
+- compare to [[Sen'fi/Glossary/Time/zhin\|zhin]], but there is only roots.
 - Based on 本 (emphasis on the roots of a tree, therefore meaning origin)
 #### Sound
 - *a priori:* g=grounded, en=process (taking root from the ground)

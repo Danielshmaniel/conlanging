@@ -10,7 +10,7 @@
 ### Implied meaning
 - within the area: nearby, vicinity
 ### Antonym
-- [[Sen'fi/Glossary/Space/on\|Sen'fi/Glossary/Space/on]]
+- [[Sen'fi/Glossary/Space/on\|on]]
 ### Etymology
 #### Glyph
 ideograph of an arrow (half an arrow head) entering something.

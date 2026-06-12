@@ -12,4 +12,4 @@
 #### Glyph
 two people together, i.e. husband and wife, with a small person, i.e. a child, in between.
 #### Sound
-- Related to [[Sen'fi/Glossary/Family/mu\|mu]] (mother), [[Sen'fi/Glossary/Family/mun\|mun]] (parent) and [[Sen'fi/Glossary/Man-made/mon\|Sen'fi/Glossary/Man-made/mon]] (house)
+- Related to [[Sen'fi/Glossary/Family/mu\|mu]] (mother), [[Sen'fi/Glossary/Family/mun\|mun]] (parent) and [[Sen'fi/Glossary/Man-made/mon\|mon]] (house)

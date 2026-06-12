@@ -9,7 +9,7 @@
 | ~     | *n.*  | metal, mineral, precious stone |
 ### Etymology
 #### Glyph
-[[Sen'fi/Glossary/Nature/go\|Sen'fi/Glossary/Nature/go]] but it has precious stones scattered inside its layers (inspired by the supposed etym. of 金).
+[[Sen'fi/Glossary/Nature/go\|go]] but it has precious stones scattered inside its layers (inspired by the supposed etym. of 金).
 #### Sound
-- Related to [[Sen'fi/Glossary/Nature/do\|Sen'fi/Glossary/Nature/do]] (stone)
+- Related to [[Sen'fi/Glossary/Nature/do\|do]] (stone)
 - *a priori:* d=forceful, on=resonant

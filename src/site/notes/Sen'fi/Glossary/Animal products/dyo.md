@@ -13,4 +13,4 @@
 #### Glyph
 inspired from 甲, and turtle shells resembling shields (testudo).
 #### Sound
-- Related to [[Sen'fi/Glossary/Nature/do\|Sen'fi/Glossary/Nature/do]] (rock)
+- Related to [[Sen'fi/Glossary/Nature/do\|do]] (rock)

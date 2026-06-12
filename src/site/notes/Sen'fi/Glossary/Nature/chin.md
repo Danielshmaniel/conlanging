@@ -18,4 +18,4 @@ simple pictograph of a cluster of crystals
 - *a priori:* ch=sharp, in=sharp
 - *imitative of:* the clinking sound of glass
 - "cincin", Italian onomatopoeia for glass clinking
-- Related to [[Sen'fi/Glossary/Nature/chu\|Sen'fi/Glossary/Nature/chu]] (snow, which is just water crystals)
+- Related to [[Sen'fi/Glossary/Nature/chu\|chu]] (snow, which is just water crystals)

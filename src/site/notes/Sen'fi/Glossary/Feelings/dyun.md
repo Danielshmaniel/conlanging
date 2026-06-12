@@ -22,4 +22,4 @@
 - Conveys the phrase i just made up: "On my heart!" or "As sure as death!"
 - Not to be confused with the Maltese metaphor of "taqta' qalbek" (cutting one's heart) i.e. giving up; it's the opposite in fact. More like the phrase "naqta' rasi li ..." (i swear on my head that...)
 #### Sound
-- Related to **dun** (reality; truth)
+- Related to [[Sen'fi/Glossary/Grammar/dun\|dun]] (reality; truth)

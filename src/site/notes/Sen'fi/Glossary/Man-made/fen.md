@@ -17,10 +17,10 @@
 ### Synonym
 - **han'hu** (lit. mouth of a hole)
 ### Antonym
-- [[Sen'fi/Glossary/Man-made/ban\|Sen'fi/Glossary/Man-made/ban]]
+- [[Sen'fi/Glossary/Man-made/ban\|ban]]
 ### Etymology
 #### Glyph
-[[Sen'fi/Glossary/Man-made/hu\|Sen'fi/Glossary/Man-made/hu]] with open gates, compare with [[Sen'fi/Glossary/Man-made/ban\|Sen'fi/Glossary/Man-made/ban]].
+[[Sen'fi/Glossary/Man-made/hu\|hu]] with open gates, compare with [[Sen'fi/Glossary/Man-made/ban\|ban]].
 Not to be confused with 卯.
 #### Sound
 - *a priori:* f=flow, en=process

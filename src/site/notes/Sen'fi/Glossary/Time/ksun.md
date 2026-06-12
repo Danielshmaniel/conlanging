@@ -13,7 +13,7 @@
 - past
 - former, ex-
 ### Antonym
-- [[Sen'fi/Glossary/Time/ksun\|Sen'fi/Glossary/Time/ksun]]
+- [[Sen'fi/Glossary/Time/ksun\|ksun]]
 ### Etymology
 #### Glyph
 - 了, showing the end of a rolled object (perhaps a string or plant)

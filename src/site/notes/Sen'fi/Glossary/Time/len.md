@@ -12,11 +12,11 @@
 | ~an        | *adj.*     | the next, the following, successive                                                                                              |
 ### Antonyms
 - **kson'len**
-- [[Sen'fi/Glossary/Time/ksun\|Sen'fi/Glossary/Time/ksun]]
+- [[Sen'fi/Glossary/Time/ksun\|ksun]]
 - **shuta**
 ### Etymology
 #### Glyph
-- compare to [[Sen'fi/Glossary/Time/ksun\|Sen'fi/Glossary/Time/ksun]], which is the same thing but with a knife at the end of it, signifying a conclusion. This absence of a limit allows the plant object to grow longer, thus continuing the line.
+- compare to [[Sen'fi/Glossary/Time/ksun\|ksun]], which is the same thing but with a knife at the end of it, signifying a conclusion. This absence of a limit allows the plant object to grow longer, thus continuing the line.
 #### Sound
 - *a priori:* l=continuity, en=process
-- Related to [[Sen'fi/Glossary/Man-made/le\|Sen'fi/Glossary/Man-made/le]] (line)
+- Related to [[Sen'fi/Glossary/Man-made/le\|le]] (line)

@@ -9,11 +9,11 @@
 | ~     | *n.*   | down, lower area, underside |
 | ~an   | *adj.* | low                         |
 ### Antonym
-- [[Sen'fi/Glossary/Space/wi\|Sen'fi/Glossary/Space/wi]]
+- [[Sen'fi/Glossary/Space/wi\|wi]]
 ### Etymology
 #### Glyph
 - 下 but the lower slanting line is replaced with half an arrow head.
-- Arrowhead: compare to [[Sen'fi/Glossary/Space/in\|Sen'fi/Glossary/Space/in]]
+- Arrowhead: compare to [[Sen'fi/Excalidraw/Alphabet/n\|n]]
 - Not to be confused with 丁.
 #### Sound
 - *a priori:* w=water, o=falling
