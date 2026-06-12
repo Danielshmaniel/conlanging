@@ -9,6 +9,8 @@
 | ~     | *n.*   | characteristic, quality, trait, attribute, feature, quirk, property |
 | ~an   | *adj.* | characteristic, distinguishing, specific                            |
 ### Implied meaning
-- falsehood
+- description
+- label, tag
+- category
 ### Grammar counterpart
 *See [[Sen'fi/Glossary/Grammar/an\|an]] for the original use and etymology.*
