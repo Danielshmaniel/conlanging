@@ -6,7 +6,7 @@
 ### Meaning
 | infl. | class  | meaning                                                                             |
 | ----- | ------ | ----------------------------------------------------------------------------------- |
-| ~     | *n.*   | loss, drop, fumble, slipping out of grasp / miss, mistake, blunder, failure, flaw   |
+| ~     | *n.*   | loss, drop, fumble, slipping out of grasp / miss, mistake, blunder, failure         |
 | ~en   | *v.*   | to lose, lose grasp of, fumble, accidentally drop, miss, fail to                    |
 | ~a    | *psv.* | lost, slipped out, leaked out, dropped, fumbled                                     |
 | ~an   | *adj.* | careless, clumsy, klutzy, awkward, butterfingers, lacking grace/coordination/polish |
