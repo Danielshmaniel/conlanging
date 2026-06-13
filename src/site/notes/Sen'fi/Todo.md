@@ -15,8 +15,15 @@
 - *copying templates*
 - *imp: fixing relative links*
 ### Words to do
+- sprouting = gen'gin'va
+- fermentation = jin'gin'qabin
+- alcohol, beer, wine
+- drunk, intoxicated
+- fat, plump, stuffed into
+- bitter, alkaline
+- sour, acidic
 - charm + qu = falling in love, lovestruck, under a spell
-- **early/fast/SPEED** zya and **late/slow** zyo
+- ~~**early/fast/SPEED** zya and~~ **late/slow** zyo
 - (distinction between clean and good); clean: kso + filth
 - cleaning/cleansing: ksen + filth
 - sex/gender, **seed**, **egg**, fertilisation, fertility
