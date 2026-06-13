@@ -15,15 +15,12 @@
 - *copying templates*
 - *imp: fixing relative links*
 ### Words to do
-- sprouting = gen'gin'va
-- fermentation = jin'gin'qabin
 - alcohol, beer, wine
 - drunk, intoxicated
 - fat, plump, stuffed into
 - bitter, alkaline
 - sour, acidic
 - charm + qu = falling in love, lovestruck, under a spell
-- ~~**early/fast/SPEED** zya and~~ **late/slow** zyo
 - (distinction between clean and good); clean: kso + filth
 - cleaning/cleansing: ksen + filth
 - sex/gender, **seed**, **egg**, fertilisation, fertility
@@ -37,13 +34,9 @@
 - heavy/weight, light
 - **justice**, fair, balanced, unbiased
 - returning, back
-- transparent = see all = miko
-- **glass** (transparent rock = domiko)
-- mirror (reflection glass / reverse image glass)
 - **bewitch**, charm, hex, spell, enchantment, witch, alluring, magic=zashii, "seher", tempt, attract, possess, enthrall, captivate, fascinating, mesmerize -> (youkai=bewitching apparition)
 - to haunt, pester, creep, stalk, linger, hover, wander, roam, lurk
-- to fit = mutual ju acceptance/agreement/accordance, something can be contained (enough space for it)
-- to make, create (different from to act, to do)
+- to fit = mutual (ju) acceptance/agreement/accordance, something can be contained (enough space for it)
 ### Other
 - toki pona concepts
 	- **jaki** - filth
