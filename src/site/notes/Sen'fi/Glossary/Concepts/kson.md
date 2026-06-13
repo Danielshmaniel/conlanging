@@ -11,6 +11,8 @@
 | ~a    | *psv.* | flipped, reversed                                                                |
 | ~an   | *adj.* | anti-, counter-, inverted, flipped, opposite, upside down, turned over, backward |
 | ~un   | *adv.* | backwards, in reverse                                                            |
+### Semi-antonym
+- [[Sen'fi/Glossary/Concepts/nen\|nen]]
 ### Etymology
 #### Glyph
 - 逆, a picture of a person standing on a road/floor upside down.

@@ -13,6 +13,7 @@
 - spirit, soul, anima
 ### Antonym
 - **ksoqa**
+- **ksun'qa**
 ### Etymology
 #### Glyph
 - 生. a plant ([[Sen'fi/Glossary/Creatures/va\|va]]) with soil and two rain droplets -> survival
