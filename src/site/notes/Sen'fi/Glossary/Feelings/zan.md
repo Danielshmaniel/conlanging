@@ -18,7 +18,7 @@
 ### Etymology
 #### Glyph
 - a dizzy, spiralling eye ([[Sen'fi/Glossary/Body parts/mi\|mi]]): 😵‍💫.
-- This emoji is an example of the cliche portrayal of dizziness, confusion, intoxication or hypnosis through spiralling eyes. I can't really pinpoint where it started; my educated guess is cartoons or anime but it could go further back. Otaku obsessed with their hobby are portrayed wearing spiral glasses; and the Japanese language has this saying for dizziness: 目が回る (eyes are spinning).
+- This emoji is an example of the cliche portrayal of dizziness, confusion, intoxication or hypnosis through spiralling eyes. I can't really pinpoint where it started; my educated guess is cartoons or anime but it could go further back (because the idea of hypnotizing spirals is nothing new). Otaku obsessed with their hobby are portrayed wearing spiral glasses; and the Japanese language has this saying for dizziness: 目が回る (eyes are spinning).
 #### Sound
 - Related to [[Sen'fi/Glossary/Nature/za\|za]] (energy; magical energy)
 - *a priori:* z=forceful energy, an=bodily feeling
