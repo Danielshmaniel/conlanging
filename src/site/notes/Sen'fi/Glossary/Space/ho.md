@@ -11,6 +11,7 @@
 #### Glyph
 - oracle bone script of 方, a knife cutting a line in two -> deciding between two ways
 - you can also see it as a mainsail of a boat flapping both ways
+- cross-reference to Maltese verb "kiser" (lit. to break) which is sometimes used to mean "to turn on a road", (presumably because when you turn or bend your direction you're "breaking" the straight line you were originally going along).
 #### Sound
 - Japanese reading of 方 (==hou==)
 - *a priori:* h=wind/distance, o=authority

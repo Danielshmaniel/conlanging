@@ -15,12 +15,11 @@
 - *copying templates*
 - *imp: fixing relative links*
 ### Words to do
-- alcohol, beer, wine
-- drunk, intoxicated
 - fat, plump, stuffed into
+- grease, oil, butter
+- cheese
 - bitter, alkaline
 - sour, acidic
-- charm + qu = falling in love, lovestruck, under a spell
 - (distinction between clean and good); clean: kso + filth
 - cleaning/cleansing: ksen + filth
 - sex/gender, **seed**, **egg**, fertilisation, fertility
@@ -29,12 +28,9 @@
 - **CENTRE**
 - centre already is in'fen'nen
 - focus (focal point), attention, concentration: centre + mi
-- cheese, cream, butter
-- bread = pan something
 - heavy/weight, light
 - **justice**, fair, balanced, unbiased
 - returning, back
-- **bewitch**, charm, hex, spell, enchantment, witch, alluring, magic=zashii, "seher", tempt, attract, possess, enthrall, captivate, fascinating, mesmerize -> (youkai=bewitching apparition)
 - to haunt, pester, creep, stalk, linger, hover, wander, roam, lurk
 - to fit = mutual (ju) acceptance/agreement/accordance, something can be contained (enough space for it)
 ### Other
