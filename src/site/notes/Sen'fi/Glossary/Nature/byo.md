@@ -10,6 +10,11 @@
 | ~en   | *v.*   | to dirty, stain, pollute, contaminate                         |
 | ~a    | *psv.* | dirtied, stained, polluted, contaminated                      |
 | ~an   | *adj.* | filthy, dirty, nasty, unclean, unhygienic, impure             |
+### Implied meaning
+- clogging up
+### Antonym
+- **ksobyo** (purity)
+- **ksen'byo** (cleaning)
 ### Etymology
 #### Glyph
 a picture of something (cross-shaped, refer to [[Sen'fi/Glossary/Quantity/ksen\|ksen]]) blocking the flow of a river -> contamination, clogging
