@@ -7,6 +7,8 @@
     "About SEN'FI",
     "Glossary (A-Z)",
     "Glossary (Tagged)",
+    "Radical List (A-Z)",
+    "Radical List (Tagged)",
     "Vocab - Atomic Radicals",
     "Vocab - Compounds",
     "Vocab - Phrases",
@@ -18,17 +20,23 @@
     "Todo"
   ],
   "/Sen'fi/Glossary": [
-    "Animal Products",
     "Body parts",
     "Concepts",
     "Creatures",
-    "Elements & Nature",
-    "Man-made"
-  ],
-  "/Sen'fi/Glossary/Animal Products": [
-    "ba",
-    "dyo",
-    "gan"
+    "Man-made",
+    "Actions",
+    "Animal products",
+    "Family",
+    "Feelings",
+    "Geometry",
+    "Grammar",
+    "Nature",
+    "Quantity",
+    "Roles",
+    "Senses",
+    "Space",
+    "Time",
+    "Unclarity"
   ],
   "/Sen'fi/Glossary/Body parts": [
     "ben",
@@ -57,7 +65,14 @@
     "qya",
     "to",
     "we",
-    "yin"
+    "yin",
+    "aan",
+    "duun",
+    "ee",
+    "ksoo",
+    "thaa",
+    "thii",
+    "uun"
   ],
   "/Sen'fi/Glossary/Creatures": [
     "bu",
@@ -75,7 +90,85 @@
     "zho",
     "zi"
   ],
-  "/Sen'fi/Glossary/Elements & Nature": [
+  "/Sen'fi/Glossary/Man-made": [
+    "ban",
+    "fen",
+    "fin",
+    "hu",
+    "ksi",
+    "ksin",
+    "le",
+    "mon",
+    "ton"
+  ],
+  "/Sen'fi/Glossary/Actions": [
+    "een",
+    "fye",
+    "hen",
+    "ja",
+    "jen",
+    "jin",
+    "jon",
+    "ksa",
+    "pyon",
+    "sen",
+    "shu",
+    "ta",
+    "ten"
+  ],
+  "/Sen'fi/Glossary/Animal products": [
+    "ba",
+    "dyo",
+    "gan"
+  ],
+  "/Sen'fi/Glossary/Family": [
+    "mu",
+    "mun",
+    "myu"
+  ],
+  "/Sen'fi/Glossary/Feelings": [
+    "dyun",
+    "hya",
+    "ksan",
+    "kse",
+    "man",
+    "qu",
+    "zan"
+  ],
+  "/Sen'fi/Glossary/Geometry": [
+    "qi",
+    "tsen"
+  ],
+  "/Sen'fi/Glossary/Grammar": [
+    "(tse)",
+    "a",
+    "an",
+    "dun",
+    "e",
+    "en",
+    "kso",
+    "o",
+    "pe",
+    "pen",
+    "pi",
+    "pin",
+    "tha",
+    "than",
+    "the",
+    "thi",
+    "thin",
+    "tho",
+    "thu",
+    "tsa",
+    "tso",
+    "un",
+    "wa",
+    "wu"
+  ],
+  "/Sen'fi/Glossary/Nature": [
+    "bye",
+    "byo",
+    "chin",
     "chu",
     "do",
     "don",
@@ -94,15 +187,55 @@
     "yun",
     "za"
   ],
-  "/Sen'fi/Glossary/Man-made": [
-    "ban",
-    "fen",
-    "fin",
-    "hu",
-    "ksi",
-    "ksin",
-    "le",
-    "mon",
-    "ton"
+  "/Sen'fi/Glossary/Quantity": [
+    "bi",
+    "bo",
+    "fun",
+    "gyon",
+    "hin",
+    "hyan",
+    "jun",
+    "ki",
+    "ko",
+    "ksen",
+    "kyun",
+    "min",
+    "nan",
+    "ni",
+    "oo",
+    "ron",
+    "syen",
+    "yan",
+    "yon"
+  ],
+  "/Sen'fi/Glossary/Roles": [
+    "ro"
+  ],
+  "/Sen'fi/Glossary/Senses": [
+    "ye"
+  ],
+  "/Sen'fi/Glossary/Space": [
+    "bin",
+    "bon",
+    "ho",
+    "in",
+    "lo",
+    "on",
+    "thaan",
+    "thiin",
+    "wi",
+    "wo"
+  ],
+  "/Sen'fi/Glossary/Time": [
+    "gen",
+    "ksun",
+    "len",
+    "zha",
+    "zhin",
+    "zya"
+  ],
+  "/Sen'fi/Glossary/Unclarity": [
+    "shi",
+    "shii"
   ]
 }
