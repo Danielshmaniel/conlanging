@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/sen-fi/glossary-tagged/","tags":["gardenEntry"],"dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/sen-fi/radical-list-tagged/","dg-note-properties":{}}
 ---
 
-[[Sen'fi/Glossary (Tagged)\|Sort: By Category]]
+[[Sen'fi/Radical List (A-Z)\|Sort: Only by A-Z]]
 
 *WIP*
 
@@ -14,6 +14,7 @@ views:
     filters:
       and:
         - file.path.startsWith("Sen'fi/Glossary/")
+        - file.tags.contains("radical")
     groupBy:
       property: tags
       direction: ASC

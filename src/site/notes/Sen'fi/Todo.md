@@ -48,5 +48,5 @@
 - The society is however free to believe in any faith (a surprisingly peaceful society by itself)
 - A name for the society of Sen'fians (Sect of the Truth Seekers)
 
-![Pasted image 20260608160136.png\|270](/img/user/Pasted%20image%2020260608160136.png) 
+![Pasted image 20260608160136.png\|270](/img/user/Sen'fi/Misc%20Images/Pasted%20image%2020260608160136.png) 
 oddly Flandre-looking cave painting, gives me further inspiration to make this society believe in Touhou mythology.
