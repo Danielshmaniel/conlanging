@@ -19,7 +19,7 @@
 ### Etymology
 #### Glyph
 - a picture of something (cross-shaped, refer to [[Sen'fi/Glossary/Quantity/ksen\|ksen]]) blocking the flow of a river ([[Sen'fi/Glossary/Nature/lu\|lu]]) -> contamination, clogging
-- This is technically the etymological antonym of [[Sen'fi/Glossary/Concepts/we\|we]] showing an object being washed by a river, signifying purity. However the meaning of that word is not "pure/clean": it shifted from "purity" to "moral purity, therefore goodness".
+- This is technically the etymological antonym of [[Sen'fi/Glossary/Concepts/we\|we]] (showing an object being washed by a river, signifying purity). However the meaning of that word is not "pure/clean": it shifted from "purity" to "moral purity, therefore goodness". In other words, while [[Sen'fi/Glossary/Concepts/we\|we]] depicts something flowing gracefully along a cleansing river, "byo" depicts blockage and contamination.
 #### Sound
 - Related to [[Sen'fi/Glossary/Nature/bye\|bye]] (mud)
 - maybe Japanese "byou" (disease)
