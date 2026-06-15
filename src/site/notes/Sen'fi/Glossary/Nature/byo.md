@@ -17,7 +17,7 @@
 - **ksen'byo** (cleaning)
 ### Etymology
 #### Glyph
-a picture of something (cross-shaped, refer to [[Sen'fi/Glossary/Quantity/ksen\|ksen]]) blocking the flow of a river -> contamination, clogging
+- a picture of something (cross-shaped, refer to [[Sen'fi/Glossary/Quantity/ksen\|ksen]]) blocking the flow of a river -> contamination, clogging
 #### Sound
 - Related to [[Sen'fi/Glossary/Nature/bye\|bye]] (mud)
 - maybe Japanese "byou" (disease)
