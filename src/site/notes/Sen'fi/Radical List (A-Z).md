@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sen-fi/radical-list-a-z/","tags":["gardenEntry"],"dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/sen-fi/radical-list-a-z/","dg-note-properties":{}}
 ---
 
 > [!info] Comprehensive list of radicals sorted alphabetically.
