@@ -2,7 +2,10 @@
 {"dg-publish":true,"permalink":"/sen-fi/glossary-tagged/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
-[[Sen'fi/Glossary (Tagged)\|Sort: By Category]]
+> [!info] Contains all words, including compounds and radicals, grouped by category.
+
+[[Sen'fi/Glossary (A-Z)\|Sort: Only by A-Z]]
+[[Sen'fi/Radical List (Tagged)\|Show Only Radicals]]
 
 *WIP*
 

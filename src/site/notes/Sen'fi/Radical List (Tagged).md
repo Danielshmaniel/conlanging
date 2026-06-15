@@ -2,7 +2,10 @@
 {"dg-publish":true,"permalink":"/sen-fi/radical-list-tagged/","dg-note-properties":{}}
 ---
 
+> [!info] Comprehensive list of radicals grouped by category.
+
 [[Sen'fi/Radical List (A-Z)\|Sort: Only by A-Z]]
+[[Sen'fi/Glossary (Tagged)\|Show All Words]]
 
 *WIP*
 
