@@ -28,44 +28,44 @@ BTW, i put a tiny bit of touhou references in my words, such as `ban` (boundary)
 | Double Dealing Character      | me pi duun pe fun                  | person of two realities (assuming that the title refers to the one who manipulates the mirror reality)    |
 ## Touhou place names
 
-| Name                                            | Sen'fi Translation              | Note                                                          |
-| ----------------------------------------------- | --------------------------------- | ------------------------------------------------------------- |
-| Gensokyo<br>lit. Land of Fantasy                | gun pi mino                     | realm of mind-vision (fantasy, daydream)                      |
-| Human Village                                   | bomon pi meme                   | group of houses of human people                               |
-| Hakurei Shrine                                  | Hakure-the mon-qya              | god house of Hakurei                                          |
-| Moriya Shrine                                   | Moriya-the mon-qya              |                                                               |
-| Scarlet Devil Mansion                           | monbon pi qaksan pe yelumaya | big-house of the bright-blood-coloured horror-spirit          |
-| Misty Lake                                      | malu pe helushii                | body of water with unclear humid air                          |
-| Youkai Mountain                                 | gon pi qahewi                   | mountain of (sky) spirits                                     |
-| Great Fairy Treehouse                           | vo pe bon pi meziye           | big tree of butterfly-people                                  |
-| Eientei<br>lit. House of Eternity               | mon pi ksoksun                  | house of no end                                               |
-| Forest of Magic                                 | bovo pi zashii                  | group of trees of mysterious energy                           |
-| Bamboo Forest of the Lost                       | Banbu-the bovo pi shiiho        | group of trees of the Bamboo kind of way-confusion            |
-| Sanzu River                                     | Sanzu-the lule                  | water-line called Sanzu                                       |
-| Netherworld                                     | gun pi konmiqa                  | realm of ghosts                                               |
-| Nameless Hill                                   | gonbin pi kso-jakonqa           | small mountain of no name                                     |
-| Garden of the Sun                               | govava pi yun                   |                                                               |
-| Ruined Western Mansion                          | monbon pe hoyunwo-an kizho-an   | rich-house like the direction of sunset (west) and age-broken |
-| Heaven, Tenkai<br>lit. Celestial World          | gunhewi                         | realm-of-sky                                                  |
-| Palace of the Earth Spirits                     | monbon pi qa-go                 |                                                               |
-| Old Hell                                        | huksan pe zho                   | horror-pit of old                                             |
-| Old Capital                                     | bomon pe zho                    | house-group of old                                            |
-| Spring Path                                     | hota pi zhava                   | walking-way of plant-time                                     |
-| Shining Needle Castle                           | bandyo pi qidon pe pyonya       | fortified wall of iron-pricks that bounce light               |
-| Border of Life and Death                        | ban pi qa o ksoqa               |                                                               |
-| Lake of Blood                                   | malu pi luma                    |                                                               |
-| Makai<br>lit. Demon World                       | gun pi qaksan                   |                                                               |
-| Lunar Capital                                   | bomon pi tsu                    |                                                               |
-| Remains of Blazing Hell / Hell of Blazing Fires | huksan pi kabon                 | hell of big-fire                                              |
-| Land of the Back Door                           | gun pi banfen pe hoben          | world of back-side opening-wall                               |
-| Fantastic Blowhole                              | hanhu pe mino pi helu pe tawi   | fantastical hole-mouth of rising steam                        |
-| Deep Road to Hell                               | huksan-than hota pe bon         | big hellward walking-way                                      |
-| Underworld                                      | gun pi wogo                     | underground realm                                             |
-| Former Hell's Blood Pools                       | malu pi luma pin huksan pe zho  | water-body of body-water of old horror-pit                    |
-| New Hell                                        | huksan pe pya                   |                                                               |
-| Senkai<br>lit. Hermit World                     | gun pi meksenhin                | realm of secluded-person                                      |
-| Animal Realm                                    | gun pi ga                       |                                                               |
-| Great Youkai Forest                             | bovo pe bon pi qahewi           | big tree-group of sky spirits                                 |
+| Name                                            | Sen'fi Translation             | Note                                                          |
+| ----------------------------------------------- | ------------------------------ | ------------------------------------------------------------- |
+| Gensokyo<br>lit. Land of Fantasy                | gun pi mino                    | realm of mind-vision (fantasy, daydream)                      |
+| Human Village                                   | bomon pi meme                  | group of houses of human people                               |
+| Hakurei Shrine                                  | Hakure-the mon-qya             | god house of Hakurei                                          |
+| Moriya Shrine                                   | Moriya-the mon-qya             |                                                               |
+| Scarlet Devil Mansion                           | monbon pi qaksan pe yelumaya   | big-house of the bright-blood-coloured horror-spirit          |
+| Misty Lake                                      | malu pe helushii               | body of water with unclear humid air                          |
+| Youkai Mountain                                 | gon pi qahewi                  | mountain of (sky) spirits                                     |
+| Great Fairy Treehouse                           | vo pe bon pi meziye            | big tree of butterfly-people                                  |
+| Eientei<br>lit. House of Eternity               | mon pi ksoksun                 | house of no end                                               |
+| Forest of Magic                                 | bovo pi zashii                 | group of trees of mysterious energy                           |
+| Bamboo Forest of the Lost                       | Banbu-the bovo pi shiiho       | group of trees of the Bamboo kind of way-confusion            |
+| Sanzu River                                     | Sanzu-the lule                 | water-line called Sanzu                                       |
+| Netherworld                                     | gun pi konmiqa                 | realm of ghosts                                               |
+| Nameless Hill                                   | gonbin pi kso-jakonqa          | small mountain of no name                                     |
+| Garden of the Sun                               | govava pi yun                  |                                                               |
+| Ruined Western Mansion                          | monbon pe hoyunwo-an kizho-an  | rich-house like the direction of sunset (west) and age-broken |
+| Heaven, Tenkai<br>lit. Celestial World          | gunhewi                        | realm-of-sky                                                  |
+| Palace of the Earth Spirits                     | monbon pi qa-go                |                                                               |
+| Old Hell                                        | huksan pe zho                  | horror-pit of old                                             |
+| Old Capital                                     | bomon pe zho                   | house-group of old                                            |
+| Spring Path                                     | hota pi zhava                  | walking-way of plant-time                                     |
+| Shining Needle Castle                           | bandyo pi qidon pe pyonya      | fortified wall of iron-pricks that bounce light               |
+| Border of Life and Death                        | ban pi qa o ksoqa              |                                                               |
+| Lake of Blood                                   | malu pi luma                   |                                                               |
+| Makai<br>lit. Demon World                       | gun pi qaksan                  |                                                               |
+| Lunar Capital                                   | bomon pi tsu                   |                                                               |
+| Remains of Blazing Hell / Hell of Blazing Fires | huksan pi kabon                | hell of big-fire                                              |
+| Land of the Back Door                           | gun pi banfen pe hoben         | world of back-side opening-wall                               |
+| Fantastic Blowhole                              | hanhu pe mino pi helu pe tawi  | fantastical hole-mouth of rising steam                        |
+| Deep Road to Hell                               | huksan-than hota pe bon        | big hellward walking-way                                      |
+| Underworld                                      | gun pi wogo                    | underground realm                                             |
+| Former Hell's Blood Pools                       | malu pi luma pin huksan pe zho | water-body of body-water of old horror-pit                    |
+| New Hell                                        | huksan pe pya                  |                                                               |
+| Senkai<br>lit. Hermit World                     | gun pi meksenhin               | realm of secluded-person                                      |
+| Animal Realm                                    | gun pi ga                      |                                                               |
+| Great Youkai Forest                             | bovo pe bon pi qazan           | big tree-group of enchanting spirits                          |
 ## Touhou music titles
 ### EoSD
 
