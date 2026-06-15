@@ -7,7 +7,7 @@
 | infl. | class | meaning                                                                                            |
 | ----- | ----- | -------------------------------------------------------------------------------------------------- |
 | ~     | *n.*  | powder, particles, sediment, granular mixture (dust, sand, gravel, clay, snow; flour, sugar, salt) |
-### Implied meaning
+### Connotation
 - mosaic, pixelation
 - to crush, pulverize
 ### Etymology

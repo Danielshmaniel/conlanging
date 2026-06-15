@@ -7,7 +7,7 @@
 | infl. | class | meaning                          |
 | ----- | ----- | -------------------------------- |
 | ~     | *n.*  | back, backbone, spine, vertebrae |
-### Implied meaning
+### Connotation
 - structure
 - stature
 - posterior side

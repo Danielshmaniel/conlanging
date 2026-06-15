@@ -7,7 +7,7 @@
 | infl. | class | meaning          |
 | ----- | ----- | ---------------- |
 | ~     | *n.*  | ice, snow, frost |
-### Implied meaning
+### Connotation
 - coldness
 ### Etymology
 #### Glyph

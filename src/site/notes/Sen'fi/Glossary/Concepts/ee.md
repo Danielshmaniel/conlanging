@@ -9,7 +9,7 @@
 | ~     | *n.*   | alternative, variant          |
 | ~an   | *adj.* | alternate, alternative, other |
 | ~un   | *adv.* | alternatively                 |
-### Implied meaning
+### Connotation
 - paths, choices, decisions
 ### Grammar counterpart
 *See [[Sen'fi/Glossary/Grammar/e\|e]] for the original use and etymology.*

@@ -10,7 +10,7 @@
 | ~en   | *v.*   | to have fun, enjoy oneself (intr.), to enjoy, indulge in (tr.) |
 | ~an   | *adj.* | comfortable, pleasurable, pleasant, easy, convenient           |
 | ~un   | *adv.* | conveniently, comfortably, easily                              |
-### Implied meaning
+### Connotation
 - sweetness
 - relaxation
 - entertainment

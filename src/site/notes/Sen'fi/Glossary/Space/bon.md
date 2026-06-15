@@ -8,7 +8,7 @@
 | ----- | ------ | ----------------- |
 | ~     | *n.*   | bigness           |
 | ~an   | *adj.* | big, great, grand |
-### Implied meaning
+### Connotation
 - importance, grandeur
 ### Antonym
 - [[Sen'fi/Glossary/Space/bin\|bin]]

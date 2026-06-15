@@ -8,7 +8,7 @@
 | ----- | ------ | ----------------------------------------------------------------------------- |
 | ~     | *n.*   | air, atmosphere, gas                                                          |
 | ~an   | *adj.* | *concrete:* light<br>*metaphor:* intangible, immaterial, incorporal, ethereal |
-### Implied meaning
+### Connotation
 - wind
 - ether
 - sky

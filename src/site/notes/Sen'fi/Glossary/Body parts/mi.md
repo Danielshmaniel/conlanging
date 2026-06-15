@@ -14,7 +14,7 @@
 | ~a           | *psv.*          | seen                         |
 | ...thu ~a    | *psv. caus.*    | shown                        |
 | ...thu ~akon | *psv. caus. n.* | being shown                  |
-### Implied meaning
+### Connotation
 - sight, seeing
 ### Etymology
 #### Glyph

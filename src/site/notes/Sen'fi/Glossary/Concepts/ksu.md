@@ -8,7 +8,7 @@
 | ---------- | ------------ | -------------------------------------------------------------- |
 | ~          | *n.*         | unluck, trouble, badness, flaw, defect, fault                  |
 | ~an        | *adj.*       | poor quality, no good, defective, faulty, troublesome, unlucky |
-### Implied meaning
+### Connotation
 - evil
 - corrupted
 ### Antonym

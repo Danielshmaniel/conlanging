@@ -8,7 +8,7 @@
 | ---------- | ------------ | ---------------------------------------------------- |
 | ~          | *n.*         | goodness                                             |
 | ~an        | *adj.*       | good, OK, acceptable, fine, well, alright, desirable |
-### Implied meaning
+### Connotation
 - cleanliness
 - purity
 ### Antonym

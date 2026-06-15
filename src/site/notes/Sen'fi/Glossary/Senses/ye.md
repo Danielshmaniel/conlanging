@@ -8,7 +8,7 @@
 | ----- | ------ | -------------------- |
 | ~     | *n.*   | colour, hue, pigment |
 | ~an   | *adj.* | colourful            |
-### Implied meaning
+### Connotation
 - spectrum
 - type
 ### Etymology

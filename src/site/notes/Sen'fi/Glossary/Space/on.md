@@ -7,7 +7,7 @@
 | infl. | class | meaning                    |
 | ----- | ----- | -------------------------- |
 | ~     | *n.*  | outside area, beyond smth. |
-### Implied meaning
+### Connotation
 - far out
 ### Antonym
 - [[Sen'fi/Glossary/Space/in\|in]]

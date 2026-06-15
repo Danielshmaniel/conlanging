@@ -9,7 +9,7 @@
 | ~     | *n.*   | condition, context / case, circumstance, situation, scenario, occurrence, incident |
 | ~en   | *v.*   | to happen, to incide, to occur, to take place                                      |
 | ~an   | *adj.* | conditional, contextual, situational, circumstantial, incidental                   |
-### Implied meaning
+### Connotation
 - by chance, fateful (incidental)
 - specific to the case (circumstantial)
 - only during desired cases (conditional)

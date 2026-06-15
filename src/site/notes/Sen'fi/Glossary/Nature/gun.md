@@ -7,7 +7,7 @@
 | infl. | class | meaning          |
 | ----- | ----- | ---------------- |
 | ~     | *n.*  | the Earth, world |
-### Implied meaning
+### Connotation
 - realm, dimension
 ### Etymology
 #### Glyph

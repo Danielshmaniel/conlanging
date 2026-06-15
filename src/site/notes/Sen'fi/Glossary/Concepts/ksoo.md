@@ -9,7 +9,7 @@
 | ~     | *n.*   | absence, non-existence        |
 | ~en   | *v.*   | to not be there, to not exist |
 | ~an   | *adj.* | absent, non-existent          |
-### Implied meaning
+### Connotation
 - falsehood
 ### Grammar counterpart
 *See [[Sen'fi/Glossary/Grammar/kso\|kso]] for the original use and etymology.*

@@ -9,7 +9,7 @@
 | ~     | *n.*   | **things that are evaluated:** value, points, worth, quality / merit, credit, esteem, rank / importance, relative weight            |
 | ~en   | *v.*   | to merit, to deserve, to warrant, to earn, to be owed, to be good enough for, to suffice                                            |
 | ~an   | *adj.* | valuable, prized, dear, cherished, esteemed, honourable / qualified, good enough, adequate, worthy, deserving (of smth.), justified |
-### Implied meaning
+### Connotation
 - price
 - evaluation
 - judgement

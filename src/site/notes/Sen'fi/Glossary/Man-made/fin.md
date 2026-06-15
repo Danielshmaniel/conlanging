@@ -7,7 +7,7 @@
 | infl. | class | meaning |
 | ----- | ----- | ------- |
 | ~     | *n.*  | bow     |
-### Implied meaning
+### Connotation
 - bend
 - arch
 - pulling

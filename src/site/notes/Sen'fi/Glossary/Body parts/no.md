@@ -7,7 +7,7 @@
 | infl.      | class        | meaning |
 | ---------- | ------------ | ------- |
 | ~          | *n.*         | head    |
-### Implied meaning
+### Connotation
 - mind
 ### Etymology
 #### Glyph

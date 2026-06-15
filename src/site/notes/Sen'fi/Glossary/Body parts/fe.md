@@ -9,7 +9,7 @@
 | ~     | *n.*   | nose           |
 | ~en   | *v.*   | to smell (tr.) |
 | ~a    | *psv.* | smelled        |
-### Implied meaning
+### Connotation
 - smell, scent
 ### Etymology
 #### Glyph

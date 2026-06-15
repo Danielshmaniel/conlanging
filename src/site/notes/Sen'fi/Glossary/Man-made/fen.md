@@ -9,7 +9,7 @@
 | ~     | *n.*   | opening, ==gap==, crack, orifice                  |
 | ~en   | *v.*   | to open (in/tr.), to expose, unseal, unveil (tr.) |
 | ~a    | *psv.* | opened, exposed                                   |
-### Implied meaning
+### Connotation
 - exposure
 - access
 - parting two sides

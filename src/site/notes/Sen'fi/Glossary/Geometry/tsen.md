@@ -10,7 +10,7 @@
 | ~en        | *v.*         | to rotate (intr.) / to encircle, to surround (tr.)             |
 | ...thu ~en | *v. caus.*   | to rotate (tr.)                                                |
 | ~un        | *adv.*       | around                                                         |
-### Implied meaning
+### Connotation
 - cycle, loop
 - repetition, re-
 ### Note

@@ -8,7 +8,7 @@
 | ----- | ------ | ----------------- |
 | ~     | *n.*   | child, young one  |
 | ~an   | *adj.* | young, new, fresh |
-### Implied meaning
+### Connotation
 - youth
 ### Etymology
 #### Glyph

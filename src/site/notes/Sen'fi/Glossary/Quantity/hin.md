@@ -11,7 +11,7 @@
 | ~an    | *adj.*    | individual, single, alone, only |
 | ~un    | *adv.*    | only                            |
 | ni~un  | *adv.*    | firstly                         |
-### Implied meaning
+### Connotation
 - unit
 ### Etymology
 #### Glyph

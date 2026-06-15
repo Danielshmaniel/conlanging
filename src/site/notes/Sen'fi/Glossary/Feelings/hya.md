@@ -10,7 +10,7 @@
 | ~en       | *v.*   | to long for, want                                  |
 | ~a        | *psv.* | wanted, desired                                    |
 | ~an       | *adj.* | yearnful, driven, ambitious                        |
-### Implied meaning
+### Connotation
 - request
 - begging
 - expectation

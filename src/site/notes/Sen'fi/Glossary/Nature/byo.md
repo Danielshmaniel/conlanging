@@ -10,7 +10,7 @@
 | ~en   | *v.*   | to dirty, stain, pollute, contaminate                         |
 | ~a    | *psv.* | dirtied, stained, polluted, contaminated                      |
 | ~an   | *adj.* | filthy, dirty, nasty, unclean, unhygienic, impure             |
-### Implied meaning
+### Connotation
 - clogging up
 - (poetic/metaphorical term) moral impurity
 ### Antonym

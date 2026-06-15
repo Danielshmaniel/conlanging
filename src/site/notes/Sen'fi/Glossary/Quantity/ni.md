@@ -8,7 +8,7 @@
 | ----- | ----- | -------------------------------------- |
 | ~     | *n.*  | number, quantity, amount / measurement |
 | ~en   | *v.*  | to count (tr.) / to measure (tr.)      |
-### Implied meaning
+### Connotation
 - ordinal number of an item in a series (from toki pona)
 ### Etymology
 #### Glyph

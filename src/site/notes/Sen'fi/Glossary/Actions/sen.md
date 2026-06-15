@@ -9,7 +9,7 @@
 | ~     | *n.*   | writing, script, document |
 | ~en   | *v.*   | to write                  |
 | ~a    | *psv.* | written                   |
-### Implied meanings
+### Connotation
 - glyph
 - letter (as in mail)
 - inscription

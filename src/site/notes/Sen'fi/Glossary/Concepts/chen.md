@@ -8,7 +8,7 @@
 | ----- | ----- | --------------------------------------------------------------- |
 | ~     | *n.*  | change, transformation, metamorphosis                           |
 | ~en   | *v.*  | to become, turn into, transform into (tr.), to change (in/tr.), |
-### Implied meaning
+### Connotation
 - chemical reaction (Chinese meaning)
 ### Etymology
 #### Glyph

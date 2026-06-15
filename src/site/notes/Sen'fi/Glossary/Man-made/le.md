@@ -7,7 +7,7 @@
 | infl. | class | meaning                     |
 | ----- | ----- | --------------------------- |
 | ~     | *n.*  | thread, strand, fibre, line |
-### Implied meaning
+### Connotation
 - sequence
 ### Etymology
 #### Glyph

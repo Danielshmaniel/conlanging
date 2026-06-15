@@ -9,7 +9,7 @@
 | ~     | *n.*   | entry, insertion, input                               |
 | ~en   | *v.*   | to enter, insert, put in, contain, include, fill with |
 | ~a    | *psv.* | entered, input, inserted, contained, included         |
-### Implied meaning
+### Connotation
 - filling a container
 ### Antonym
 - [[Sen'fi/Glossary/Actions/jon\|jon]]

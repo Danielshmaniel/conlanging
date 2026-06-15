@@ -11,7 +11,7 @@
 | ...thu ~en | *caus. v.* | to calm sb. down, to soothe                    |
 | ~a         | *psv.*     | relaxed, soothed, chill, calm                  |
 | ~an        | *adj.*     | relaxing, soothing, calming                    |
-### Implied meaning
+### Connotation
 - sleep (rest of the body)
 - stop (rest from movement/an action)
 ### Etymology

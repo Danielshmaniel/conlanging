@@ -10,7 +10,7 @@
 | ~en   | *v.*   | to lose, lose grasp of, fumble, accidentally drop, miss, fail to                    |
 | ~a    | *psv.* | lost, slipped out, leaked out, dropped, fumbled                                     |
 | ~an   | *adj.* | careless, clumsy, klutzy, awkward, butterfingers, lacking grace/coordination/polish |
-### Implied meaning
+### Connotation
 - to misplace
 - to forget
 - slipping

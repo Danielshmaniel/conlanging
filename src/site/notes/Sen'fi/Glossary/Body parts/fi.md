@@ -9,7 +9,7 @@
 | ~     | *n.*   | ear                          |
 | ~en   | *v.*   | to hear, listen, sense (tr.) |
 | ~a    | *psv.* | heard                        |
-### Implied meaning
+### Connotation
 - hearing
 ### Etymology
 #### Glyph

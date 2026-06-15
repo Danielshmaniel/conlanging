@@ -8,6 +8,8 @@
 | ----- | ------ | ------------- |
 | ~     | *n.*   | winged insect |
 | ~an   | *adj.* | buzzing       |
+### Connotation
+- buzzing sound
 ### Etymology
 #### Glyph
 simple pictograph ([[Sen'fi/Glossary/Creatures/gi\|gi]] + wings)

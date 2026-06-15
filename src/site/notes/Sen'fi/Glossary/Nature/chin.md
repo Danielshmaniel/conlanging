@@ -7,7 +7,7 @@
 | infl. | class | meaning                                                                     |
 | ----- | ----- | --------------------------------------------------------------------------- |
 | ~     | *n.*  | crystal, glass;<br>hard brittle see-through/reflective material that clinks |
-### Implied meaning
+### Connotation
 - clink, chime, jingle
 - transparent, clear
 - brittle, fragile

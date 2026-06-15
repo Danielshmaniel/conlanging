@@ -9,7 +9,7 @@
 | ~     | *n.*   | shelter, cover, refuge;<br>dwelling, house, building, structure |
 | ~en   | *v.*   | to cover                                                        |
 | ~a    | *psv.* | covered                                                         |
-### Implied meaning
+### Connotation
 - to embrace, to wrap around
 - protection (from the elements -> in general)
 - upper cover: roof, lid

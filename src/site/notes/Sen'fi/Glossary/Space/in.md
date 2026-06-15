@@ -7,7 +7,7 @@
 | infl. | class | meaning                             |
 | ----- | ----- | ----------------------------------- |
 | ~     | *n.*  | inside area, contents, within smth. |
-### Implied meaning
+### Connotation
 - within the area: nearby, vicinity
 ### Antonym
 - [[Sen'fi/Glossary/Space/on\|on]]

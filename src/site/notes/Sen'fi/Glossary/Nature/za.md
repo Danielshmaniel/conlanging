@@ -12,7 +12,7 @@
 | ~a      | *psv.*  | charged, energized, motivated               |
 | ~an     | *adj.*  | energetic, forceful, charged                |
 | ~un     | *adv.*  | forcefully, energetically                   |
-### Implied meaning
+### Connotation
 - lightning
 ### Etymology
 #### Glyph

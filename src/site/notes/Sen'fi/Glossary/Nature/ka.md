@@ -9,7 +9,7 @@
 | ~          | *n.*       | fire                                |
 | ~en        | *v.*       | to burn, ignite, catch fire (intr.) |
 | ...thu ~en | *v. caus.* | to burn, ignite (tr.)               |
-### Implied meaning
+### Connotation
 - heat
 ### Etymology
 #### Glyph

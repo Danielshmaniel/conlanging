@@ -8,7 +8,7 @@
 | ----- | ------ | ------------------------------------------------------------------- |
 | ~     | *n.*   | characteristic, quality, trait, attribute, feature, quirk, property |
 | ~an   | *adj.* | characteristic, distinguishing, specific                            |
-### Implied meaning
+### Connotation
 - description
 - label, tag
 - category

@@ -13,7 +13,7 @@
 | ... thin ~a | *psv.*  | based on, rooted in, originated from                                                                                  |
 | ~an         | *adj.*  | original, initial, first                                                                                              |
 | ~un         | *adv.*  | originally, initially                                                                                                 |
-### Implied meaning
+### Connotation
 - (botanical) roots
 - foundation, basis
 - newness

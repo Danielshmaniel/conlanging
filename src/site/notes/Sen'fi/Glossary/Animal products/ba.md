@@ -7,7 +7,7 @@
 | infl. | class | meaning       |
 | ----- | ----- | ------------- |
 | ~     | *n.*  | money, wealth |
-### Implied meaning
+### Connotation
 - commodity
 - shellfish
 - cowrie shells

@@ -7,7 +7,7 @@
 | infl. | class | meaning |
 | ----- | ----- | ------- |
 | ~     | *n.*  | moon    |
-### Implied meaning
+### Connotation
 - month
 ### Etymology
 #### Glyph

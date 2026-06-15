@@ -7,7 +7,7 @@
 | infl. | class | meaning   |
 | ----- | ----- | --------- |
 | ~     | *n.*  | self, ego |
-### Implied meaning
+### Connotation
 - auto- (as in "automatic")
 - private, personal, intimate
 ### Etymology

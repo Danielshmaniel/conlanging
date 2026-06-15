@@ -7,7 +7,7 @@
 | infl. | class | meaning |
 | ----- | ----- | ------- |
 | ~     | *n.*  | sun     |
-### Implied meaning
+### Connotation
 - day
 ### Etymology
 #### Glyph

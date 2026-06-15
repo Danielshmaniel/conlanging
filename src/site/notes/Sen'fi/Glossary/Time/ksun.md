@@ -9,7 +9,7 @@
 | ~     | *n.*   | end, conclusion            |
 | ~en   | *v.*   | to finish, to end (in/tr.) |
 | ~an   | *adj.* | final, last                |
-### Implied meaning
+### Connotation
 - past
 - former, ex-
 ### Antonym

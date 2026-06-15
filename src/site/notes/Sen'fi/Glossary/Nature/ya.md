@@ -8,7 +8,7 @@
 | ----- | ------ | ------- |
 | ~     | *n.*   | light   |
 | ~an   | *adj.* | bright  |
-### Implied meaning
+### Connotation
 - star
 ### Etymology
 #### Glyph

@@ -10,7 +10,7 @@
 | ~en   | *v.*   | to scare, to spook, to terrify, to torment, to instil fear in, to put on edge                                                            |
 | ~a    | *psv.* | scared, fearful, on edge                                                                                                                 |
 | ~an   | *adj.* | scary, terrifying, creepy, monstrous, gruesome, ghastly, distressing                                                                     |
-### Implied meaning
+### Connotation
 - danger, risk, threat
 - uncertainty, helplessness
 - anticipatory fear: worry, dread, anxiety

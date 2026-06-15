@@ -9,7 +9,7 @@
 | ~     | *n.*   | life, being, survival |
 | ~en   | *v.*   | to live, survive      |
 | ~an   | *adj.* | alive, living         |
-### Implied meaning
+### Connotation
 - spirit, soul, anima
 ### Antonym
 - **ksoqa**

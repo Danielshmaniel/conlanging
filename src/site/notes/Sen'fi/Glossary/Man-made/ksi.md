@@ -10,7 +10,7 @@
 | ~en'kon | *n. of v.* | cutting          |
 | ~en     | *v.*       | to cut, to slice |
 | ~a      | *psv.*     | cut              |
-### Implied meaning
+### Connotation
 - cutting
 ### Etymology
 #### Glyph

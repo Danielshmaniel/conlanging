@@ -8,7 +8,7 @@
 | ----- | ------ | ------- |
 | ~     | *n.*   | leaf    |
 | ~an   | *adj.* | flat    |
-### Implied meaning
+### Connotation
 - Leaf-like/flat things: paper, page
 ### Etymology
 #### Glyph
