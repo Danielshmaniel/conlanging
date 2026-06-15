@@ -17,8 +17,8 @@ Welcome to SEN'FI, a passion project of mine to make an artlang (conlang made fo
 	- [[Sen'fi/Vocab - Compounds\|Compounds]]
 	- [[Sen'fi/Vocab - Phrases\|Phrases]]
 - ### Vocab (tidy)
-	- [[Sen'fi/Radical List (Tagged)\|Radical List (Tagged)]]
 	- [[Sen'fi/Radical List (A-Z)\|Radical List (A-Z)]]
+	- [[Sen'fi/Radical List (Tagged)\|Radical List (Tagged)]]
 	- [[Sen'fi/Glossary (A-Z)\|Glossary (A-Z)]]
 	- [[Sen'fi/Glossary (Tagged)\|Glossary (Tagged)]]
 - ### Language rules
