@@ -12,11 +12,9 @@
 ### Connotation
 - past
 - former, ex-
-### Antonym
-- [[Sen'fi/Glossary/Time/ksun\|ksun]]
 ### Etymology
 #### Glyph
 - 了, showing the end of a rolled object (perhaps a string or plant)
 - added a knife to signify cutting off, and hence, ending.
 #### Sound
-- *a priori:* 
+- *a priori:* ks=destruction, maybe un=melancholy (the sadness that something ended)
