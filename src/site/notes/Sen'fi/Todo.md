@@ -15,9 +15,6 @@
 - *copying templates*
 - *imp: fixing relative links*
 ### Words to do
-- fat, plump, stuffed into
-- grease, oil, butter
-- cheese
 - bitter, alkaline
 - sour, acidic
 - sex/gender, **seed**, **egg**, fertilisation, fertility
