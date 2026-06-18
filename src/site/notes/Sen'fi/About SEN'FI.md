@@ -27,9 +27,8 @@ Welcome to SEN'FI, a passion project of mine to make an artlang (conlang made fo
 - ### Applying the language
 	- [[Sen'fi/Example sentences\|Example sentences]]
 	- [[Sen'fi/Translation fun\|Translation fun]]
-- ### Extras
+- ### Extra
 	- [[Sen'fi/Worldbuilding\|Worldbuilding]]
-	- [[Sen'fi/Todo\|Todo]]
 ---
 ## Objective
 #### LOGOSYLLABIC

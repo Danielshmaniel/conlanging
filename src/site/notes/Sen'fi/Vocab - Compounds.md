@@ -21,7 +21,8 @@
 |                        | megen      | baby / infant                               | person + starting (life)                 |
 |                        | dagen      | baby boy                                    | male + starting (life)                   |
 |                        | bugen      | baby girl                                   | female + starting (life)                 |
-|                        | gagen      | animal offspring                            | animal + starting (life)                 |
+|                        | gagen      | infant animal                               | animal + starting (life)                 |
+|                        | pyaga      | animal young                                | child + animal                           |
 |                        | gaben      | vertebrate                                  | animal + backbone                        |
 |                        | gaksoben   | invertebrate                                | animal + no + backbone                   |
 |                        | qabin      | microbe                                     | life + small                             |
