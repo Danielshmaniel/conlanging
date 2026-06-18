@@ -9,23 +9,23 @@ Note: i removed the nasal inverted commas (n') for aesthetic purposes.
 BTW, i put a tiny bit of touhou references in my words, such as `ban` (boundary), `fen` (gap) and `chen` (CHEEEEN). Interestingly, `non` (word for mask/face) sounds like the Japanese theatric art Noh which Kokoro performs.
 ## Touhou game titles
 
-| English Title                 | Sen'fi Translation                 | Note                                                                                                      |
-| ----------------------------- | ---------------------------------- | --------------------------------------------------------------------------------------------------------- |
+| English Title                 | Sen'fi Translation              | Note                                                                                                      |
+| ----------------------------- | ------------------------------- | --------------------------------------------------------------------------------------------------------- |
 | Embodiment of Scarlet Devil   | chenkonmi pi qaksan pe yelumaya |                                                                                                           |
-| Perfect Cherry Blossom        | Cherasus-the vafen pe weko         | "cerasus" is the genus name in latin for cherry blossom                                                   |
-| Immaterial and Missing Power  | to pe he-an ksen-an                |                                                                                                           |
-| Imperishable Night            | zhatsu pe ksoksun                  | night-time of no end                                                                                      |
-| Phantasmagoria of Flower View | lenkonmi pin mi-enkon pi vafen     | series of images, of flower-viewing                                                                       |
-| Shoot the Bullet              | qifin wa taqifin-en                | lit. the projectile gets projected                                                                        |
-| Mountain of Faith             | gon pi dyun                        |                                                                                                           |
-| Scarlet Weather Rhapsody      | manfi pi hemahewi pe yelumaya | music of the skies' bright-red mood                                                                       |
-| Subterranean Animism          | wogo-dun dyun pi qa                | belief in spirits in the underground                                                                      |
-| Unidentified Fantastic Object | kon pe mino-an shii-an             |                                                                                                           |
-| Double Spoiler                | me pi fen-enkon pen nifun          | the second exposer (as in exposing someone in journalism/photography; assuming that "spoiler" means that) |
-| Great Fairy Wars              | ksabontso pi meziye              | the big battles of butterfly-people                                                                       |
-| Ten Desires                   | hya pe jun                         |                                                                                                           |
-| Hopeless Masquerade           | mimeman pi bannon pen ksohyalen    | mask party of no hope                                                                                     |
-| Double Dealing Character      | me pi duun pe fun                  | person of two realities (assuming that the title refers to the one who manipulates the mirror reality)    |
+| Perfect Cherry Blossom        | Cherasus-the vafen pe weko      | "cerasus" is the genus name in latin for cherry blossom                                                   |
+| Immaterial and Missing Power  | to pe he-an ksen-an             |                                                                                                           |
+| Imperishable Night            | zhatsu pe ksoksun               | night-time of no end                                                                                      |
+| Phantasmagoria of Flower View | lenkonmi pin mi-enkon pi vafen  | series of images, of flower-viewing                                                                       |
+| Shoot the Bullet              | qifin wu taqifin-en             | lit. projecting the projectile                                                                            |
+| Mountain of Faith             | gon pi dyun                     |                                                                                                           |
+| Scarlet Weather Rhapsody      | manfi pi hemahewi pe yelumaya   | music of the skies' bright-red mood                                                                       |
+| Subterranean Animism          | wogo-dun dyun pi qa             | belief in spirits in the underground                                                                      |
+| Unidentified Fantastic Object | kon pe mino-an shii-an          |                                                                                                           |
+| Double Spoiler                | me pi fen-enkon pen nifun       | the second exposer (as in exposing someone in journalism/photography; assuming that "spoiler" means that) |
+| Great Fairy Wars              | ksabontso pi meziye             | the big battles of butterfly-people                                                                       |
+| Ten Desires                   | hya pe jun                      |                                                                                                           |
+| Hopeless Masquerade           | mimeman pi bannon pen ksohyalen | mask party of no hope                                                                                     |
+| Double Dealing Character      | me pi duun pe fun               | person of two realities (assuming that the title refers to the one who manipulates the mirror reality)    |
 ## Touhou place names
 
 | Name                                            | Sen'fi Translation             | Note                                                          |

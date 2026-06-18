@@ -14,13 +14,9 @@
 > meyin wa meda than fu wu jen-en
 > `me (subj) him (dest) fish (obj) give (vrb)`
 
-> [!example] I made him move
-> meyin thu meda wa ta-en'ksun
-> `me (agent) him (subj) move (past vrb)`
-
-> [!example] Daniel made him move
-> Dan'yel-theme thu meda wa ta-en'ksun
-> `Daniel-person (agent) him (subj) move (past vrb)`
+> [!example] I moved him
+> meyin wa meda wu ta-en'ksun
+> `me (subj) him (obj) move (past vrb)`
 
 > [!example] Who did it?!
 > meshi thu?!
@@ -49,27 +45,27 @@
 > `similar manner (of) him (context) kon'on (obj) do (verbal noun)`
 
 > [!example] A butterfly's wing flaps like how a bird's wing flaps
-> honen piun teri pi ri wa ta-en un, teri pi ziyami wa ta-en
+> honen piun teri pi ri wa ta-en un, teri pi ziye wa ta-en
 > `similar manner (piun) wing (of) bird (subj) move (vrb) (context), wing (of) butterfly (subj) move (vrb)`
 
 > [!example] We go to there
-> meyin'tso wa gogun'on than ta-en
+> meyin'tso wa guon than ta-en
 > `us (subj) there (to) go (vrb)`
 
 > [!example] The fish is bigger than the human
 > fu wa bon-an'bo me-thin
 > `fish (subj) big (more) person (than)`
 
-> [!example] I kill fish and eat them because they are many
-> fufu wa bo-an thi, meyin thu fufu wa ksun'qa-en tha fufu wu in'han-en tha
+> [!example] I hunt fish and eat them because they are many
+> fufu wa bo-an thi, meyin wa fufu wu hyami-en tha fufu wu jin'han-en tha
 > `fish (subj) many (adj) (because), me (agent) fish (subj) die (vrb) (so) me (subj) fish (obj) eat (vrb) (so)`
 
 > [!example] Because fish are many, i eat fish / Fish are many so i eat fish
-> fufu wa bo-an thi, meyin wa fufu wu in'han-en tha
+> fufu wa bo-an thi, meyin wa fufu wu jin'han-en tha
 > `fish (subj) many (adj) (because), me (subj) fish (obj) eat (vrb) (so)`
 
 > [!example] I eat fish, because fish are many
-> meyin wa fufu wu in'han-en tha, fufu wa bo-an thi
+> meyin wa fufu wu jin'han-en tha, fufu wa bo-an thi
 > `me (subj) fish (obj) eat (vrb) (so), fish (subj) many (adj) (because)`
 
 > [!example] despite fish are many, i did not see fish
@@ -77,7 +73,7 @@
 > `fish (subj) many (adj) (despite), me (subj) fish (obj) see (neg. past vrb) [so]`
 
 > [!example] I eat vegetables despite not loving them
-> meyin wa vava wu in'han-en thikso vava wu qu-en'kso
+> meyin wa vava wu jin'han-en thikso vava wu qu-en'kso
 > `me (subj) plants (obj) eat (vrb) (despite) plants (obj) love (neg. vrb)`
 
 > [!example] The fish is in the sea
@@ -97,27 +93,27 @@
 > `me (subj) grow (vrb, past)`
 
 > [!example] I started eating fruit
-> meyin wa van wu in'han-en gen-en'ksun
+> meyin wa van wu gen-en jin'han-en'ksun
 > `me (subj) fruit (obj) eat (vrb) start (past vrb)`
 
 > [!example] If i go there i die
-> meyin wa gogun'on than ta-en un, meyin wa ksun'qa-en
+> meyin wa guon than ta-en un, meyin wa ksun'qa-en
 > `me (subj) there (to) move (if), me (subj) die (vrb)`
 
 > [!example] The man who died eating a fish told people that he loves fish
-> da piwa fu wu in'han-en un ksun'qa-en'ksun un'wa, me than ja-en'ksun tho "meyin wa fu wu qu-en"
-> `man (who) fish (obj) eat (vrb) die (past vrb) (subj), people (to) tell (past vrb) (quote") me (subj) fish (obj) love (vrb)`
+> da piwa fu wu jin'han-en un ksun'qa-en'ksun un'wa, me than "meyin wa fu wu qu-en" tho ja-en'ksun
+> `man (who) fish (obj) eat (vrb) die (past vrb) (subj), people (to) me (subj) fish (obj) love (vrb) (quote) tell (past vrb)`
 
 > [!example] The fish was eaten
-> fu wu in'han-en'ksun
+> fu wu jin'han-en'ksun
 > `fish (obj) eat (past vrb)`
 
 > [!example] I have a good bond with that guy / As for me, a good bond exists with that man
-> da pi hoon oun meyin un, lekome pe we wa duun-en
-> `man (of) that way (with), me (context) bond (adj->) good (subj) exist (vrb)`
+> da pi hoon oun meyin un, lekome pe we wa dun
+> `man (of) that way (with), me (context) bond (adj->) good (subj) (existing)`
 
 > [!example] Stealing from people is bad
-> hya pi memenon oksoun, me thin chen'in'te wa ksu
+> hya pi memeon oksoun, me thin jin'te wa ksu
 > `will (of) them (without), person (from) taking (subj) bad`
 
 > [!example] I can do this
@@ -131,7 +127,7 @@
 > `this (subj) see (pst prt, neg. potential)`
 
 > [!example] Hide!
-> mithin'ban'enhya!
+> mithin'ban'en'hya!
 > `[sight (from)] hide (vrb, please)!`
 
 > [!example] People forced me to do this
