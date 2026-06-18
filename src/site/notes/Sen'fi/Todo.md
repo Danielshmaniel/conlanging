@@ -17,7 +17,7 @@
 ### Words to do
 - bitter, alkaline
 - sour, acidic
-- sex/gender, **seed**, fertility
+- sex/gender
 - **CENTRE**
 - centre already is in'fen'nen
 - focus (focal point), attention, concentration: centre + mi
