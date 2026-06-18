@@ -9,6 +9,8 @@
 | ~     | *n.*   | armour, shield, shell, defense                                                    |
 | ~en   | *v.*   | to defend, fortify, reinforce, harden                                             |
 | ~an   | *adj.* | tough, hard, firm, rigid, robust, tanky, resilient, reinforced, plated, defensive |
+### Antonym
+- **ksodyo** (vulnerability, weakness, softness)
 ### Etymology
 #### Glyph
 inspired from 甲, and turtle shells resembling shields (testudo).

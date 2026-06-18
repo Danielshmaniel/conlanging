@@ -9,14 +9,20 @@
 | ~     | *n.*   | fat, fatty tissue                                  |
 | ~en   | *v.*   | to fatten, stuff, fill to the brim, cram sth. into |
 | ~a    | *psv.* | stuffed, filled, full, fattened                    |
-| ~an   | *adj.* | fat, thick, wide                                   |
+| ~an   | *adj.* | fat, fatty, plump, thick, wide                     |
 ### Connotation
 - lipid (oils, etc.)
 - width, thickness
+- plumpness (soft, full and round)
 - filling, stuffing (from the etymology of "fat")
+### Semi-synonym
+- **jin'hu** (to contain, to fill)
+- [[Sen'fi/Glossary/Space/bon\|bon]] (big, massive)
 ### Etymology
 #### Glyph
-direct inspiration from 太, showing the excess tissue hanging off of the body of a person with outstretched arms. Yes, that little stroke inside may very well be a belly button but also just something inside to show fullness.
+- very direct inspiration from 太, showing the excess tissue hanging off of the body of a person with outstretched arms.
+- Yes, that little stroke inside may very well be a belly button but also just something inside to show fullness.
+- Compare to the etymology of [[Sen'fi/Glossary/Space/bon\|bon]], also a person with outstretched arms showing size
 #### Sound
 - Related to [[Sen'fi/Glossary/Nature/bye\|bye]] (jiggly semi-solids and thick substances)
 - *a priori:* b=weight, y=bouncy, an=bodily
