@@ -7,8 +7,6 @@
 [[Sen'fi/Radical List (Tagged)\|Sort: By Category]]
 [[Sen'fi/Glossary (A-Z)\|Show All Words]]
 
-*WIP*
-
 
 ```base
 views:
