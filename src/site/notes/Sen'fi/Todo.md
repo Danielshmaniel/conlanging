@@ -28,9 +28,7 @@
 - to fit = mutual (ju) acceptance/agreement/accordance, something can be contained (enough space for it)
 ### Other
 - toki pona concepts
-	- **jaki** - filth
 	- **apeja** - shame, dishonor, embarassment (fear of shame)
-	- **anta** - oil, fat, grease
 	- **meso** - middle, in between, neither/both this or that, neutral, mixed, ambivalence
 - native reduplicated onomatopoeia sounds like Maltese and Japanese
 - 147 numericals, change the 7 to look more like a y and 4 like a reverse ?
