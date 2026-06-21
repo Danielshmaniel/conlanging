@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sen-fi/vocab-compounds/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/sen-fi/vocab-compounds/","tags":["Sen'fi"],"dg-note-properties":{"tags":["Sen'fi"]}}
 ---
 
 # Concrete things
@@ -18,11 +18,11 @@
 |                        | mebin      | child<br>(*synonym of "pya"*)               | person + small                           |
 |                        | dabin      | boy                                         | male + small                             |
 |                        | bubin      | girl                                        | female + small                           |
-|                        | megen      | baby / infant                               | person + starting (life)                 |
+|                        | megen      | baby, infant                                | person + starting (life)                 |
 |                        | dagen      | baby boy                                    | male + starting (life)                   |
 |                        | bugen      | baby girl                                   | female + starting (life)                 |
 |                        | gagen      | infant animal                               | animal + starting (life)                 |
-|                        | pyaga      | animal young                                | child + animal                           |
+|                        | pyaga      | animal young/offspring                      | child + animal                           |
 |                        | gaben      | vertebrate                                  | animal + backbone                        |
 |                        | gaksoben   | invertebrate                                | animal + no + backbone                   |
 |                        | gabyedyo   | mollusc                                     | animal + slimy + shelled                 |

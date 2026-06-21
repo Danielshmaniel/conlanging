@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sen-fi/vocab-phrases/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/sen-fi/vocab-phrases/","tags":["Sen'fi"],"dg-note-properties":{"tags":["Sen'fi"]}}
 ---
 
 ## Greetings & Salutations

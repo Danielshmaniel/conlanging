@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sen-fi/radical-list-tagged/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/sen-fi/radical-list-tagged/","tags":["Sen'fi"],"dg-note-properties":{"tags":["Sen'fi"]}}
 ---
 
 > [!info] Comprehensive list of radicals grouped by category.

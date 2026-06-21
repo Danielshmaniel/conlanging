@@ -18,5 +18,5 @@
 #### Glyph
 [[Sen'fi/Glossary/Space/on\|on]] with an object. Related to 出.
 #### Sound
-- Related to [[Sen'fi/Glossary/Space/on\|on]]
+- Related to [[Sen'fi/Glossary/Space/on\|on]] (outside), [[Sen'fi/Glossary/Actions/jen\|jen]] (giving)
 - *a priori:* j=interactive/sudden, on=outer

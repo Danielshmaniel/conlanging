@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sen-fi/glossary-a-z/","tags":["gardenEntry"],"dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/sen-fi/glossary-a-z/","tags":["Sen'fi","gardenEntry"],"dg-note-properties":{"tags":["Sen'fi","gardenEntry"]}}
 ---
 
 > [!info] Contains all words, including compounds and radicals, sorted alphabetically.

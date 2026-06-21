@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sen-fi/translation-fun/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/sen-fi/translation-fun/","tags":["Sen'fi"],"dg-note-properties":{"tags":["Sen'fi"]}}
 ---
 
 ### What's this note?

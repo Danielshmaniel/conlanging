@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sen-fi/radical-list-a-z/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/sen-fi/radical-list-a-z/","tags":["Sen'fi"],"dg-note-properties":{"tags":["Sen'fi"]}}
 ---
 
 > [!info] Comprehensive list of radicals sorted alphabetically.

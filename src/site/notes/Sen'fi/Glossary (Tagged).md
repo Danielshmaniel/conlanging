@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sen-fi/glossary-tagged/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/sen-fi/glossary-tagged/","tags":["Sen'fi"],"dg-note-properties":{"tags":["Sen'fi"]}}
 ---
 
 > [!info] Contains all words, including compounds and radicals, grouped by category.
