@@ -14,10 +14,10 @@
 | ~a         | *psv.*     | broken apart, divided         |
 | ~un        | *adv.*     | partly                        |
 ### Antonym
-- [[Sen'fi/Glossary/Quantity/ko\|ko]]
+- [[Sen'fi/Glossary/Quantity/ko\|Sen'fi/Glossary/Quantity/ko]]
 ### Etymology
 #### Glyph
-ideograph of a slash cutting apart two things in a box, [[Sen'fi/Glossary/Quantity/ko\|ko]]
+ideograph of a slash cutting apart two things in a box, [[Sen'fi/Glossary/Quantity/ko\|Sen'fi/Glossary/Quantity/ko]]
 #### Sound
 - toki pona "kipisi"
 - Japanese "kiru" (to cut)

@@ -12,4 +12,4 @@
 sitelen pona "ijo"
 #### Sound
 - Japanese "koto"
-- Related to [[Sen'fi/Glossary/Quantity/ko\|ko]] (all; a thing is defined as anything which has physical or abstract substance)
+- Related to [[Sen'fi/Glossary/Quantity/ko\|Sen'fi/Glossary/Quantity/ko]] (all; a thing is defined as anything which has physical or abstract substance)
