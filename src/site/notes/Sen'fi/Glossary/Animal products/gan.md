@@ -9,7 +9,7 @@
 | ~     | *n.*  | meat    |
 ### Etymology
 #### Glyph
-compare with [[Sen'fi/Glossary/Body parts/ma\|ma]], but instead an animal ([[Sen'fi/Glossary/Creatures/ga\|ga]]) is being encircled
+compare with [[Sen'fi/Glossary/Body parts/ma\|ma]], but instead an animal ([[Sen'fi/Glossary/Creatures/ga\|Sen'fi/Glossary/Creatures/ga]]) is being encircled
 #### Sound
-- Related to [[Sen'fi/Glossary/Creatures/ga\|ga]] (animal)
+- Related to [[Sen'fi/Glossary/Creatures/ga\|Sen'fi/Glossary/Creatures/ga]] (animal)
 - *a priori:* g=earthliness, an=bodily

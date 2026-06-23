@@ -10,5 +10,5 @@
 ### Etymology
 | subword | meaning   |
 | ------- | --------- |
-| [[Sen'fi/Glossary/Creatures/gi\|gi]]  | arthropod |
+| [[Sen'fi/Glossary/Creatures/gi\|Sen'fi/Glossary/Creatures/gi]]  | arthropod |
 | [[Sen'fi/Glossary/Creatures/fu\|fu]]  | fish      |

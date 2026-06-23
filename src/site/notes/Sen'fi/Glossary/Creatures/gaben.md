@@ -10,5 +10,5 @@
 ### Etymology
 | subword | meaning  |
 | ------- | -------- |
-| [[Sen'fi/Glossary/Creatures/ga\|ga]]  | animal   |
+| [[Sen'fi/Glossary/Creatures/ga\|Sen'fi/Glossary/Creatures/ga]]  | animal   |
 | [[Sen'fi/Glossary/Body parts/ben\|ben]] | backbone |

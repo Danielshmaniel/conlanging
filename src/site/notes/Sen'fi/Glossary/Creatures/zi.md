@@ -12,7 +12,7 @@
 - buzzing sound
 ### Etymology
 #### Glyph
-simple pictograph ([[Sen'fi/Glossary/Creatures/gi\|gi]] + wings)
+simple pictograph ([[Sen'fi/Glossary/Creatures/gi\|Sen'fi/Glossary/Creatures/gi]] + wings)
 #### Sound
 - *a priori:* z=buzzing, i=smallness
 - *imitative of:* buzzing

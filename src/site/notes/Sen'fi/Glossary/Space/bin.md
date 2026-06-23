@@ -13,7 +13,7 @@
 ### Etymology
 #### Glyph
 a pictograph of 3 droplets like 小.
-Not to be confused with the etymology and glyph of [[Sen'fi/Glossary/Quantity/bi\|bi]].
+Not to be confused with the etymology and glyph of [[Sen'fi/Glossary/Quantity/bi\|Sen'fi/Glossary/Quantity/bi]].
 #### Sound
 - *a priori:* b=weight, in=smallness
-- Related to [[Sen'fi/Glossary/Quantity/bi\|bi]] (few)
+- Related to [[Sen'fi/Glossary/Quantity/bi\|Sen'fi/Glossary/Quantity/bi]] (few)
