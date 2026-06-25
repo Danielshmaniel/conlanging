@@ -25,4 +25,5 @@
 - Compare to the etymology of [[Sen'fi/Glossary/Space/bon\|bon]], also a person with outstretched arms showing size
 #### Sound
 - Related to [[Sen'fi/Glossary/Nature/bye\|bye]] (jiggly semi-solids and thick substances), [[Sen'fi/Glossary/Animal products/gan\|gan]] (meat)
+- rounded/soft ("bouba") -> the counterpart to sharp ("kiki", [[Sen'fi/Glossary/Geometry/qi\|qi]])
 - *a priori:* b=weight, y=bouncy, an=bodily

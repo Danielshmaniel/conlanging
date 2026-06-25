@@ -16,4 +16,5 @@ oracle bone script of 角. Originally a depiction of a horn but then generalised
 #### Note
 This symbol may be rotated
 #### Sound
+- sharp ("kiki") -> the counterpart to rounded/soft ("bouba", [[Sen'fi/Glossary/Body parts/byan\|byan]])
 - *a priori:* q=cutting, i=precision/smallness

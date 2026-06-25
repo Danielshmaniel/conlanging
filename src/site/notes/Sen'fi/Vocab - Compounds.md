@@ -458,7 +458,7 @@
 |                         | ksan'zhazhin-(a/an/en) | *n.* anticipatory fear, future fear: anxiety, worry, dread, rumination<br><br>*psv.* worried, dreadful, anxious<br><br>*adj.* worrying<br><br>*v.* to worry sb., to cause sb. to worry | fear + future event       |
 |                         | chen'zan-en            | *v.* to be under a spell, to be enchanted, to be captivated                                                                                                                            | become + enchanted        |
 |                         | chen'zan'qu-(en/a)     | *v.* to fall in love, to feel strong attraction<br><br>*psv.* lovestruck, lovesick, infatuated                                                                                         | becoming enchanted + love |
-|                         | zan'qu-(en)            | *n.* seduction<br><br>*v.* to seduce                                                                                                                                                   | enchantment + love        |
+|                         | zan'qu-(en/a/an)       | *n.* seduction<br><br>*v.* to seduce<br><br>*psv.* seduced, attracted, charmed<br><br>*adj.* seductive, sexy, attractive, hot                                                          | enchantment + love        |
 ### Cognition
 
 | glyph                   | sound             | meaning                                                                                                                                                                 | combo                                  |
