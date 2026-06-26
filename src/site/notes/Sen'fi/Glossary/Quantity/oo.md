@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/sen-fi/glossary/quantity/oo/","tags":["radical","semanticization","Quantity"],"dg-note-properties":{"tags":["radical","semanticization","Quantity"],"keyword":"addition"}}
+{"dg-publish":true,"permalink":"/sen-fi/glossary/quantity/oo/","tags":["radical","semanticization","Quantity"],"dg-note-properties":{"tags":["radical","semanticization","Quantity"],"keyword":"addition","feature":"Sen'fi/Misc Images/oo.png"}}
 ---
 
-![[oo.dark.svg\|80]]
+![oo.png](/img/user/Sen'fi/Misc%20Images/oo.png)
 ### Meaning
 | infl. | class  | meaning                      |
 | ----- | ------ | ---------------------------- |

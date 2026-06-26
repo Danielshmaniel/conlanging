@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/sen-fi/glossary/concepts/uun/","tags":["radical","semanticization","Concepts"],"dg-note-properties":{"tags":["radical","semanticization","Concepts"],"keyword":"context"}}
+{"dg-publish":true,"permalink":"/sen-fi/glossary/concepts/uun/","tags":["radical","semanticization","Concepts"],"dg-note-properties":{"tags":["radical","semanticization","Concepts"],"keyword":"context","feature":"Sen'fi/Misc Images/uun.png"}}
 ---
 
-![[uun.dark.svg\|80]]
+![uun.png](/img/user/Sen'fi/Misc%20Images/uun.png)
 ### Meaning
 | infl. | class  | meaning                                                                                              |
 | ----- | ------ | ---------------------------------------------------------------------------------------------------- |

@@ -10,7 +10,7 @@
 | ~en          | *v.*            | to see, watch, observe (tr.) |
 | ~en'kon      | *v. n.*         | seeing                       |
 | ...thu ~en   | *caus. v.*      | to show                      |
-| methi~       | *caus. v. n.*   | showing                      |
+| methun~      | *caus. v. n.*   | showing                      |
 | ~a           | *psv.*          | seen                         |
 | ...thu ~a    | *psv. caus.*    | shown                        |
 | ...thu ~akon | *psv. caus. n.* | being shown                  |

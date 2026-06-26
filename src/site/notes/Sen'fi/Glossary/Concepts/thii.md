@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/sen-fi/glossary/concepts/thii/","tags":["radical","semanticization","Concepts"],"dg-note-properties":{"tags":["radical","semanticization","Concepts"],"keyword":"cause"}}
+{"dg-publish":true,"permalink":"/sen-fi/glossary/concepts/thii/","tags":["radical","semanticization","Concepts"],"dg-note-properties":{"tags":["radical","semanticization","Concepts"],"keyword":"cause","feature":"Sen'fi/Misc Images/thii.png"}}
 ---
 
-![[thaa.dark.svg\|80]]
+![thii.png](/img/user/Sen'fi/Misc%20Images/thii.png)
 ### Meaning
 | infl. | class  | meaning                      |
 | ----- | ------ | ---------------------------- |

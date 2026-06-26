@@ -10,14 +10,14 @@
 | ~en        | *v.*       | to break, separate (intr.)    |
 | ~en'kon    | *v. n.*    | breaking apart, self-dividing |
 | ...thu ~en | *caus. v.* | to break, separate (tr.)      |
-| methi~     | *caus. n.* | breaking smth. apart          |
+| methun~    | *caus. n.* | breaking smth. apart          |
 | ~a         | *psv.*     | broken apart, divided         |
 | ~un        | *adv.*     | partly                        |
 ### Antonym
-- [[Sen'fi/Glossary/Quantity/ko\|Sen'fi/Glossary/Quantity/ko]]
+- [[Sen'fi/Glossary/Quantity/ko\|ko]]
 ### Etymology
 #### Glyph
-ideograph of a slash cutting apart two things in a box, [[Sen'fi/Glossary/Quantity/ko\|Sen'fi/Glossary/Quantity/ko]]
+ideograph of a slash cutting apart two things in a box, [[Sen'fi/Glossary/Quantity/ko\|ko]]
 #### Sound
 - toki pona "kipisi"
 - Japanese "kiru" (to cut)

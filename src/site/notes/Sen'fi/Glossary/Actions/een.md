@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/sen-fi/glossary/actions/een/","tags":["radical","semanticization","Actions"],"dg-note-properties":{"tags":["radical","semanticization","Actions"],"keyword":"action"}}
+{"dg-publish":true,"permalink":"/sen-fi/glossary/actions/een/","tags":["radical","semanticization","Actions"],"dg-note-properties":{"tags":["radical","semanticization","Actions"],"keyword":"action","feature":"Sen'fi/Misc Images/een.png"}}
 ---
 
-![[een.dark.svg\|80]]
+![een.png](/img/user/Sen'fi/Misc%20Images/een.png)
 ### Meaning
 | infl. | class  | meaning                                         |
 | ----- | ------ | ----------------------------------------------- |

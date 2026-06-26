@@ -6,7 +6,7 @@
 ### Function
 「... ~」*agent marker*: by
 ### Semanticization
-*Appending a [[Sen'fi/Glossary/Grammar/(tse)\|tse]] glyph yields **[[]]***
+*Appending a [[Sen'fi/Glossary/Grammar/(tse)\|tse]] glyph yields **[[Sen'fi/Glossary/Actions/thuu\|thuu]]***
 ### Etymology
 #### Glyph
 - like "wa" but a person is holding another person, signifying the agent of a subject; looks like someone controlling a puppet

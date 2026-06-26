@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/sen-fi/glossary/concepts/ksoo/","tags":["radical","semanticization","Concepts"],"dg-note-properties":{"tags":["radical","semanticization","Concepts"],"keyword":"absence"}}
+{"dg-publish":true,"permalink":"/sen-fi/glossary/concepts/ksoo/","tags":["radical","semanticization","Concepts"],"dg-note-properties":{"tags":["radical","semanticization","Concepts"],"keyword":"absence","feature":"Sen'fi/Misc Images/ksoo.png"}}
 ---
 
-![[ksoo.dark.svg\|80]]
+![ksoo.png](/img/user/Sen'fi/Misc%20Images/ksoo.png)
 ### Meaning
 | infl. | class  | meaning                       |
 | ----- | ------ | ----------------------------- |

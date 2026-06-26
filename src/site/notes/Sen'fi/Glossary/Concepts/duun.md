@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/sen-fi/glossary/concepts/duun/","tags":["radical","semanticization","Concepts"],"dg-note-properties":{"tags":["radical","semanticization","Concepts"],"keyword":"reality"}}
+{"dg-publish":true,"permalink":"/sen-fi/glossary/concepts/duun/","tags":["radical","semanticization","Concepts"],"dg-note-properties":{"tags":["radical","semanticization","Concepts"],"keyword":"reality","feature":"Sen'fi/Misc Images/duun.png"}}
 ---
 
-![[duun.dark.svg\|80]]
+![duun.png](/img/user/Sen'fi/Misc%20Images/duun.png)
 ### Meaning
 | infl. | class  | meaning                             |
 | ----- | ------ | ----------------------------------- |

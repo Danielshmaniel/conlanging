@@ -9,7 +9,7 @@
 | ~          | *n.*         | **non-deviancy:** rule, norm, adherence, conformity / straightness, directness, efficiency, bluntness, accuracy                                   |
 | ~en        | *v.*         | to adhere to, to obey                                                                                                                             |
 | ...thu ~en | *caus. v.*   | to straighten out, to correct                                                                                                                     |
-| methi~     | *caus. n.*   | correction                                                                                                                                        |
+| methun~    | *caus. n.*   | correction                                                                                                                                        |
 | ~a         | *psv.*       | obeyed, adhered                                                                                                                                   |
 | ...thu ~a  | *psv. caus.* | corrected, straightened out                                                                                                                       |
 | ~an        | *adj.*       | normal, orthodox, regular, conforming, adhering to ..., faithful to ... / direct, efficient, straight, straightforward, blunt / correct, accurate |

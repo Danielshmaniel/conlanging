@@ -10,7 +10,7 @@
 | ~pi        | *quant.*   | all                                     |
 | ~en        | *v.*       | to gather, unify, join together (intr.) |
 | ...thu ~en | *v. caus.* | to gather, unify, join together (tr.)   |
-| methi~     | *caus. n.* | unification, joining                    |
+| methun~    | *caus. n.* | unification, joining                    |
 | ~a         | *psv.*     | joined together                         |
 | ~an        | *adj.*     | unified, complete                       |
 | ~un        | *adv.*     | completely, 100%                        |
