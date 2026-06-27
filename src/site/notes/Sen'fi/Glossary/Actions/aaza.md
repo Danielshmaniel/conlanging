@@ -7,6 +7,9 @@
 | infl. | class | meaning                                                                                                                                   |
 | ----- | ----- | ----------------------------------------------------------------------------------------------------------------------------------------- |
 | ~     | *n.*  | forced action, being made to do sth. / obeying orders, doing someone's bidding, being puppeteered, being controlled, being used as a pawn |
+### Synonyms
+- **een'ksoo'ksu** (obligation, duty)
+- **een'duun'ksu** (negative obligation, forbidden from doing)
 ### Etymology
 | subword | meaning  |
 | ------- | -------- |
