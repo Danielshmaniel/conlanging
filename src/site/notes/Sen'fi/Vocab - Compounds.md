@@ -591,21 +591,21 @@
 |                         | kibon              | majority, most                                  | part + big                                   |
 |                         | kibin              | minority                                        | part + small                                 |
 ### Science
-| glyph | sound              | meaning                                                                                   | combo                                                |
-| ----- | ------------------ | ----------------------------------------------------------------------------------------- | ---------------------------------------------------- |
-|       | gokon              | substance, matter                                                                         | (matter) + thing                                     |
-|       | hin'go             | atom, unit of matter                                                                      | (unit) + (matter)                                    |
-|       | gochen             | chemical, compound, solution, substance                                                   | (matter) + (chemical reaction)                       |
-|       | hin'gochen         | chemical element                                                                          | (unit) + chemical                                    |
-|       | gochen-han'thun'ki | corrosive substance                                                                       | chemical + corrosive                                 |
-|       | lusikava           | alkali                                                                                    | liquid + ash + plant<br><br>(*via Arabic "al-qali"*) |
-|       | luksuvan           | acid, sour substance                                                                      | liquid + sourness                                    |
-|       | pyon'ya-(en/an)    | *n.* reflection (of light)<br><br>*v.* to reflect (light)<br><br>*adj.* reflective, shiny | bounce + light                                       |
-|       | pyon'hefi-(en)     | echo                                                                                      | bounce (back) + sound                                |
-|       | zabye-(en)         | *n.* attraction, bond<br>*v.* to attract                                                  | force + bond                                         |
-|       | zabyechen          | chemical bond                                                                             | attraction + (chemical reaction)                     |
-|       | zabyedon-(en)      | *n.* magnetic force<br>*v.* to magnetically attract                                       | attraction + metal                                   |
-|       | zaksatafye         | friction (resisting force against slipperiness)                                           | force + resistance + slipping                        |
+| glyph | sound           | meaning                                                                                   | combo                                                |
+| ----- | --------------- | ----------------------------------------------------------------------------------------- | ---------------------------------------------------- |
+|       | gokon           | substance, matter, material                                                               | (matter) + thing                                     |
+|       | hin'go          | atom, unit of matter                                                                      | (unit) + (matter)                                    |
+|       | gochen          | chemical, compound, solution, substance                                                   | (matter) + (chemical reaction)                       |
+|       | hin'gochen      | chemical element                                                                          | (unit) + chemical                                    |
+|       | luhan'thun'ki   | corrosive substance i.e. acid or alkali                                                   | liquid + corrosive                                   |
+|       | lusikava        | alkali                                                                                    | liquid + ash + plant<br><br>(*via Arabic "al-qali"*) |
+|       | luksuvan        | acid, sour substance                                                                      | liquid + sourness                                    |
+|       | pyon'ya-(en/an) | *n.* reflection (of light)<br><br>*v.* to reflect (light)<br><br>*adj.* reflective, shiny | bounce + light                                       |
+|       | pyon'hefi-(en)  | echo                                                                                      | bounce (back) + sound                                |
+|       | zabye-(en)      | *n.* attraction, bond<br>*v.* to attract                                                  | force + bond                                         |
+|       | zabyechen       | chemical bond                                                                             | attraction + (chemical reaction)                     |
+|       | zabyedon-(en)   | *n.* magnetic force<br>*v.* to magnetically attract                                       | attraction + metal                                   |
+|       | zaksatafye      | friction (resisting force against slipperiness)                                           | force + resistance + slipping                        |
 ### Space
 
 | glyph                     | sound           | meaning                                                                                                                                  | combo                             |
