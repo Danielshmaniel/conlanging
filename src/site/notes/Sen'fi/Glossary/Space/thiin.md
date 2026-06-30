@@ -1,12 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/sen-fi/glossary/space/thiin/","tags":["radical","Space"],"dg-note-properties":{"keyword":"point of origin","tags":["radical","Space"]}}
+{"dg-publish":true,"permalink":"/sen-fi/glossary/space/thiin/","tags":["radical","semanticization","Space"],"dg-note-properties":{"keyword":"point of origin","tags":["radical","semanticization","Space"]}}
 ---
 
-![[thiin.dark.svg\|80]]
+
 ### Meaning
 | infl. | class | meaning         |
 | ----- | ----- | --------------- |
 | ~     | *n.*  | point of origin |
+### Connotation
+- back
 ### Synonym
 - [[Sen'fi/Glossary/Time/gen\|gen]] (start)
 ### Antonym
