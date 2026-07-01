@@ -6,11 +6,10 @@
 ### Meaning
 | infl.  | class     | meaning  |
 | ------ | --------- | -------- |
+| ~      | *n.*      | pair     |
 | pe ~   | *quant.*  | two      |
 | pe ni~ | *ordinal* | second   |
 | ni~un  | *adv.*    | secondly |
-### Connotation
-- pair
 ### Etymology
 #### Glyph
 From the native "1-4-7" numerical system.

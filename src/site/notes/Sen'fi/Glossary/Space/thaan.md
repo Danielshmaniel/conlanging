@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/sen-fi/glossary/space/thaan/","tags":["radical","semanticization","Space"],"dg-note-properties":{"keyword":"hitting a point","tags":["radical","semanticization","Space"]}}
+{"dg-publish":true,"permalink":"/sen-fi/glossary/space/thaan/","tags":["radical","semanticization","Space"],"dg-note-properties":{"keyword":"hitting a point","tags":["radical","semanticization","Space"],"feature":"Sen'fi/Misc Images/thaan.png"}}
 ---
 
+![thaan.png](/img/user/Sen'fi/Misc%20Images/thaan.png)
 ### Meaning
 | infl. | class | meaning                                                                         |
 | ----- | ----- | ------------------------------------------------------------------------------- |

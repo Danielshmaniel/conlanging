@@ -6,13 +6,12 @@
 ### Meaning
 | infl.  | class     | meaning                         |
 | ------ | --------- | ------------------------------- |
+| ~      | *n.*      | unit                            |
 | pe ~   | *quant.*  | one                             |
 | pe ni~ | *ordinal* | first                           |
 | ~an    | *adj.*    | individual, single, alone, only |
 | ~un    | *adv.*    | only                            |
 | ni~un  | *adv.*    | firstly                         |
-### Connotation
-- unit
 ### Etymology
 #### Glyph
 From the native "1-4-7" numerical system.
