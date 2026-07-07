@@ -18,8 +18,6 @@ Welcome to SEN'FI, a passion project of mine to make an artlang (conlang made fo
 - ### Vocab (tidy)
 	- [[Sen'fi/Radical List (A-Z)\|Radical List (A-Z)]]
 	- [[Sen'fi/Radical List (Tagged)\|Radical List (Tagged)]]
-	- [[Sen'fi/Glossary (A-Z)\|Glossary (A-Z)]]
-	- [[Sen'fi/Glossary (Tagged)\|Glossary (Tagged)]]
 - ### Language rules
 	- [[Sen'fi/Phonotactics & Alphabet\|Phonotactics & Alphabet]]
 	- [[Sen'fi/Grammar & Syntax\|Grammar & Syntax]]
