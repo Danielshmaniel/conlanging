@@ -11,4 +11,4 @@
 | subword  | meaning       |
 | -------- | ------------- |
 | [[Sen'fi/Glossary/Creatures/zi\|zi]]   | winged insect |
-| [[lega\|lega]] | fur           |
+| [[Sen'fi/Excalidraw/Body parts/lega\|lega]] | fur           |

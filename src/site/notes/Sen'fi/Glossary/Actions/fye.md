@@ -27,6 +27,7 @@
 #### Glyph
 - a simplified hand ([[Sen'fi/Glossary/Body parts/te\|te]]) combined with an out-arrow ([[Sen'fi/Glossary/Actions/jon\|jon]]), symbolizing something that is accidentally dropped or slips out of grasp due to awkward movement and fumbling. Yes, this word is related to ==fumbling a baddie== and ==cute klutz archetype== simultaneously😭
 - Vaguely based on 失 (hand/action indicator + downward arrow, showing a slip or loss of footing).
+- 下手 (down-hand) coincidentally means "clumsy, awkward, unskillful" (in comparison to 上手 "skillful"; up-hand)
 #### Sound
 - *a priori:* f=transience, y=movement, e=transition
 - *imitative of:* something wooshing/slipping out of a hand's grasp
