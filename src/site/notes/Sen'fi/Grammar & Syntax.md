@@ -9,7 +9,7 @@
 ## Basic particles
 Particles are postpositions, meaning they go after the word that they mark e.g.
 
->`koqigun'ksun un, meyin wa fu pe we-an wu in'han-en`
+>`koqigun'ksun un, meyin wa fu pe we-an wu jin'han-en`
 >yesterday `un`, I `wa` \[fish `pe` good `an`] `wu` eat `en`
 >yesterday I ate a good fish
 
