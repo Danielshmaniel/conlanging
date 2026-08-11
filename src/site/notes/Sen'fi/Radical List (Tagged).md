@@ -4,6 +4,8 @@
 
 > [!info] Comprehensive list of radicals grouped by category.
 
+> [!caution] Images annoyingly can't load due to a bug out of my control
+
 [[Sen'fi/Radical List (A-Z)\|Sort: Only by A-Z]]
 [[Sen'fi/Glossary (Tagged)\|Show All Words]]
 
