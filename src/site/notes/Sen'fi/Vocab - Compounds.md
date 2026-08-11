@@ -659,9 +659,9 @@
 |       | luksuvan         | acid, sour substance                                                                      | liquid + sourness                                    |
 |       | pyon'ya-(en/an)  | *n.* reflection (of light)<br><br>*v.* to reflect (light)<br><br>*adj.* reflective, shiny | bounce + light                                       |
 |       | pyon'hefi-(en)   | echo                                                                                      | bounce (back) + sound                                |
-|       | zabye-(en)       | *n.* attraction, bond<br>*v.* to attract                                                  | force + bond                                         |
+|       | zabye-(en)       | *n.* attraction, bond<br><br>*v.* to attract                                              | force + bond                                         |
 |       | zabyechen        | chemical bond                                                                             | attraction + (chemical reaction)                     |
-|       | zabyedon-(en)    | *n.* magnetic force<br>*v.* to magnetically attract                                       | attraction + metal                                   |
+|       | zabyedon-(en)    | *n.* magnetic force<br><br>*v.* to magnetically attract                                   | attraction + metal                                   |
 |       | zaksatafye       | friction (resisting force against slipperiness)                                           | force + resistance + slipping                        |
 |       | zaki-(en/an)     | *n.* explosion<br><br>*v.* to explode<br><br>*adj.* explosive                             | force + breaking/destruction                         |
 |       | zathiin-(en)     | *n.* pulling force<br><br>*v.* to pull, tug at                                            | force + (arrow being pulled on a crossbow)           |
