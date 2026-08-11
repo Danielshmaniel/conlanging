@@ -752,6 +752,7 @@
 |       | zhayun'ksun-un               | yesterday                                                                                                                                                  |                         |
 |       | zhayun'ksun pe (*number*) un | (*number*) days ago                                                                                                                                        |                         |
 |       | zhayun'zhin-un               | tomorrow                                                                                                                                                   |                         |
+|       | zhayun'zhin pe (*number*) un | (*number*) days from now                                                                                                                                   |                         |
 |       | zhayun'ta                    | today                                                                                                                                                      | day + moving            |
 |       | zhatsuta                     | tonight                                                                                                                                                    | night + moving          |
 |       | tsuhin                       | January                                                                                                                                                    | (month) + (a number)    |
@@ -766,7 +767,6 @@
 |       | tsujun                       | October                                                                                                                                                    |                         |
 |       | tsujun'hin                   | November                                                                                                                                                   |                         |
 |       | tsujun'fun                   | December                                                                                                                                                   |                         |
-|       | miyun'zhin pe (*number*) un  | (*number*) days from now                                                                                                                                   |                         |
 |       | zha piun ... un              | when                                                                                                                                                       |                         |
 |       | in'zha(piun...un)            | *n.* duration<br><br>*adv.* during, while                                                                                                                  | within + time           |
 |       | zhanon(piun...un)            | before, preceding                                                                                                                                          | time + facing           |
