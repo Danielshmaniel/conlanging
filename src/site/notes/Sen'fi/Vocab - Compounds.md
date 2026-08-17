@@ -194,6 +194,7 @@
 |                           | byoma           | excrement, feces, poo, shit                                                                                                  | filth + body                                                   |
 |                           | byomalu         | urine, pee, piss                                                                                                             | bodily filth + water                                           |
 |                           | lumavo          | tree sap                                                                                                                     | blood + tree                                                   |
+|                           | byeluvo         | resin                                                                                                                        | viscous liquid + tree                                          |
 |                           | byevo           | gum / rubber, latex                                                                                                          | (sticky) semi-solid + tree                                     |
 |                           | byepyon         | gelatinous substance: gelatin, gummy                                                                                         | semi-solid + bouncy                                            |
 |                           | ksun'gon        | edge, cliff                                                                                                                  | end + mountain                                                 |
@@ -201,7 +202,36 @@
 |                           | non'shuri       | nest                                                                                                                         | platform + bird                                                |
 |                           | mon'zivafen     | bee nest, beehive                                                                                                            | structure + bee                                                |
 |                           | maksoqa         | corpse                                                                                                                       | body + inanimacy                                               |
-### Foodstuffs
+### Minerals
+| glyph | sound         | meaning                | combo                        |
+| ----- | ------------- | ---------------------- | ---------------------------- |
+|       | doksoya       | coal, charcoal, carbon | stone + dark                 |
+|       | doyelu        | lapis lazuli           | stone + blue                 |
+|       | doyeva        | jade                   | stone + green                |
+|       | feru-thedon   | iron                   | Ferrum + metal               |
+|       | kalib-thedon  | steel                  | Chalybe + metal              |
+|       | titan-thedon  | titanium               | Titanium + metal             |
+|       | niko-thedon   | nickel                 | Niccolum + metal             |
+|       | stan-thedon   | tin                    | Stannum + metal              |
+|       | alumi-thedon  | aluminium              | Aluminium + metal            |
+|       | aes-thedon    | bronze                 | Aes + metal                  |
+|       | orikal-thedon | brass                  | Orichalcum + metal           |
+|       | kobal-thedon  | cobalt                 | Cobaltum + metal             |
+|       | platin-thedon | platinum               | Platinum + metal             |
+|       | don'yeya      | silver                 | metal + white                |
+|       | don'yeqan'ka  | copper                 | metal + orange               |
+|       | don'nin'bon   | lead                   | metal + weight               |
+|       | don'yeka      | gold                   | metal + yellow               |
+|       | chin'byeka    | obsidian               | crystal + lava               |
+|       | chin'ksotoki  | diamond                | crystal + inability to break |
+|       | chin'yeqan    | ruby                   | crystal + red                |
+|       | chin'yeluma   | garnet                 | crystal + deep red           |
+|       | chin'yeva     | emerald                | crystal + green              |
+|       | chin'yeya     | quartz                 | crystal + white              |
+|       | chin'yelu     | sapphire               | crystal + blue               |
+|       | chin'yeluqan  | amethyst               | crystal + purple             |
+|       | chin'byeluvo  | amber                  | crystal + resin              |
+ ### Foodstuffs
 
 | glyph | sound         | meaning                                                          | combo                        |
 | ----- | ------------- | ---------------------------------------------------------------- | ---------------------------- |
@@ -581,20 +611,22 @@
 |                        | ksebyo-(an/a/en) | *n.* disgust<br><br>*adj.* disgusting<br><br>*psv.* disgusted<br><br>*v.* to be disgusted by                   | hate + filth                   |
 ### Colours
 
-| glyph | sound      | meaning             | combo                   |
-| ----- | ---------- | ------------------- | ----------------------- |
-|       | yeya       | white               | colour + light          |
-|       | yeksoya    | black               | colour + dark           |
-|       | yeluma     | red, blood-red      | colour + blood          |
-|       | yelumaya   | bright red, scarlet | red + bright            |
-|       | yelumaka   | orange              | red + fire              |
-|       | yeka       | yellow              | colour + fire           |
-|       | yekadon    | golden yellow       | yellow + metal          |
-|       | yeva       | green               | colour + plant          |
-|       | yehewi     | blue                | colour + sky            |
-|       | yehewiluma | purple              | blue + blood            |
-|       | yeyaluma   | pink                | colour + bright + blood |
-|       | yego       | brown               | colour + earth          |
+| glyph | sound    | meaning             | combo            |
+| ----- | -------- | ------------------- | ---------------- |
+|       | yeya     | white               | colour + light   |
+|       | yeyazhin | grey                | white + almost   |
+|       | yeksoya  | black               | colour + dark    |
+|       | yeyaqan  | pink                | white + red      |
+|       | yeluma   | deep red, blood-red | colour + blood   |
+|       | yeqan    | red                 | colour + heart   |
+|       | yeqan'ya | scarlet             | red + bright     |
+|       | yeqan'ka | orange              | red + yellow     |
+|       | yeka     | yellow              | colour + fire    |
+|       | yeva     | green               | colour + plant   |
+|       | yehewi   | azure               | colour + sky     |
+|       | yelu     | blue                | colour + (ocean) |
+|       | yeluqan  | purple              | blue + red       |
+|       | yego     | brown               | colour + earth   |
 ### Geometry
 
 | glyph                    | sound              | meaning                                                                                                                                                                              | combo                          |
