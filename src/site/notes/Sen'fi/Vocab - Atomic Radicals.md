@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sen-fi/vocab-atomic-radicals/","tags":["Sen'fi"],"dg-note-properties":{"tags":["Sen'fi"]}}
+{"dg-publish":true,"permalink":"/sen-fi/vocab-atomic-radicals/","dg-note-properties":{"tags":null}}
 ---
 
 ## Concrete

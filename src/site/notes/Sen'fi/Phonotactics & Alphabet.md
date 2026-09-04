@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sen-fi/phonotactics-and-alphabet/","tags":["Sen'fi"],"dg-note-properties":{"tags":["Sen'fi"]}}
+{"dg-publish":true,"permalink":"/sen-fi/phonotactics-and-alphabet/","dg-note-properties":{"tags":null}}
 ---
 
 ## Sound/Loanword Alphabet

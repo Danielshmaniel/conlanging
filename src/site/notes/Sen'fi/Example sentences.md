@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sen-fi/example-sentences/","tags":["Sen'fi"],"dg-note-properties":{"tags":["Sen'fi"]}}
+{"dg-publish":true,"permalink":"/sen-fi/example-sentences/","dg-note-properties":{"tags":null}}
 ---
 
 > [!example] I eat the fish
