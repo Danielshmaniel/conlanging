@@ -1,10 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/sen-fi/radical-list-a-z/","dg-note-properties":{"tags":null}}
+{"dg-publish":true,"permalink":"/sen-fi/radical-list-a-z/","tags":["Sen'fi"],"dg-note-properties":{"tags":["Sen'fi"]}}
 ---
 
 > [!info] Comprehensive list of radicals sorted alphabetically.
-
-> [!caution] Images annoyingly can't load due to a bug out of my control
 
 [[Sen'fi/Radical List (Tagged)\|Sort: By Category]]
 [[Sen'fi/Glossary (A-Z)\|Show All Words]]
