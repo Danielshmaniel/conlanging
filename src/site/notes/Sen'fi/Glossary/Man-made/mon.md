@@ -7,8 +7,8 @@
 | infl. | class  | meaning                                                         |
 | ----- | ------ | --------------------------------------------------------------- |
 | ~     | *n.*   | shelter, cover, refuge;<br>dwelling, house, building, structure |
-| ~en   | *v.*   | to cover                                                        |
-| ~a    | *psv.* | covered                                                         |
+| ~en   | *v.*   | to cover, to give shelter, give refuge, to house                |
+| ~a    | *psv.* | covered, housed                                                 |
 ### Connotation
 - to embrace, to wrap around
 - protection (from the elements -> in general)

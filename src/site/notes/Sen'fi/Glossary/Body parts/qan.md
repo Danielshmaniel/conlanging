@@ -7,6 +7,8 @@
 | infl.      | class        | meaning |
 | ---------- | ------------ | ------- |
 | ~          | *n.*         | heart   |
+### Connotation
+- (literary) centre, core, midst
 ### Etymology
 #### Glyph
 oracle bone script of 心
