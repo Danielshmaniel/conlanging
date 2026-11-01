@@ -11,6 +11,6 @@
 ### Etymology
 | subword | meaning |
 | ------- | ------- |
-| [[Sen'fi/Glossary/Creatures/me\|me]]  | woman   |
+| [[Sen'fi/Glossary/Creatures/bu\|bu]]  | woman   |
 | [[Sen'fi/Glossary/Space/bin\|bin]] | small   |
 Cross-ref. to Japanese 少女 "shoujo"

@@ -9,7 +9,7 @@
 ## Basic particles
 Particles are postpositions, meaning they go after the word that they mark e.g.
 
->`koqigun'ksun un, meyin wa fu pe we-an wu jin'han-en`
+>`tsengunksun un, meyin wa fu pe we-an wu jinhan-en`
 >yesterday `un`, I `wa` \[fish `pe` good `an`] `wu` eat `en`
 >yesterday I ate a good fish
 
@@ -64,7 +64,7 @@ If an adjective chain is composed of only one adjective, `an` may be omitted. e.
 ### Special adjective chains need commas
 When including special adjectives (adjectives with special suffixes, listed later) in an adjective chain, you need to separate the adjectives with a **comma** character to avoid mistakes in parsing. Example:
 
-> `fu pe me thin bon-an'bo, yamigo-an, wa me wu in'han-en'to, me than in'han-atokso ` means "a fish which is bigger than a human, is brown, can eat humans, and is inedible for humans"
+> `fu pe me-thin bon-an'bo, yamigo-an, wa me-wu jinhan-en'to, me-than jinhan-atokso ` means "a fish which is bigger than a human, is brown, can eat humans, and is inedible for humans"
 
 See Relative Clauses if you're confused why one adjective begins with `wa`.
 Also refer to Past Participles for the last adjective.
@@ -85,24 +85,24 @@ Normally adjectives describe the quality of something, however if you replace th
 ### Relative Clauses as Adjectives
 When describing a noun as doing something or having something done to it, begin an verbal adjective with `thu` (agent), `wa` (active) or `wu` (passive) within the adjective chain. As always, separate with commas. e.g.:
 
-> `fu pe yamigo-an, wu fu pe ee wa gavahan-an` = a fish which is brown and was devoured by another fish
+> `fu pe yamigo-an, wu fu pe ee wa gavahan-en` = a fish which is brown and devoured by another fish
 > `fu pe yamigo-an, wa fu pe ee wu gavahan-en` = a fish which is brown and devours another fish
 ### Special Suffixes
 #### Negative
-`-an'kso` = not (adj.)
+`-ankso` = not (adj.)
 (`kso` can be affixed to all the below suffixes)
 #### Comparatives
-`-an'bo` = more (adj.)
-`-an'bi` = less (adj.)
+`-anbo` = more (adj.)
+`-anbi` = less (adj.)
 #### Superlatives
-`-an'boko` = the most (adj.)
-`-an'biko` = the least (adj.)
+`-anboko` = the most (adj.)
+`-anbiko` = the least (adj.)
 #### Excessive
 `-an'on` = too (adj.)
 #### Potential
-`-an'to` = can be (adj); (vrb)-able
+`-anto` = can be (adj); (vrb)-able
 #### Approximate
-`-an'zhin` = almost/kind of (adj)
+`-anzhin` = almost/kind of (adj)
 ## Possession
 To show possession or composition you use `pi`. You start with the "head noun", and then the next words are called "modifiers". A chain of `pi` nest each other. In the case that you want to group multiple words as one modifier, `o` is used to join said words within the `pi`. Example:
 
@@ -113,10 +113,10 @@ To show possession or composition you use `pi`. You start with the "head noun", 
 `pin` is used like `pi` when a whole noun chain needs to be possessed by a noun. Example:
 
 >Correct use of `pin`:
->`len'kon'mi pin (mi-en'kon pi vafen)` means "phantasmagoria of flower-viewing"
+>`lenkonmi pin (mi-enkon pi vafen)` means "phantasmagoria of flower-viewing"
 
 >If `pi` was used instead:
->`(len'kon'mi pi mi-en'kon) pi vafen` would mean "viewing-phantasmagoria of flower"
+>`(lenkonmi pi mi-enkon) pi vafen` would mean "viewing-phantasmagoria of flower"
 ## Plurality
 By default, words are singular (unless quantified already)
 > e.g. `me` means "person"
@@ -124,13 +124,13 @@ By default, words are singular (unless quantified already)
 To show plurality, monosyllabic nouns such as `me` are pluralised by reduplication:
 >`meme` means "people"
 
-*Side-note:* `tso` may be used as a pluralising suffix for monosyllabic nouns too, such as `fan'tso`
+*Side-note:* `tso` may be used as a pluralising suffix for monosyllabic nouns too, such as `fantso`
 ### In polysyllabic nouns
 Polysyllabic nouns with plurality make use of the suffix `tso` as a shortcut to reduplication of a whole noun:
 
->`meksin` (swordsman) -> `meksin'tso` (swordsmen)
+>`meksin` (swordsman) -> `meksintso` (swordsmen)
 
-This is because `meksin'tso` is shorter to say than `meksin'meksin`
+This is because `meksintso` is shorter to say than `meksin-meksin`
 
 *Side-note:* During the word creation process `tsa` can be used to compound plural nouns with other words, in order to reduplicate the sub-word and not the whole word. No examples yet, but it's just in case.
 
@@ -186,116 +186,116 @@ The infinitive or present tense, used for
 2. connective verbs (in verb chains),
 3. verbs with an implied tense due to an adverbial
 
-|          | Affirmative | Negative   |
-| -------- | ----------- | ---------- |
-| verb: mi | `mien`      | `mien'kso` |
-| meaning  | see         | not see    |
+|          | Affirmative | Negative  |
+| -------- | ----------- | --------- |
+| verb: mi | `mien`      | `mienkso` |
+| meaning  | see         | not see   |
 ### Continuous
-`-en'len`
+`-enlen`
 A type of present tense used for currently ongoing actions
-
-|          | Affirmative | Negative       |
-| -------- | ----------- | -------------- |
-| verb: mi | `mien'len`  | `mien'len'kso` |
-| meaning  | seeing      | not seeing     |
-### Imperative
-`-en'hya`
-Used for commanding or requesting from the listener
-
-|          | Affirmative | Negative      |
-| -------- | ----------- | ------------- |
-| verb: mi | `mien'hya`  | `mien'hyakso` |
-| meaning  | look!       | don't look!   |
-### Potential
-`en'to`
-Used for declaring one's ability to do something
 
 |          | Affirmative | Negative     |
 | -------- | ----------- | ------------ |
-| verb: mi | `mien'to`   | `mien'tokso` |
-| meaning  | can see     | cannot see   |
+| verb: mi | `mienlen`   | `mienlenkso` |
+| meaning  | seeing      | not seeing   |
+### Imperative
+`-enhya`
+Used for commanding or requesting from the listener
+
+|          | Affirmative | Negative     |
+| -------- | ----------- | ------------ |
+| verb: mi | `mienhya`   | `mienhyakso` |
+| meaning  | look!       | don't look!  |
+### Potential
+`ento`
+Used for declaring one's ability to do something
+
+|          | Affirmative | Negative    |
+| -------- | ----------- | ----------- |
+| verb: mi | `miento`    | `mientokso` |
+| meaning  | can see     | cannot see  |
 ### Obligatory
 #### Positive
-`en'ksoun'ksu`
+`enksounksu`
 Used for actions people must do (to avoid trouble); duties, obligations
 #### Negative
-`en'dun'un'ksu`
+`endun'unksu`
 Used for actions people must NOT do
 
-|          | Affirmative      | Negative          |
-| -------- | ---------------- | ----------------- |
-| verb: mi | `mien'ksoun'ksu` | `mien'dun'un'ksu` |
-| meaning  | must see         | must not see      |
+|          | Affirmative    | Negative        |
+| -------- | -------------- | --------------- |
+| verb: mi | `mienksounksu` | `miendun'unksu` |
+| meaning  | must see       | must not see    |
 ### Favours
-`-en'jen`
+`-enjen`
 Experimental, inspired by Japanese grammar. Conveys that an action was done for somenone else's sake.
 
-> `meda wa (meyin than) kon'on wu mi-en'jen` = he does (me) the favour of seeing it
-> `meda wa (meyin than) kon'on wu mi-en'jen'kso` = he does (me) the favour of not seeing it
+> `meda wa (meyin than) kon'on wu mi-enjen` = he does (me) the favour of seeing it
+> `meda wa (meyin than) kon'on wu mi-enjenkso` = he does (me) the favour of not seeing it
 
 Adding a `thu` conveys that you got somenone to do something for you:
 
-> `meyin thu meda wa (meyin than) kon'on wu mi-en'jen` = i get him to see it (for me); i have it seen (for me) by him.
+> `meyin thu meda wa (meyin than) kon'on wu mi-enjen` = i get him to see it (for me); i have it seen (for me) by him.
 #### Alternative
 One might ask if you can avoid using this favour suffix. This is possible using `thii pi meyin than` ("for my sake") or `hen pi meyin than` ("for my gain/benefit").
 
 > `meda wa [hen/thii] pi meyin than kon'on wu mi-en` = he sees it for my sake
-> `meda wa [hen/thii] pi meyin than kon'on wu mi-en'kso` = he doesn't see it, for my sake
+> `meda wa [hen/thii] pi meyin than kon'on wu mi-enkso` = he doesn't see it, for my sake
 ### Past
-`-en'ksun`
+`-enksun`
 Used for finished actions
 
-|          | Affirmative | Negative        |
-| -------- | ----------- | --------------- |
-| verb: mi | `mien'ksun` | `mien'ksun'kso` |
-| meaning  | saw         | didn't see      |
+|          | Affirmative | Negative      |
+| -------- | ----------- | ------------- |
+| verb: mi | `mienksun`  | `mienksunkso` |
+| meaning  | saw         | didn't see    |
 ### Future
-`-en'zhin`
+`-enzhin`
 Used for actions yet to be started
 
-|          | Affirmative | Negative        |
-| -------- | ----------- | --------------- |
-| verb: mi | `mien'zhin` | `mien'zhin'kso` |
-| meaning  | will see    | will not see    |
+|          | Affirmative | Negative      |
+| -------- | ----------- | ------------- |
+| verb: mi | `mienzhin`  | `mienzhinkso` |
+| meaning  | will see    | will not see  |
 ## Causative verbs
 ### Normal causatives
  `thu` marks the agent
  `wa` marks the subject (patient)
  
 >*AGENT* thu *SUBJECT* wa *VERB*
->`meda thu mebu wa ksun'qa-en'ksun`
->because of `meda` -> `mebu` died
->`meda` made `mebu` die
->`meda` killed `mebu`
+>`meda thu mebu wa mi-enksun`
+>because of `meda` -> `mebu` saw
+>`meda` made `mebu` see
+>`meda` showed `mebu`
 
 ### Double causatives
 i.e. an agent has their own agent
 
 > *AGENT2* thu *AGENT1* thu *SUBJECT* wa *VERB*
-> `meme thu meda thu mebu wa ksun'qa-en'ksun
-> because of `meme` -> because of `meda` -> `mebu` died
-> `meme` made `meda` make `mebu` die
-> `meme` made `meda` kill `mebu`
+> `meme thu meda thu mebu wa mi-enksun
+> because of `meme` -> because of `meda` -> `mebu` saw
+> `meme` made `meda` make `mebu` see
+> `meme` made `meda` show `mebu`
 
 ### Self-causatives
 i.e. doing something to oneself; being one's own agent and patient
 
 >*AGENT* thuwa *VERB*
->`meda thuwa ksun'qa-en'ksun`
->because of `meda`, `meda` died
->`meda` killed oneself
+>`meda thuwa mi-enksun`
+>because of `meda`, `meda` saw
+>`meda` showed oneself
 
 ## Verbal nouns
 When the `en` of most verbs is dropped they turn into nouns.
 `methi` is a prefix denoting that a verbal noun is causative.
 
->`in'te-en` means "to have"
->dropping the `en` gives `in'te`, meaning "having"
->while, in the causative noun form, `methi-in'te` means "giving"
+>`inte-en` means "to have"
+>dropping the `en` gives `inte`, meaning "having"
+>while, in the causative noun form, `methun'inte` means "giving"
 
 In some cases, `kon` is a suffix added to some `en` verbs to nominalise them (in the case where dropping the `en` would change the meaning of the verb root). e.g.:
 
 >(`mi` by itself usually means "eye")
 >`mi-en` means "to see"
->`mi-en'kon` means "sight"
+>`mi-enkon` means "sight"
 
