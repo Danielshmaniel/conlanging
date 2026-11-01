@@ -151,16 +151,16 @@ e.g. "The second fish" -> `fu pe nifun`
 
 >*QUANTIFIER* `pi` *NOUN*
 
-| quantifier | meaning                 |
-| ---------- | ----------------------- |
-| *bi*       | few, little             |
-| *bo*       | many, much              |
-| *nishi*    | some, how many/how much |
-| *ko*       | all                     |
-| *eeko*     | any                     |
-| *kso*      | no, none                |
-| *in'hyaqa* | enough                  |
-| *on'hyaqa* | too many/too much       |
+| quantifier | meaning           |
+| ---------- | ----------------- |
+| *bi*       | few, little       |
+| *bo*       | many, much        |
+| *nishi*    | some              |
+| *ko*       | all               |
+| *eeko*     | any               |
+| *kso*      | no, none          |
+| *in'hyaqa* | enough            |
+| *on'hyaqa* | too many/too much |
 e.g. "All the fish" -> `ko pi fu`
 
 ## Demonstrative determiners
