@@ -4,22 +4,22 @@
 
 ## Greetings & Salutations
 
-| phrase                       | meaning                                                                         | combo                                      |
-| ---------------------------- | ------------------------------------------------------------------------------- | ------------------------------------------ |
-| jamime                       | greetings, hello, hey, hi                                                       | word + seeing + person                     |
-| yunwiwe                      | good morning                                                                    | sunrise + good                             |
-| yunwe                        | good day                                                                        | (day) + good                               |
-| yunwowe                      | good afternoon                                                                  | sunset + good                              |
-| tsuwe                        | good evening / good night                                                       | (night) + good                             |
-| mimezhin                     | see you later, until we meet again                                              | seeing + person + soon                     |
-| (meyin wa) tajon-enlen       | I'll take my leave, I'm off now, I'll let you be, I must get going now; goodbye | \[I'm\] + leaving                          |
-| tajonwe                      | have a safe trip; bon voyage; goodbye                                           | departure + good                           |
-| wema (wu inte-enhya)         | take care, salutations                                                          | health + \[have!]                          |
-| (menon wa) we-an unshi?      | how are you?<br>are you doing okay?                                             | \[you (subj)] + okay + or what             |
-| (menon wa) shiho un duun-en? | how are you?<br>how do you do?<br>how are you doing?<br>what's up?              | \[you (subj)] + in what way (context) + be |
-| lo-un mi-enksunkso           | long time no see                                                                | longly + didn't see                        |
-| we-un tajin-enhya            | welcome                                                                         | well + enter/come!                         |
-| lenduun wu tenman-enhya      | enjoy your stay, make yourself comfortable                                      | stay (obj) + enjoy!                        |
+| phrase                       | meaning                                                            | combo                                      |
+| ---------------------------- | ------------------------------------------------------------------ | ------------------------------------------ |
+| jamime                       | greetings, hello, hey, hi                                          | word + seeing + person                     |
+| yunwiwe                      | good morning                                                       | sunrise + good                             |
+| yunwe                        | good day                                                           | (day) + good                               |
+| yunwowe                      | good afternoon                                                     | sunset + good                              |
+| tsuwe                        | good evening / good night                                          | (night) + good                             |
+| mimezhin                     | see you later, until we meet again                                 | seeing + person + soon                     |
+| (meyin wa) tajon-enlen       | I'll take my leave, I'm off now, I must get going now; goodbye     | \[I'm\] + leaving                          |
+| tajonwe                      | have a safe trip; bon voyage; goodbye                              | departure + good                           |
+| wema (wu inte-enhya)         | take care, salutations                                             | health + \[have!]                          |
+| (menon wa) we-an unshi?      | how are you?<br>are you doing okay?                                | \[you (subj)] + okay + or what             |
+| (menon wa) shiho un duun-en? | how are you?<br>how do you do?<br>how are you doing?<br>what's up? | \[you (subj)] + in what way (context) + be |
+| lo-un mi-enksunkso           | long time no see                                                   | longly + didn't see                        |
+| we-un tajin-enhya            | welcome                                                            | well + enter/come!                         |
+| lenduun wu tenman-enhya      | enjoy your stay, make yourself comfortable                         | stay (obj) + enjoy!                        |
 ## Other
 | phrase   | meaning      | combo           |
 | -------- | ------------ | --------------- |
