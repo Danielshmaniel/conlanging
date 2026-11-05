@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sen-fi/vocab-compounds/","tags":["Senfi"],"dg-note-properties":{"tags":["Senfi"]}}
+{"dg-publish":true,"permalink":"/sen-fi/vocab-compounds/","tags":["Senfi","Sen'fi"],"dg-note-properties":{"tags":["Senfi","Sen'fi"]}}
 ---
 
 ## Concrete

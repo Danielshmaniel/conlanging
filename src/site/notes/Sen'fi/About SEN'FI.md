@@ -71,6 +71,6 @@ This may disappoint my fellow conlang nerds but for the time being the language 
 	- `e` ("or"), likewise, -> `ee`, meaning "alternative".
 	- `shi` ("what"), likewise, -> `shii`, meaning "unknown".
 	- `dun` ("on, at"), likewise, -> `duun`, meaning "existence".
-	This aims to prevent confusing a grammatical particle with a semantic noun. In the conlang which inspired my conlang, Toki Pona, there is controversial minor use of `anu` ("or") to mean "choice"; I aim to mirror this and offer a solution in my equivalent. Controversial "nasin" aside, Toki Pona already has particles which also act as nouns, such as `lon`, meaning either "on, at" or "existence".
+	This aims to prevent confusing a grammatical particle with a semantic noun. In the conlang which inspired my conlang, Toki Pona, there is controversial minor use of "anu" ("or") to mean "choice"; I aim to mirror this and offer a solution in my equivalent. Controversial "nasin" aside, Toki Pona already has particles which also act as nouns, such as "lon", meaning either "on, at" or "existence".
 ## Etymological noun and modifier
 - Toki Pona head nouns: e.g. "wing" is "arm of bird" not "bird arm"
