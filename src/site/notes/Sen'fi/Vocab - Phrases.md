@@ -7,6 +7,7 @@
 | phrase                       | meaning                                                            | combo                                      |
 | ---------------------------- | ------------------------------------------------------------------ | ------------------------------------------ |
 | jamime                       | greetings, hello, hey, hi                                          | word + seeing + person                     |
+| mimewe                       | pleased/nice to meet you, nice seeing you                          | meeting + good                             |
 | yunwiwe                      | good morning                                                       | sunrise + good                             |
 | yunwe                        | good day                                                           | (day) + good                               |
 | yunwowe                      | good afternoon                                                     | sunset + good                              |

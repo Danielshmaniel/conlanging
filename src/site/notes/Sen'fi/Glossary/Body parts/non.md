@@ -14,7 +14,7 @@
 #### Glyph
 oracle bone script of 面 (mask); pictograph of a face.
 #### Sound
-- Related to [[Sen'fi/Glossary/Body parts/no\|no]] (head)
+- Related to [[Sen'fi/Glossary/Body parts/no\|Sen'fi/Glossary/Body parts/no]] (head)
 - "Noh" in Japan is a theatric art using masks.
 #### Note
 Amusingly, the Latin letters in "non" resemble a face or emoticon (two closed eyes with an open mouth in the middle).
