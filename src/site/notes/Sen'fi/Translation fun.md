@@ -82,7 +82,7 @@ BTW, i put a tiny bit of touhou references in my words, such as `ban` (boundary)
 | Locked Girl ~ the Girl's Sealed Room     | bu pe ban-a ~ hu pe ban-a pi buzhin                                     |                                                                                           |
 | The Maid and the Pocket Watch of Blood   | buten-mon o tonzha pi luma                                              |                                                                                           |
 | Lunar Clock ~ Luna Dial                  | tonzha pe tsu ~ Luna-the tonnitsen                                      | lunar timepiece ~ "Luna" round measuring instrument                                       |
-| The Young Descendant of Tepes            | mezhalen pe pya pi Tepesh-the                                           |                                                                                           |
+| The Young Descendant of Tepes            | mezhanon pe pya pi Tepesh-the                                           |                                                                                           |
 | Septette for a Dead Princess             | pyaburo pe ksunqa than Septet-the manfi                                 |                                                                                           |
 | The Centennial Festival of Magical Girls | mimeman pi tsen'yun pe hyan pin buzashii-tso                            | fun gathering of 100 solar cycles of magical girls                                        |
 | U.N. Owen was Her?                       | mebu wa Yu En Owen-the unshi?                                           |                                                                                           |
