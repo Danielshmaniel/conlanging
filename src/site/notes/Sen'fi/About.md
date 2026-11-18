@@ -17,8 +17,8 @@ _Senfian cave art of the portal goddess Yukaritheqyabu_
 	- [[Sen'fi/Vocab - Compounds\|Compounds]]
 	- [[Sen'fi/Vocab - Phrases\|Phrases]]
 - ### Vocab (tidy)
-	- [[Sen'fi/Glossary/Radical List (A-Z)\|Radical List (A-Z)]]
-	- [[Sen'fi/Glossary/Radical List (Tagged)\|Radical List (Tagged)]]
+	- [[Sen'fi/Radical List (A-Z)\|Radical List (A-Z)]]
+	- [[Sen'fi/Radical List (Tagged)\|Radical List (Tagged)]]
 - ### Language rules
 	- [[Sen'fi/Phonotactics & Alphabet\|Phonotactics & Alphabet]]
 	- [[Sen'fi/Grammar & Syntax\|Grammar & Syntax]]
